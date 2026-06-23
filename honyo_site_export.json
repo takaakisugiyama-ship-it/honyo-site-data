@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-23T06:53:44.765983+00:00",
+  "generated_at": "2026-06-23T14:24:36.930233+00:00",
   "schema_version": 1,
-  "count": 110,
+  "count": 126,
   "affiliate_amazon_tag": "otona_radio-22",
   "notes": "summary_md=description.md散文(Web掲載可)。生OCR全文は非出力(著作権)。publisher/ISBN13/読了時間はパイプラインに無し。cover_scanはKindleウィンドウ全体スクショ縮小。",
   "books": [
@@ -85,13 +85,18 @@
           "video_id": "2pMAJYuMgPk",
           "url": "https://youtu.be/2pMAJYuMgPk",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-26T14:00:00Z",
           "uploaded_at": "2026-06-19T12:57:01.534382+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T12:57:03.339654+00:00"
+      "updated_at": "2026-06-23T07:12:32.944307+00:00"
     },
     {
       "asin": "4198656452",
@@ -176,13 +181,18 @@
           "video_id": "1yG5n4Tkiu0",
           "url": "https://youtu.be/1yG5n4Tkiu0",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-24T07:00:00Z",
           "uploaded_at": "2026-06-19T12:58:51.366483+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T12:58:52.539970+00:00"
+      "updated_at": "2026-06-23T07:11:51.283708+00:00"
     },
     {
       "asin": "4198659710",
@@ -275,6 +285,11 @@
           "uploaded_at": "2026-06-17T10:34:30.549228+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": "2026-06-17T10:44:34.570203+00:00"
@@ -353,7 +368,7 @@
           "video_id": "V6-081yWZNg",
           "url": "https://youtu.be/V6-081yWZNg",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-28T12:00:00Z",
           "uploaded_at": "2026-06-19T12:55:39.341032+00:00"
         },
         {
@@ -366,9 +381,14 @@
           "uploaded_at": "2026-06-09T21:27:54.974286+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T12:55:40.580689+00:00"
+      "updated_at": "2026-06-23T07:12:55.047432+00:00"
     },
     {
       "asin": "456982773X",
@@ -449,13 +469,18 @@
           "video_id": "5sSlbK27jOQ",
           "url": "https://youtu.be/5sSlbK27jOQ",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-24T02:00:00Z",
           "uploaded_at": "2026-06-19T12:56:46.292485+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:06:26.296260+00:00"
+      "updated_at": "2026-06-23T07:11:46.422597+00:00"
     },
     {
       "asin": "4791626222",
@@ -540,13 +565,18 @@
           "video_id": "03KAsti51Z4",
           "url": "https://youtu.be/03KAsti51Z4",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-27T14:00:00Z",
           "uploaded_at": "2026-06-19T12:55:39.050699+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:06:40.225191+00:00"
+      "updated_at": "2026-06-23T07:12:44.974990+00:00"
     },
     {
       "asin": "4799109707",
@@ -631,13 +661,18 @@
           "video_id": "RIsCGTO5N-0",
           "url": "https://youtu.be/RIsCGTO5N-0",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-25T02:00:00Z",
           "uploaded_at": "2026-06-19T13:08:16.823380+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:08:17.539536+00:00"
+      "updated_at": "2026-06-23T07:11:57.763337+00:00"
     },
     {
       "asin": "4799112910",
@@ -726,13 +761,18 @@
           "video_id": "B-EorgbxFR0",
           "url": "https://youtu.be/B-EorgbxFR0",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-24T04:00:00Z",
           "uploaded_at": "2026-06-19T13:05:30.346913+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:05:31.094907+00:00"
+      "updated_at": "2026-06-23T07:11:49.010388+00:00"
     },
     {
       "asin": "4799113216",
@@ -821,13 +861,18 @@
           "video_id": "c1DIqpMRoVU",
           "url": "https://youtu.be/c1DIqpMRoVU",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-24T09:00:00Z",
           "uploaded_at": "2026-06-19T13:07:00.783737+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:07:01.466455+00:00"
+      "updated_at": "2026-06-23T07:11:53.279577+00:00"
     },
     {
       "asin": "4799320378",
@@ -916,6 +961,11 @@
           "uploaded_at": "2026-06-17T13:53:55.449416+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": "2026-06-17T23:19:11.541644+00:00"
@@ -995,13 +1045,18 @@
           "video_id": "Guwdtsw91_k",
           "url": "https://youtu.be/Guwdtsw91_k",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-24T14:00:00Z",
           "uploaded_at": "2026-06-19T13:07:30.204799+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:07:31.273680+00:00"
+      "updated_at": "2026-06-23T07:11:55.536930+00:00"
     },
     {
       "asin": "4815622973",
@@ -1082,13 +1137,18 @@
           "video_id": "isqWZU-7wt4",
           "url": "https://youtu.be/isqWZU-7wt4",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-25T03:00:00Z",
           "uploaded_at": "2026-06-19T13:08:58.082292+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:09:06.614735+00:00"
+      "updated_at": "2026-06-23T07:11:59.763428+00:00"
     },
     {
       "asin": "4837988059",
@@ -1173,13 +1233,18 @@
           "video_id": "_Hr91b3kv1s",
           "url": "https://youtu.be/_Hr91b3kv1s",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T12:00:00Z",
           "uploaded_at": "2026-06-19T13:17:22.591616+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:17:24.171127+00:00"
+      "updated_at": "2026-06-23T07:13:08.180410+00:00"
     },
     {
       "asin": "4837988806",
@@ -1268,6 +1333,11 @@
           "uploaded_at": "2026-06-17T11:31:56.051150+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": "2026-06-17T12:41:58.323686+00:00"
@@ -1351,13 +1421,18 @@
           "video_id": "JWll8sszfQE",
           "url": "https://youtu.be/JWll8sszfQE",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-28T04:00:00Z",
           "uploaded_at": "2026-06-19T13:16:17.418530+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:16:17.925564+00:00"
+      "updated_at": "2026-06-23T07:12:49.025449+00:00"
     },
     {
       "asin": "B00799V39C",
@@ -1446,13 +1521,42 @@
           "video_id": "y_0OwPQZHlg",
           "url": "https://youtu.be/y_0OwPQZHlg",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-25T04:00:00Z",
           "uploaded_at": "2026-06-19T13:17:22.815882+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:06:18.617771+00:00"
+      "updated_at": "2026-06-23T07:12:02.317165+00:00"
+    },
+    {
+      "asin": "B009UVJQMS",
+      "slug": "b009uvjqms",
+      "title_book": "フリー ―＜無料＞からお金を生みだす新戦略",
+      "title_video": "フリー ―＜無料＞からお金を生みだす新戦略",
+      "author": null,
+      "publisher": null,
+      "genre": "お金",
+      "amazon_url": "https://www.amazon.co.jp/dp/B009UVJQMS?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B009UVJQMS.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": null
     },
     {
       "asin": "B00B42SX70",
@@ -1537,13 +1641,18 @@
           "video_id": "LN7eEbOuFZE",
           "url": "https://youtu.be/LN7eEbOuFZE",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-30T09:00:00Z",
           "uploaded_at": "2026-06-19T13:19:42.160964+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": "2026-06-19T13:19:42.727354+00:00"
+      "updated_at": "2026-06-23T07:13:19.021892+00:00"
     },
     {
       "asin": "B00IJ18JGE",
@@ -1575,13 +1684,18 @@
           "video_id": "_fIRKg52f3c",
           "url": "https://youtu.be/_fIRKg52f3c",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T02:00:00Z",
           "uploaded_at": "2026-06-19T13:20:42.901319+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:20:44.438288+00:00"
+      "updated_at": "2026-06-23T07:12:59.594243+00:00"
     },
     {
       "asin": "B00JJAVNRG",
@@ -1665,6 +1779,53 @@
           "uploaded_at": "2026-06-19T10:41:54.436986+00:00"
         }
       ],
+      "excerpt": "今枝昌宏『ビジネスモデルの教科書』を要約します。同じような商品なのに一つの会社だけが抜け出すのはなぜか。儲けの仕組みを「型」として見る視点を、ネットワーク効果を入口にやさしく整理します。",
+      "article_category": "ビジネス",
+      "article_tags": [
+        "ビジネスモデル",
+        "経営戦略",
+        "ネットワーク効果",
+        "儲けの仕組み",
+        "今枝昌宏"
+      ],
+      "reading_time": 2,
+      "article": [
+        {
+          "heading": "この本の要点",
+          "body": "今枝昌宏さんの『ビジネスモデルの教科書』は、会社の強さを「商品の良し悪し」だけで見る癖から離れることをすすめます。本書は、世の中の儲け方には、いくつかの繰り返される「型」があると説きます。同じような商品やサービスなのに、なぜか一つの会社だけが抜け出していく。その理由は、才能や運ではなく、稼ぐ仕組みの違いにあります。本書はその型を整理し、どこで稼いでいるのかを見抜く目を養うことを目的にしています。"
+        },
+        {
+          "heading": "本書の立ち位置と狙い",
+          "body": "本書は、成功したビジネスモデルを三十一のパターンとしてカタログのように紹介します。百社以上の実例と図解を添え、抽象論で終わらせない構成が特徴です。著者の今枝昌宏さんは、経営戦略を「見る目」と「考える力」として身につけてほしいと述べます。つまり、答えを暗記するのではなく、目の前の会社を自分で読み解く視点を渡そうとしています。版元は東洋経済新報社で、二〇一四年に刊行された一冊です。"
+        },
+        {
+          "heading": "強さは商品ではなく集まった客にある",
+          "body": [
+            "強さの正体が商品の質ではない場合があると本書は指摘する",
+            "客が多い場所ほど、新しい客をさらに引き寄せていく",
+            "売り手は買い手の多い場所へ、買い手は品ぞろえの多い場所へ向かう",
+            "一度こうした循環が生まれると後発は追いつきにくくなる",
+            "「他の客がすでにそこにいる」こと自体が魅力になると説く"
+          ]
+        },
+        {
+          "heading": "ネットワーク効果という入口",
+          "body": "本書はこの現象に名前を与えます。サービスやモノの利用者が増えることで、その価値が高まることをネットワーク効果と呼ぶと述べます。商品そのものは何も変わっていないのに、使う人が増えるほど価値がふくらんでいく点が肝心です。本書には、あるネットオークションが規模を超えてから有料化し、別の会社が無料で客を奪おうとしたが、客の集まりの魅力が無料という条件を上回り失敗した、という例が紹介されています。値段では崩せない強さがあると示す事例です。"
+        },
+        {
+          "heading": "こんな人におすすめ",
+          "body": [
+            "経営や戦略の本を、最初の章で閉じてしまった人",
+            "なぜあの会社が儲かるのか言葉にできず気になる人",
+            "事例から実践的にビジネスの見方を学びたい人",
+            "副業や日々使うサービスの仕組みに関心がある人"
+          ]
+        },
+        {
+          "heading": "まとめと最初の一歩",
+          "body": "本書が渡してくれるのは、答えそのものより「どこで稼いでいるか」を問う視点です。まずよく使うサービスや会社を一つ思い浮かべ、商品が良いから強いのか、それとも客がすでに集まっているから強いのかを問い直してみてください。ただし本書は、型は出発点であって万能の保証ではないとも釘を刺します。それでも一つの型を知るだけで、世の中の見え方は静かに変わり始めます。今枝昌宏さんの『ビジネスモデルの教科書』は、その最初の一歩を支えてくれます。"
+        }
+      ],
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -1673,7 +1834,7 @@
       "asin": "B00JTWK2I0",
       "slug": "b00jtwk2i0",
       "title_book": "「イベント実務」がよくわかる本",
-      "title_video": "「イベント実務」がよくわかる本",
+      "title_video": "【サクッと要約】「イベント実務」がよくわかる本｜「イベント実務」がよくわかる本——はじめての人のため",
       "author": "「イベント実務」がよくわかる本",
       "publisher": null,
       "genre": "マネジメント",
@@ -1690,13 +1851,18 @@
           "video_id": "Ol-8fQl0VQE",
           "url": "https://youtu.be/Ol-8fQl0VQE",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-03T09:00:00Z",
           "uploaded_at": "2026-06-22T07:41:14.753275+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:13:57.987211+00:00"
     },
     {
       "asin": "B00MVM2EPE",
@@ -1793,13 +1959,18 @@
           "video_id": "QLy53arTO40",
           "url": "https://youtu.be/QLy53arTO40",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-26T04:00:00Z",
           "uploaded_at": "2026-06-19T13:30:57.575500+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:31:00.278380+00:00"
+      "updated_at": "2026-06-23T07:12:15.802289+00:00"
     },
     {
       "asin": "B00RUPCU42",
@@ -1884,7 +2055,7 @@
           "video_id": "lOt2DDlYS3o",
           "url": "https://youtu.be/lOt2DDlYS3o",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-27T09:00:00Z",
           "uploaded_at": "2026-06-19T13:31:46.609682+00:00"
         },
         {
@@ -1897,15 +2068,20 @@
           "uploaded_at": "2026-06-17T13:54:49.068501+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-20T11:45:34.312957+00:00"
+      "updated_at": "2026-06-23T07:12:40.585951+00:00"
     },
     {
       "asin": "B00SKB0PU6",
       "slug": "b00skb0pu6",
       "title_book": "サクッと読める「財務諸表」入門 会社の状態、そして未来のヒントがわかる！ お茶で",
-      "title_video": "サクッと読める「財務諸表」入門 会社の状態、そして未来のヒントがわかる！ お茶で",
+      "title_video": "【サクッと要約】サクッと読める「財務諸表」入門 会社の状態、そして未来のヒントがわかる！｜決算書を読む4つの勘所",
       "author": "サクッと読める「財務諸表」入門 会社の状態、そして未来のヒントがわかる！",
       "publisher": null,
       "genre": "お金",
@@ -1922,19 +2098,24 @@
           "video_id": "3tHQKv-dOtI",
           "url": "https://youtu.be/3tHQKv-dOtI",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-04T02:00:00Z",
           "uploaded_at": "2026-06-22T07:42:05.553022+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:14:04.015169+00:00"
     },
     {
       "asin": "B00WHUP7UE",
       "slug": "b00whup7ue",
       "title_book": "はじめよう！ 要件定義 ～ビギナーからベテランまで",
-      "title_video": "はじめよう！ 要件定義 ～ビギナーからベテランまで",
+      "title_video": "【サクッと要約】はじめよう！ 要件定義 ～ビギナーからベテランまで｜「これでOK」を先に言葉にする、合意形成のすべて",
       "author": "はじめよう！ 要件定義 ～ビギナーからベテランまで",
       "publisher": null,
       "genre": "教養",
@@ -1951,19 +2132,24 @@
           "video_id": "k572kCgZy5s",
           "url": "https://youtu.be/k572kCgZy5s",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-30T14:00:00Z",
           "uploaded_at": "2026-06-22T07:42:55.352166+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:13:23.180687+00:00"
     },
     {
       "asin": "B016JPN8SA",
       "slug": "b016jpn8sa",
       "title_book": "「儲かる会社」の財務諸表～48の実例で身につく経営力・会計力～ (光文社新書)",
-      "title_video": "「儲かる会社」の財務諸表～48の実例で身につく経営力・会計力～ (光文社新書)",
+      "title_video": "【サクッと要約】「儲かる会社」の財務諸表～48の実例で身につく経営力・会計力～｜大きさ・大きさ・利益の三つで、会社の裏側",
       "author": "「儲かる会社」の財務諸表～48の実例で身につく経営力・会計力～",
       "publisher": null,
       "genre": "経営",
@@ -1980,13 +2166,18 @@
           "video_id": "w5wyX1mDImc",
           "url": "https://youtu.be/w5wyX1mDImc",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-01T07:00:00Z",
           "uploaded_at": "2026-06-22T07:43:46.521459+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:13:29.900116+00:00"
     },
     {
       "asin": "B018799NN0",
@@ -2066,6 +2257,11 @@
           "uploaded_at": "2026-06-19T10:43:53.632484+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": false,
       "raw_type": null,
       "updated_at": null
@@ -2126,6 +2322,53 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:38:54.411909+00:00"
+        }
+      ],
+      "excerpt": "フランスの哲学者アランによる古典『アランの幸福論』を要約します。気分は意志でなく動作でつくるという視点から、上機嫌を技術として育てる考え方をやさしく紹介します。",
+      "article_category": "教養・サイエンス",
+      "article_tags": [
+        "幸福論",
+        "アラン",
+        "上機嫌",
+        "感情",
+        "習慣"
+      ],
+      "reading_time": 3,
+      "article": [
+        {
+          "heading": "この本の要点",
+          "body": "『アランの幸福論』は、フランスの哲学者アランが暮らしの知恵を書きためた古典で、世界三大幸福論の一冊として約百年読み継がれています。本書の核心は、感情は頭で考えても止められないという一点にあります。落ち込みや不安は意志でねじ伏せられない一方、身体は自分で動かせます。だから、原因を考え込むより先にまず動くことを本書はすすめます。喜びは追いかけて手に入れるものではなく、行動のあとからついてくる、という順番が一貫して語られます。"
+        },
+        {
+          "heading": "著者アランと本書の立場",
+          "body": "著者のアランは本名をエミール=オーギュスト・シャルティエという哲学者で、教師として暮らしの場面に即した思索を重ねました。本書は理論を体系立てるより、日々の不機嫌や心配にどう向き合うかを短い断章で説きます。アランは、感情を直接コントロールしようとする発想そのものを退けます。気分の良し悪しを生まれつきの性格や心の弱さの問題とは見なさず、態度や動作を通して整えられるものとして扱う点に、本書の独自の視点があります。"
+        },
+        {
+          "heading": "感情との向き合い方の要点",
+          "body": [
+            "落ち込みや不安は、意志や思考で直接は止められない",
+            "感情を止められないのは、性格や心の弱さのせいではない",
+            "頭で消そうとするより、身体を動かすほうが効くと本書は言う",
+            "喜びは追いかけるものでなく、行動のあとからついてくる",
+            "上機嫌は気分の問題でなく、意志と礼儀でつくる技術とされる"
+          ]
+        },
+        {
+          "heading": "気分を動作で整える方法",
+          "body": "本書がすすめるのは、心配ごとがあるときにあれこれ考え込むのをやめ、身体を動かすことです。腕を上げて軽く体操したり、伸びをしてあくびをするだけでも効果に驚くはずだと述べます。さらにアランは、礼儀正しいふるまいに注目します。にっこり笑い、丁寧にあいさつするといった動作が、考えや気分そのものに働きかけると語ります。つまり上機嫌は分別や理性で生まれるのではなく、態度を変え、体を動かすことから育つ、という見方です。"
+        },
+        {
+          "heading": "こんな人におすすめ",
+          "body": [
+            "夜に考えごとが止まらず、気持ちが休まらない人",
+            "気分の浮き沈みに振り回されて疲れている人",
+            "性格のせいだと自分を責めてしまいがちな人",
+            "古典の知恵を日常の習慣に落とし込みたい人"
+          ]
+        },
+        {
+          "heading": "まとめと最初の一歩",
+          "body": "『アランの幸福論』が伝えるのは、機嫌は性格ではなく、つくるものだという考え方です。最初の一歩は、気分が乗るのを待つのをやめることです。落ち込んだときは原因を考え込むかわりに、立ち上がって伸びをする、窓を開ける、お皿を一枚だけ洗うといった小さな行動を一つ置いてみます。アランが説くように、その動作の積み重ねが上機嫌の足し算になります。考えるより先に動くという順番を、今日から試してみてください。"
         }
       ],
       "has_raw": true,
@@ -2215,19 +2458,24 @@
           "video_id": "PFddDplP0a8",
           "url": "https://youtu.be/PFddDplP0a8",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-25T07:00:00Z",
           "uploaded_at": "2026-06-19T13:28:51.173017+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:28:52.932344+00:00"
+      "updated_at": "2026-06-23T07:12:04.779573+00:00"
     },
     {
       "asin": "B01ASS03BO",
       "slug": "b01ass03bo",
       "title_book": "ユーザーの役に立つシステムを作る 本当に使える要求定義［改訂版］（日経BP Ne",
-      "title_video": "ユーザーの役に立つシステムを作る 本当に使える要求定義［改訂版］（日経BP Ne",
+      "title_video": "【サクッと要約】ユーザーの役に立つシステムを作る 本当に使える要求定義［改訂版］｜あいまいさを解き、漏れを断つ最上流の知",
       "author": "ユーザーの役に立つシステムを作る 本当に使える要求定義［改訂版］",
       "publisher": null,
       "genre": "教養",
@@ -2244,13 +2492,18 @@
           "video_id": "3TjEXKU2SzI",
           "url": "https://youtu.be/3TjEXKU2SzI",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-01T14:00:00Z",
           "uploaded_at": "2026-06-22T07:44:06.044535+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:13:35.813851+00:00"
     },
     {
       "asin": "B01CSC57XM",
@@ -2310,6 +2563,11 @@
           "uploaded_at": "2026-06-19T10:36:34.741332+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -2401,13 +2659,18 @@
           "video_id": "2DmUYAKY_sE",
           "url": "https://youtu.be/2DmUYAKY_sE",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-25T09:00:00Z",
           "uploaded_at": "2026-06-19T13:28:42.074870+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T22:36:45.257033+00:00"
+      "updated_at": "2026-06-23T07:12:06.676584+00:00"
     },
     {
       "asin": "B01MCRQNBW",
@@ -2491,6 +2754,11 @@
           "uploaded_at": "2026-06-19T10:47:09.809595+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -2499,7 +2767,7 @@
       "asin": "B01MU4BJUN",
       "slug": "b01mu4bjun",
       "title_book": "未来をつくるファイナンス ～決断のための企業財務理論入門～",
-      "title_video": "未来をつくるファイナンス ～決断のための企業財務理論入門～",
+      "title_video": "【サクッと要約】未来をつくるファイナンス 〜決断のための企業財務理論入門〜｜会計の三表から価値評価まで、企業財務の幹をま",
       "author": "未来をつくるファイナンス 〜決断のための企業財務理論入門〜",
       "publisher": null,
       "genre": "経営",
@@ -2516,13 +2784,18 @@
           "video_id": "9tbld88jlZI",
           "url": "https://youtu.be/9tbld88jlZI",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-02T07:00:00Z",
           "uploaded_at": "2026-06-22T08:04:18.915545+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:13:42.105463+00:00"
     },
     {
       "asin": "B01N0AEF3U",
@@ -2607,13 +2880,18 @@
           "video_id": "pKm9k1xCWC4",
           "url": "https://youtu.be/pKm9k1xCWC4",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-25T12:00:00Z",
           "uploaded_at": "2026-06-19T13:30:51.563994+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": "2026-06-17T05:07:18.324812+00:00"
+      "updated_at": "2026-06-23T07:12:08.943869+00:00"
     },
     {
       "asin": "B01N4BC3LY",
@@ -2698,13 +2976,18 @@
           "video_id": "HqTEkHK6qwA",
           "url": "https://youtu.be/HqTEkHK6qwA",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-25T14:00:00Z",
           "uploaded_at": "2026-06-19T13:42:35.062439+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:07:55.393171+00:00"
+      "updated_at": "2026-06-23T07:12:10.789564+00:00"
     },
     {
       "asin": "B0716CF4Q9",
@@ -2736,6 +3019,11 @@
           "uploaded_at": "2026-06-19T10:40:46.547810+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": false,
       "raw_type": null,
       "updated_at": null
@@ -2744,7 +3032,7 @@
       "asin": "B071D4CJB9",
       "slug": "b071d4cjb9",
       "title_book": "マーケティング基礎読本増補改訂版",
-      "title_video": "マーケティング基礎読本増補改訂版",
+      "title_video": "【サクッと要約】マーケティング基礎読本 増補改訂版｜一冊まるごと、マーケティングの全体地図をで",
       "author": "マーケティング基礎読本 増補改訂版",
       "publisher": null,
       "genre": "経営",
@@ -2761,19 +3049,24 @@
           "video_id": "5AlUMjQsu_0",
           "url": "https://youtu.be/5AlUMjQsu_0",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-03T07:00:00Z",
           "uploaded_at": "2026-06-22T08:44:29.366999+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:13:55.690877+00:00"
     },
     {
       "asin": "B071KDLRGV",
       "slug": "b071kdlrgv",
       "title_book": "Webデザイン良質見本帳 目的別に探せて、すぐに使えるアイデア集",
-      "title_video": "Webデザイン良質見本帳 目的別に探せて、すぐに使えるアイデア集",
+      "title_video": "【サクッと要約】Webデザイン良質見本帳 目的別に探せて、すぐに使えるアイデア集｜「印象」と「機能」の二本柱でほどく、セ",
       "author": "Webデザイン良質見本帳 目的別に探せて、すぐに使えるアイデア集",
       "publisher": null,
       "genre": "教養",
@@ -2790,13 +3083,18 @@
           "video_id": "vXbJHwiAmkM",
           "url": "https://youtu.be/vXbJHwiAmkM",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-02T14:00:00Z",
           "uploaded_at": "2026-06-22T09:04:39.620396+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:13:49.257808+00:00"
     },
     {
       "asin": "B07219DYD3",
@@ -2876,6 +3174,53 @@
           "uploaded_at": "2026-06-19T10:44:29.269544+00:00"
         }
       ],
+      "excerpt": "伊藤大輔さんの『「プロジェクトマネジメント」実践講座』を要約します。計画は未来を当てる予言ではなく、ズレを測って学ぶ基準線だという考え方を、担当になったばかりの人にもやさしく紹介します。",
+      "article_category": "ビジネス",
+      "article_tags": [
+        "仕事術",
+        "計画",
+        "段取り",
+        "入門",
+        "実践"
+      ],
+      "reading_time": 2,
+      "article": [
+        {
+          "heading": "この本の要点を一言で",
+          "body": "本書は、プロジェクトマネジメントを「やりくり」だと位置づけます。目標は常に未来にあり、未来には不確実さがつきまといます。その不確実さを少しずつ取り除き、達成できる確率を高めていく営みがやりくりだと説きます。だから計画は、未来をぴたりと当てる予言ではありません。立てておくことで、実際とのズレを測り、次に活かすための基準線になります。計画通りに進まないからこそ、計画が必要だという発想が中心に置かれています。"
+        },
+        {
+          "heading": "著者と本書が立つ場所",
+          "body": "著者の伊藤大輔さんは、プロジェクトマネジメントの教育や研修、現場の実行支援を重ねてきた人です。本書はその経験から、実践で使える知識に絞って書かれています。プロジェクトとは、新しく独自の目標を立て、期限内に達成する一連の活動だと整理します。IT や大規模事業に限らず、仕事でも引越しや受験の準備でも、身近に存在すると説きます。担当になったばかりの人が、今日から動けるように工夫された入門・実践書という位置づけです。"
+        },
+        {
+          "heading": "計画を基準線として使う",
+          "body": [
+            "計画は当てるためではなく、ズレに気づくための土台になる",
+            "予定を引いておくと、どこがどれだけ遅れたかが見える",
+            "ズレが見えるから、前倒しなどの手を早く打てる",
+            "なぜズレたかを考えることで、次の段取りが上手になる",
+            "予定がなければ、遅れにも気づかないまま当日を迎えてしまう"
+          ]
+        },
+        {
+          "heading": "身近な場面で考えてみる",
+          "body": "本書の考え方は、特別な現場だけのものではありません。引越しの準備でも、受験の勉強でも、最初の予定がそのまま進むことは、ほとんどないはずです。荷造りが遅れたり、手続きが増えたり、時間が足りなくなったりします。それでも予定表があれば、どこがズレたのかが見えます。見えるからこそ、立て直す手を打てます。計画は人を縛る予言ではなく、ズレに気づかせてくれる味方だと、本書は身近な例で示します。"
+        },
+        {
+          "heading": "こんな人におすすめです",
+          "body": [
+            "はじめてプロジェクトの担当を任された人",
+            "計画を立てても続かず、苦手意識がある人",
+            "仕事や生活の段取りを整え直したい人",
+            "専門用語の前に、考え方の土台を知りたい人"
+          ]
+        },
+        {
+          "heading": "まとめと最初の一歩",
+          "body": "計画が崩れるのは、段取りが下手だからでも、状況が悪いからでもありません。未来がもともと不確実なだけだと、本書は語ります。だからこそ、計画を立てておく意味があります。最初の一歩として、次に段取りを立てるとき「これは当てるためではなく、ズレを測るためのものさしだ」と考えてみてください。そう思えれば、計画が崩れても落ち込まず、どこを直すかへ目を向けられます。伊藤大輔さんの本書は、その出発点をやさしく示してくれます。"
+        }
+      ],
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -2884,7 +3229,7 @@
       "asin": "B072QCFYVJ",
       "slug": "b072qcfyvj",
       "title_book": "いちばんやさしい人工知能ビジネスの教本 人気講師が教えるAI・機械学習の事業化",
-      "title_video": "いちばんやさしい人工知能ビジネスの教本 人気講師が教えるAI・機械学習の事業化",
+      "title_video": "【サクッと要約】いちばんやさしい人工知能ビジネスの教本 人気講師が教えるAI・機械学習の事業化｜AIの土台から事業化・法",
       "author": "いちばんやさしい人工知能ビジネスの教本 人気講師が教えるAI・機械学習の事業化",
       "publisher": null,
       "genre": "教養",
@@ -2901,13 +3246,18 @@
           "video_id": "p6fhJGR7ABU",
           "url": "https://youtu.be/p6fhJGR7ABU",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-03T14:00:00Z",
           "uploaded_at": "2026-06-22T09:24:51.953394+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:14:01.891887+00:00"
     },
     {
       "asin": "B074PYXCC1",
@@ -2992,19 +3342,24 @@
           "video_id": "Q1KusFP16T8",
           "url": "https://youtu.be/Q1KusFP16T8",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-26T07:00:00Z",
           "uploaded_at": "2026-06-19T13:41:03.930142+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:41:05.501696+00:00"
+      "updated_at": "2026-06-23T07:12:18.107718+00:00"
     },
     {
       "asin": "B078HTTLZV",
       "slug": "b078httlzv",
       "title_book": "女子高生社長、ファイナンスを学ぶ がけっぷち経営奮闘記",
-      "title_video": "女子高生社長、ファイナンスを学ぶ がけっぷち経営奮闘記",
+      "title_video": "【サクッと要約】女子高生社長、ファイナンスを学ぶ がけっぷち経営奮闘記｜利益とキャッシュの違いから、会社の値段の出し方ま",
       "author": "女子高生社長、ファイナンスを学ぶ がけっぷち経営奮闘記",
       "publisher": null,
       "genre": "経営",
@@ -3021,13 +3376,18 @@
           "video_id": "NRYFJsiU_5Y",
           "url": "https://youtu.be/NRYFJsiU_5Y",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-04T14:00:00Z",
           "uploaded_at": "2026-06-22T10:05:04.597234+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:14:08.762721+00:00"
     },
     {
       "asin": "B079BCZH3B",
@@ -3044,6 +3404,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『はじめよう! システム設計 ～要件定義のその後に』羽生章洋 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B079BCZH3B?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%81%AF%E3%81%98%E3%82%81%E3%82%88%E3%81%86%21+%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%A8%AD%E8%A8%88+%EF%BD%9E%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9%E3%81%AE%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AB&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\nやりたいと、できますの間には、変換という橋がかかる。急がば回れ。その一歩が、思い描いた未来へまっすぐ続いている。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3063,6 +3428,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『［ポケットMBA］財務諸表分析 ゼロからわかる読み方・活かし方』グロービス／溝口聖規 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B079M6MQX5?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%EF%BC%BB%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88MBA%EF%BC%BD%E8%B2%A1%E5%8B%99%E8%AB%B8%E8%A1%A8%E5%88%86%E6%9E%90+%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E3%82%8F%E3%81%8B%E3%82%8B%E8%AA%AD%E3%81%BF%E6%96%B9%E3%83%BB%E6%B4%BB%E3%81%8B%E3%81%97%E6%96%B9&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n決算書が読めなかったのは数字に弱いからではなく、見るべき場所＝地図を持っていなかっただけ。地図を手にしたいま、もう数字の壁の前で立ちすくまなくていい。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3082,6 +3452,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『いちばんやさしいAI〈人工知能〉超入門』大西可奈子 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B07BBM7GQR?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93%E3%82%84%E3%81%95%E3%81%97%E3%81%84AI%E3%80%88%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%80%89%E8%B6%85%E5%85%A5%E9%96%80&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n中身を知ってしまえば、AIはもう得体の知れない脅威ではなく、隣で一緒に働く頼もしい相棒になる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3090,7 +3465,7 @@
       "asin": "B07BKRRG8B",
       "slug": "b07bkrrg8b",
       "title_book": "若手ITエンジニア 最強の指南書",
-      "title_video": "若手ITエンジニア 最強の指南書",
+      "title_video": "【サクッと要約】若手ITエンジニア 最強の指南書｜若手ITエンジニア 最強の指南書——できる差は才能じ",
       "author": "若手ITエンジニア 最強の指南書",
       "publisher": null,
       "genre": "教養",
@@ -3107,13 +3482,18 @@
           "video_id": "vlWQPGl_hzQ",
           "url": "https://youtu.be/vlWQPGl_hzQ",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-27T12:00:00Z",
           "uploaded_at": "2026-06-22T07:23:20.342679+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:12:42.786393+00:00"
     },
     {
       "asin": "B07CBZQNH7",
@@ -3198,19 +3578,24 @@
           "video_id": "y-5s6U2ORGY",
           "url": "https://youtu.be/y-5s6U2ORGY",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-26T02:00:00Z",
           "uploaded_at": "2026-06-19T13:40:16.995309+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T13:40:18.659345+00:00"
+      "updated_at": "2026-06-23T07:12:13.301525+00:00"
     },
     {
       "asin": "B07L2RRXR1",
       "slug": "b07l2rrxr1",
       "title_book": "いちばんやさしい会計の教本 人気講師が教える財務3表の読み解き方が全部わかる本",
-      "title_video": "いちばんやさしい会計の教本 人気講師が教える財務3表の読み解き方が全部わかる本",
+      "title_video": "【サクッと要約】いちばんやさしい会計の教本 人気講師が教える財務3表の読み解き方が全部わかる本｜三つの箱と階段とお金の流",
       "author": "いちばんやさしい会計の教本 人気講師が教える財務3表の読み解き方が全部わかる本",
       "publisher": null,
       "genre": "お金",
@@ -3227,19 +3612,24 @@
           "video_id": "rAQXN7yyjps",
           "url": "https://youtu.be/rAQXN7yyjps",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-02T02:00:00Z",
           "uploaded_at": "2026-06-22T07:25:07.472317+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:13:37.392459+00:00"
     },
     {
       "asin": "B07LF91P8R",
       "slug": "b07lf91p8r",
       "title_book": "いまこそ知りたいＡＩビジネス",
-      "title_video": "いまこそ知りたいＡＩビジネス",
+      "title_video": "【サクッと要約】いまこそ知りたいAIビジネス｜AIの正体から\"奪われない生き方\"まで",
       "author": "いまこそ知りたいAIビジネス",
       "publisher": null,
       "genre": "教養",
@@ -3256,13 +3646,18 @@
           "video_id": "2e50E7KgzSg",
           "url": "https://youtu.be/2e50E7KgzSg",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-28T02:00:00Z",
           "uploaded_at": "2026-06-22T07:26:58.597458+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:12:46.857640+00:00"
     },
     {
       "asin": "B07M5DK459",
@@ -3346,6 +3741,87 @@
           "uploaded_at": "2026-06-19T10:37:53.159536+00:00"
         }
       ],
+      "excerpt": "齋藤孝『読書する人だけがたどり着ける場所』の要約です。読書を情報集めではなく、一冊と向き合う体験ととらえ直し、人生に深さをもたらす読み方をやさしく整理します。",
+      "article_category": "教養・サイエンス",
+      "article_tags": [
+        "読書",
+        "教養",
+        "思考力",
+        "齋藤孝",
+        "深い学び"
+      ],
+      "reading_time": 4,
+      "article": [
+        {
+          "heading": "この本の要点を一言でいうと",
+          "body": "本書『読書する人だけがたどり着ける場所』で齋藤孝さんが伝えるのは、読書は情報を集める行為ではなく、深さを手に入れる体験だという見方です。ネットでの拾い読みは便利ですが、つまみ食いのように消費され、すぐに忘れられがちだと著者は語ります。一方、本を一冊じっくり読むことは、書いた人と向き合う時間そのものになります。その時間が体験として刻まれ、ものの見方や人としての深みをつくっていくと説きます。たくさん読むことや速く読むことより、向き合い方を少し変えることを重んじる一冊です。"
+        },
+        {
+          "heading": "なぜいまこそ読書なのか",
+          "body": "現代では、本を読まなくてもネットで十分だと感じる人が増えています。実際、ネット上にはあらゆる情報や物語があふれています。それでも著者は、ネットで読むことと読書には重大な違いがあると指摘します。違いの正体は、文章への向かい方だというのです。ネットでは面白そうなものへ視線が流れ、一つの内容に向き合う時間が短くなりがちです。本書はこの差を入口に、なぜいまこそ本を読むべきかを問い直していきます。情報量ではなく、どう読むかが人生の深さを左右するという立場です。"
+        },
+        {
+          "heading": "消費者ではなく読者になるという視点",
+          "body": [
+            "ネットで読むとき、人は読者ではなく消費者になりやすいと著者は指摘する",
+            "面白いものを選び、つまらないと感じたら切り捨てて次へ進む読み方になりがち",
+            "消費するだけでは積み重ねが起きにくく、触れた情報もすぐ忘れてしまう",
+            "本に向かうときは、著者の話を腰を据えて聞くような構えに変わる",
+            "退屈な場面でも逃げず最後まで読みきると、それが体験として刻まれる"
+          ]
+        },
+        {
+          "heading": "読書は体験として刻まれる",
+          "body": "本書の核心は、読書が体験になるという考え方にあります。著者は「読書は『体験』なのです」と述べ、情報を受け取るだけの行為と区別します。物語の登場人物に感情移入しているときの脳は、実際に体験しているときの脳と近い動きをするという話も紹介されます。自分一人で生きられる時間には限りがありますが、読書なら別の時代や別の人生を疑似体験できると著者は語ります。その積み重ねが想像力を広げ、人格を大きくしていくという見方です。深さは情報量ではなく、向き合った体験から生まれてくると本書は説きます。"
+        },
+        {
+          "heading": "深め方は一つではないという提案",
+          "body": [
+            "思考力を深める読み方として、自分に引きつけて考えることをすすめる",
+            "好きな文章を三つ選び、線で囲む方法を思考を深める助けとして挙げる",
+            "対話やレビューを通して、一人では届かない考えへ進む工夫を紹介する",
+            "知識・人格・人生を深める読み方を、章ごとに分けて整理している",
+            "難しい本との向き合い方や名著ガイドにも触れ、読書の幅を広げる"
+          ]
+        },
+        {
+          "heading": "こんな人におすすめしたい本",
+          "body": [
+            "本を読んでもすぐ忘れてしまうと感じている人",
+            "ネットの情報に少し疲れ、深い学びを取り戻したい人",
+            "読む時間がないと思いつつ、読書の効用を知りたい人",
+            "速読や多読より、一冊との向き合い方を見直したい人"
+          ]
+        },
+        {
+          "heading": "まとめと最初の一歩",
+          "body": "本書が伝えるのは、深さにたどり着くのに才能も速さもいらないという考え方です。著者は「本を読むのには才能は必要ありません」と述べ、誰にでもできることだと語ります。最初の一歩は、今夜寝る前の十五分だけ、スマホを置いて気になる一冊を開いてみることです。速く読もうとせず、その世界にひたってみる。たったそれだけでも、向き合い方は少しずつ変わっていきます。読書する人だけがたどり着ける場所への入口は、量や速さではなく、一冊とどう向き合うかにあると齋藤孝さんは示しています。"
+        }
+      ],
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": null
+    },
+    {
+      "asin": "B07M5W8GCQ",
+      "slug": "b07m5w8gcq",
+      "title_book": "THE MODEL（MarkeZine BOOKS） マーケティング・インサイド",
+      "title_video": "THE MODEL（MarkeZine BOOKS） マーケティング・インサイド",
+      "author": null,
+      "publisher": null,
+      "genre": "経営",
+      "amazon_url": "https://www.amazon.co.jp/dp/B07M5W8GCQ?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B07M5W8GCQ.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3365,6 +3841,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『財務経営力の強化書――事業性評価、ローカルベンチマークの使いこなし方も解説！』赤岩茂・鈴木信二 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B07MM52W9V?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E8%B2%A1%E5%8B%99%E7%B5%8C%E5%96%B6%E5%8A%9B%E3%81%AE%E5%BC%B7%E5%8C%96%E6%9B%B8%E2%80%95%E2%80%95%E4%BA%8B%E6%A5%AD%E6%80%A7%E8%A9%95%E4%BE%A1%E3%80%81%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%83%99%E3%83%B3%E3%83%81%E3%83%9E%E3%83%BC%E3%82%AF%E3%81%AE%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%97%E6%96%B9%E3%82%82%E8%A7%A3%E8%AA%AC%EF%BC%81&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n決算書を見るとちんぷんかんぷんで、お金が残らなかった日々が、数字で現在地が見えて手を打てる日々に変わる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3384,6 +3865,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『［改訂4版］グロービスMBAマーケティング』グロービス経営大学院 編著 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B07MTP7DZ5?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%EF%BC%BB%E6%94%B9%E8%A8%824%E7%89%88%EF%BC%BD%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%93%E3%82%B9MBA%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n売れないのは、頑張りが足りないからではない。買ってもらえる仕組みを、順番に設計するから、売れる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3446,6 +3932,47 @@
           "uploaded_at": "2026-06-19T10:46:26.413529+00:00"
         }
       ],
+      "excerpt": "『限界はあなたの頭の中にしかない』を要約。あなたを止めているのは才能でも年齢でもなく、頭の中で自分が引いた一本の線だと、ジェイ・エイブラハムが静かに語る一冊です。",
+      "article_category": "自己啓発",
+      "article_tags": [
+        "自己啓発",
+        "思い込み",
+        "限界",
+        "小さな一歩",
+        "人生論"
+      ],
+      "reading_time": 3,
+      "article": [
+        {
+          "heading": "この本の要点をひとつだけ",
+          "body": "本書がいちばん伝えたいのは、たった一点です。あなたが感じている限界は、動かせない事実ではない、ということ。著者のジェイ・エイブラハムは、限界とは自分が頭の中で勝手に引いた一本の線にすぎない、と言います。お金や学歴や才能が足りないから前に進めないのではなく、自分は「このくらいの人間だ」という思い込みが、行動を止めている。そして、その線を引いたのが自分自身なら、外せるのも自分自身だ、というのが本書の出発点です。"
+        },
+        {
+          "heading": "著者はどんな人物なのか",
+          "body": "著者のジェイ・エイブラハムは、アメリカ生まれの実践マーケティングのコンサルタントです。『フォーブス』誌が二〇〇〇年に全米トップ5の経営コンサルタントに選んだ人で、品質管理の父と呼ばれるデミング博士に直接学んだ経歴を持ちます。ただ、本書で著者がまず明かすのは、その華やかな実績ではありません。高校を卒業しただけで定職もなく、十六歳で親になり、将来に希望を持てなかった、どん底からの出発でした。だからこそ、限界が思い込みにすぎないという主張に、実体験の重みがあります。"
+        },
+        {
+          "heading": "限界が思い込みである理由",
+          "body": "私たちは、自分の限界を、まるで外から決められた事実のように感じています。自分にはこの程度がちょうどいい、このあたりが身の丈だ、と。けれど本書は、その「このくらい」には何の根拠もない、と指摘します。著者は本書で、限界を課しているのは自分自身なのだ、という気づきを核に置きます。これは自分を責めるための言葉ではありません。むしろ、線を引いたのが自分なら消すこともできる、という希望として語られます。止めていたのは現実ではなく、頭の中の思い込みだけだった、というわけです。"
+        },
+        {
+          "heading": "どん底から踏み出した最初の一歩",
+          "body": "では、著者は最初に何をしたのか。いきなり大きな夢を壁に貼ったわけではありません。古書店で辞書を一冊買い、知らない言葉を毎日五つだけ覚えて、すぐに仕事で使った、と本書にはあります。たった、それだけです。才能があったから変われたのではなく、「自分には無理だ」という思い込みをまず一つ外してみた。そこからすべてが始まった、と著者は振り返ります。一日五語という、ほんの小さな一歩が、自分で引いた線を少しずつ外していった、という流れです。"
+        },
+        {
+          "heading": "こんな人に読んでほしい",
+          "body": [
+            "もう歳だからと、新しい挑戦をためらっている人",
+            "才能がないからと、自分の可能性を狭めている人",
+            "大きな目標の前で、何から始めればいいか迷う人",
+            "小さく始めて続ける、具体的なヒントがほしい人"
+          ]
+        },
+        {
+          "heading": "まとめと、最初の一歩",
+          "body": "本書の答えは、とてもシンプルです。「自分にはどうせ無理だ」という声が聞こえたら、それは現実ではなく頭の中が作った思い込みだ、と思い出すこと。そして全部をいっぺんに変える必要はない、と本書は言います。今日、自分が引いていた線を一本だけ疑ってみる。先延ばしにしていた小さな一歩を、一つだけ踏み出してみる。辞書の言葉が一日五つだったように、ほんの小さくていい。『限界はあなたの頭の中にしかない』が手渡すのは、その一歩を踏み出す静かな後押しです。"
+        }
+      ],
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3465,6 +3992,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『情報資産リスクアセスメントの実務 共通の基準でリスクを評価するための解説書』桐山幸則 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B07P77VSFB?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E6%83%85%E5%A0%B1%E8%B3%87%E7%94%A3%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%A2%E3%82%BB%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88%E3%81%AE%E5%AE%9F%E5%8B%99+%E5%85%B1%E9%80%9A%E3%81%AE%E5%9F%BA%E6%BA%96%E3%81%A7%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%92%E8%A9%95%E4%BE%A1%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%A7%A3%E8%AA%AC%E6%9B%B8&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\nもう、勘で決めなくていい。影響度と発生可能性という、ものさしが手の中にある。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3484,6 +4016,35 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『採用に強い会社は何をしているか ～52の事例から読み解く採用の原理原則』青田努 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B07PP516H1?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E6%8E%A1%E7%94%A8%E3%81%AB%E5%BC%B7%E3%81%84%E4%BC%9A%E7%A4%BE%E3%81%AF%E4%BD%95%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B+%EF%BD%9E52%E3%81%AE%E4%BA%8B%E4%BE%8B%E3%81%8B%E3%82%89%E8%AA%AD%E3%81%BF%E8%A7%A3%E3%81%8F%E6%8E%A1%E7%94%A8%E3%81%AE%E5%8E%9F%E7%90%86%E5%8E%9F%E5%89%87&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n採用は、まぐれで勝つものではなく、勝つべくして勝つもの。その勝ち方をもう知っているあなたは、次に「いい人」と向き合うとき、きっと立ち止まれます。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": null
+    },
+    {
+      "asin": "B07SSGP5K9",
+      "slug": "b07ssgp5k9",
+      "title_book": "会社にお金を残す経営の話 (お金の教科書)",
+      "title_video": "会社にお金を残す経営の話 (お金の教科書)",
+      "author": null,
+      "publisher": null,
+      "genre": "経営",
+      "amazon_url": "https://www.amazon.co.jp/dp/B07SSGP5K9?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B07SSGP5K9.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3571,19 +4132,24 @@
           "video_id": "DK_pITN90NE",
           "url": "https://youtu.be/DK_pITN90NE",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-30T12:00:00Z",
           "uploaded_at": "2026-06-19T13:42:03.189594+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": "2026-06-19T13:42:03.875493+00:00"
+      "updated_at": "2026-06-23T07:13:21.027235+00:00"
     },
     {
       "asin": "B08147GCLS",
       "slug": "b08147gcls",
       "title_book": "図解即戦力 Amazon Web Servicesのしくみと技術がこれ1冊でしっ",
-      "title_video": "図解即戦力 Amazon Web Servicesのしくみと技術がこれ1冊でしっ",
+      "title_video": "【サクッと要約】図解即戦力 Amazon Web Servicesのしくみと技術がこれ1冊でしっかりわかる教科書｜クラウ",
       "author": "図解即戦力 Amazon Web Servicesのしくみと技術がこれ1冊でしっかりわかる教科書",
       "publisher": null,
       "genre": "教養",
@@ -3600,19 +4166,24 @@
           "video_id": "G-NdEWUFBFc",
           "url": "https://youtu.be/G-NdEWUFBFc",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-28T14:00:00Z",
           "uploaded_at": "2026-06-22T07:30:50.404309+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:12:57.340988+00:00"
     },
     {
       "asin": "B0814Q7LV7",
       "slug": "b0814q7lv7",
       "title_book": "Ｇｏｏｇｌｅ×スタンフォード ＮＯ ＦＬＯＰ！ 失敗できない人の失敗しない技術",
-      "title_video": "Ｇｏｏｇｌｅ×スタンフォード ＮＯ ＦＬＯＰ！ 失敗できない人の失敗しない技術",
+      "title_video": "【サクッと要約】Google×スタンフォード NO FLOP! 失敗できない人の失敗しない技術｜作る前に確かめる、失敗し",
       "author": "Google×スタンフォード NO FLOP! 失敗できない人の失敗しない技術",
       "publisher": null,
       "genre": "自己啓発",
@@ -3629,13 +4200,18 @@
           "video_id": "VLJhUN1Vyw4",
           "url": "https://youtu.be/VLJhUN1Vyw4",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-04T08:00:00Z",
           "uploaded_at": "2026-06-22T07:33:41.358998+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:14:06.381349+00:00"
     },
     {
       "asin": "B082WXZVPC",
@@ -3652,6 +4228,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『ドメイン駆動設計入門 ボトムアップでわかる！ドメイン駆動設計の基本』成瀬允宣 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B082WXZVPC?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80+%E3%83%9C%E3%83%88%E3%83%A0%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8B%EF%BC%81%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88%E3%81%AE%E5%9F%BA%E6%9C%AC&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n知識の置き場所さえ決まれば、散らばりは消え、直したい一か所をまっすぐ直せる、変えやすいコードになる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3739,13 +4320,18 @@
           "video_id": "ROUm9UW241E",
           "url": "https://youtu.be/ROUm9UW241E",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-01T09:00:00Z",
           "uploaded_at": "2026-06-19T13:42:20.021600+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": "2026-06-19T13:42:20.639979+00:00"
+      "updated_at": "2026-06-23T07:13:32.197794+00:00"
     },
     {
       "asin": "B086DJWDT3",
@@ -3762,6 +4348,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『8割が高校卒業の英語力！卒業までに英検2級に合格できるのびのび小学校』山口紀生 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B086DJWDT3?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=8%E5%89%B2%E3%81%8C%E9%AB%98%E6%A0%A1%E5%8D%92%E6%A5%AD%E3%81%AE%E8%8B%B1%E8%AA%9E%E5%8A%9B%EF%BC%81%E5%8D%92%E6%A5%AD%E3%81%BE%E3%81%A7%E3%81%AB%E8%8B%B1%E6%A4%9C2%E7%B4%9A%E3%81%AB%E5%90%88%E6%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%AE%E3%81%B3%E3%81%AE%E3%81%B3%E5%B0%8F%E5%AD%A6%E6%A0%A1&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n足りなかったのは能力ではなく、慣れて試し、間違いを恐れず口を開ける環境だった。環境さえ整えば、子どもの伸びしろは無限大。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3848,6 +4439,57 @@
           "uploaded_at": "2026-06-19T10:45:17.442380+00:00"
         }
       ],
+      "excerpt": "ハワード・マークス『投資で一番大切な20の教え』を要約します。暴落と高値に振り回されるのはなぜか。リスクや市場サイクルの捉え方を、初めての方にもやさしく整理します。",
+      "article_category": "ビジネス",
+      "article_tags": [
+        "投資",
+        "リスク",
+        "市場サイクル",
+        "逆張り",
+        "二次的思考"
+      ],
+      "reading_time": 3,
+      "article": [
+        {
+          "heading": "この本の要点",
+          "body": "本書『投資で一番大切な20の教え』は、世界最大級の運用会社オークツリーを率いるハワード・マークスさんが、長年の投資哲学を二十の角度からまとめた一冊です。本書は、市場で平均を上回るには、人より一歩深く考える「二次的思考」が欠かせないと説きます。そのうえで、リスクとは値動きの激しさではなく、お金を失う可能性のことだと述べます。価値と価格を見分け、市場サイクルと群衆心理を理解し、守りを固める。著者は、二十の教えが実は一つの首尾一貫した哲学だと述べ、市場に振り回されない思考の軸を渡そうとします。"
+        },
+        {
+          "heading": "二次的思考という出発点",
+          "body": "本書がまず置くのは、二次的思考という考え方です。著者によれば、一次的思考は「良い会社だから買おう」と素直に反応します。二次的思考はその先まで進み、「皆が良いと見ているなら、もう価格は高すぎないか」と問い直します。マークスさんは、市場では大勢が正しいことを織り込んでしまうため、平均を上回るには人と違って、しかも正しくある必要があると述べます。難しいのは、ただ群衆と逆を行くだけでは足りない点です。なぜ多数派が間違っているのかまで読み解けて、初めて優位が生まれると本書は説きます。"
+        },
+        {
+          "heading": "リスクとは何かを問い直す",
+          "body": "本書の核心の一つが、リスクの捉え直しです。多くの人は、株価が激しく上下する値動きの大きさをリスクと感じます。学者もそれを「ボラティリティ」と呼び、数字にしやすいことからリスクと定義してきました。ところがマークスさんは、本当に怖いのは揺れることではなく、お金が戻ってこないことだと述べます。本書には「『リスク』とは何よりもまず、資金を失う可能性のことである」とあります。さらに、必要な利益が人によって違うように、リスクの形も人それぞれだと説きます。だから他人の言う危険と、あなたにとっての危険は同じとは限りません。"
+        },
+        {
+          "heading": "市場サイクルと群衆心理",
+          "body": "本書は、市場が振り子のように両極を行き来すると述べます。好況が緩い融資を生み、やがて損失が引き締めを招く。この循環の根にあるのが、強欲や恐怖、同調といった人間の感情だと著者は説きます。多くの人は強気の絶頂で「今回は違う」と信じ込み、高値で買ってしまいます。マークスさんは、これを最も危険な言葉だと述べます。だからこそ、皆が投げ売る局面が最良の買い場になりうる、というのが本書の逆張りの発想です。ただし著者は、群衆と逆を行けば必ず報われるとは説きません。理解を伴わない逆張りは、ただの賭けに過ぎないと釘を刺します。"
+        },
+        {
+          "heading": "守りと、無知を知る姿勢",
+          "body": [
+            "本書は、未来は予測できないが現在地は測れると説く",
+            "市場の温度を見て、過熱していれば慎重になることをすすめる",
+            "勝つ投資より、大きく負けない守りを重んじると述べる",
+            "本質的価値より十分安く買う「誤りの許容範囲」を重視する",
+            "自分の無知を認める謙虚さこそ強さだと著者は考える"
+          ]
+        },
+        {
+          "heading": "こんな人におすすめ",
+          "body": [
+            "暴落や高値のニュースに、つい心が揺れてしまう人",
+            "新しい制度で投資を始めたが判断の軸が持てない人",
+            "短期の値動きでなく長く付き合う考え方を知りたい人",
+            "目先の手法より投資の原理原則を学びたい人"
+          ]
+        },
+        {
+          "heading": "まとめと最初の一歩",
+          "body": "ハワード・マークスさんの『投資で一番大切な20の教え』が渡してくれるのは、特定の銘柄や必勝法ではなく、自分の頭で考えるための軸です。本書はあくまで著者の投資哲学であり、確実な成功を約束するものではないと、著者自身が繰り返し述べています。最初の一歩として、次に「株価が乱高下」と聞いたら、心の中で一度だけ「それは戻ってこないお金なのか」と置き換えてみてください。その小さな問いが、市場に振り回される側から、自分の軸で考える側へと、半歩踏み出すきっかけになります。"
+        }
+      ],
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3867,6 +4509,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『図解即戦力 要件定義のセオリーと実践方法がこれ1冊でしっかりわかる教科書』上村有子 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B08BNJJXJM?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E5%9B%B3%E8%A7%A3%E5%8D%B3%E6%88%A6%E5%8A%9B+%E8%A6%81%E4%BB%B6%E5%AE%9A%E7%BE%A9%E3%81%AE%E3%82%BB%E3%82%AA%E3%83%AA%E3%83%BC%E3%81%A8%E5%AE%9F%E8%B7%B5%E6%96%B9%E6%B3%95%E3%81%8C%E3%81%93%E3%82%8C1%E5%86%8A%E3%81%A7%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E3%82%8F%E3%81%8B%E3%82%8B%E6%95%99%E7%A7%91%E6%9B%B8&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n名前を知り、順番を知り、道具を知った今、あなたはもう、あの場所で立ち止まらなくていい。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -3962,6 +4609,11 @@
           "uploaded_at": "2026-06-17T13:54:13.243464+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": "2026-06-20T11:45:33.166963+00:00"
@@ -4053,6 +4705,11 @@
           "uploaded_at": "2026-06-17T11:30:57.972874+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": "2026-06-17T12:44:37.434019+00:00"
@@ -4136,19 +4793,24 @@
           "video_id": "OP9EdtnVMeA",
           "url": "https://youtu.be/OP9EdtnVMeA",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-28T07:00:00Z",
           "uploaded_at": "2026-06-19T13:53:11.278692+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T22:36:28.063488+00:00"
+      "updated_at": "2026-06-23T07:12:51.052440+00:00"
     },
     {
       "asin": "B08LQ1TZNL",
       "slug": "b08lq1tznl",
       "title_book": "銀行からの融資 完全マニュアル",
-      "title_video": "銀行からの融資 完全マニュアル",
+      "title_video": "【サクッと要約】銀行からの融資 完全マニュアル｜銀行が貸したくなる会社のつくり方、七つの鍵まるごと（",
       "author": "銀行からの融資 完全マニュアル",
       "publisher": null,
       "genre": "お金",
@@ -4165,13 +4827,18 @@
           "video_id": "SnAv1MPZ7rM",
           "url": "https://youtu.be/SnAv1MPZ7rM",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-03T02:00:00Z",
           "uploaded_at": "2026-06-22T07:34:30.726329+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:13:51.592713+00:00"
     },
     {
       "asin": "B08N3Y1YFB",
@@ -4188,6 +4855,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『スタートアップファイナンス 起業で失敗しない「おカネ」とのつき合い方』加瀬洋 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B08N3Y1YFB?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9+%E8%B5%B7%E6%A5%AD%E3%81%A7%E5%A4%B1%E6%95%97%E3%81%97%E3%81%AA%E3%81%84%E3%80%8C%E3%81%8A%E3%82%AB%E3%83%8D%E3%80%8D%E3%81%A8%E3%81%AE%E3%81%A4%E3%81%8D%E5%90%88%E3%81%84%E6%96%B9&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n起業という挑戦は、不安に立ちすくむ場所ではなく、確かめながら一歩を踏み出せる場所になる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -4266,7 +4938,7 @@
           "video_id": "M1jLHTzdXdU",
           "url": "https://youtu.be/M1jLHTzdXdU",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-01T12:00:00Z",
           "uploaded_at": "2026-06-19T13:52:05.935206+00:00"
         },
         {
@@ -4279,9 +4951,14 @@
           "uploaded_at": "2026-06-09T21:29:40.948454+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T22:37:40.551693+00:00"
+      "updated_at": "2026-06-23T07:13:33.948715+00:00"
     },
     {
       "asin": "B08R8K2VFX",
@@ -4361,6 +5038,11 @@
           "uploaded_at": "2026-06-19T10:37:18.566527+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": false,
       "raw_type": null,
       "updated_at": null
@@ -4452,6 +5134,11 @@
           "uploaded_at": "2026-06-17T13:53:40.018082+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": "2026-06-17T23:19:10.372785+00:00"
@@ -4471,6 +5158,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『A/Bテスト実践ガイド 真のデータドリブンへ至る信用できる実験とは』Ron Kohavi, Diane Tang, Ya Xu 著／大杉直也 訳 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B08Z3TPVZG?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=A%2FB%E3%83%86%E3%82%B9%E3%83%88%E5%AE%9F%E8%B7%B5%E3%82%AC%E3%82%A4%E3%83%89+%E7%9C%9F%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%83%89%E3%83%AA%E3%83%96%E3%83%B3%E3%81%B8%E8%87%B3%E3%82%8B%E4%BF%A1%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E5%AE%9F%E9%A8%93%E3%81%A8%E3%81%AF&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n当たらないのが普通で、外すのは恥じゃない。思い込みを手放して、データに「どっちが本当に良かった?」と聞ける仕組みさえ持てば、自信ではなく事実でアイデアを磨いていける。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -4535,6 +5227,42 @@
           "privacy": "private",
           "publish_at": "2026-06-21T13:00:00Z",
           "uploaded_at": "2026-06-19T10:42:30.614951+00:00"
+        }
+      ],
+      "excerpt": "『習慣超大全』は、続かないのは意志の弱さでなく設計の問題だと説く一冊です。スタンフォードの行動科学者BJ・フォッグが、小さく始めて自分をほめる方法を要約します。",
+      "article_category": "自己啓発",
+      "article_tags": [
+        "習慣",
+        "行動科学",
+        "自己管理",
+        "継続",
+        "タイニーハビット"
+      ],
+      "reading_time": 2,
+      "article": [
+        {
+          "heading": "この本の要点",
+          "body": "本書は、習慣が続かない原因を「意志の弱さ」ではなく「やり方の設計」に求めます。著者のBJ・フォッグは、スタンフォード大学の行動科学者で、行動デザイン研究所を主宰する人物です。鍵となるのは、行動をとびきり小さくして始め、できた直後に自分をほめるという二つの動きです。本書では、この小さな習慣づくりの方法を「タイニー・ハビット」と呼びます。気合いや根性ではなく、続く仕組みを先に整えることが近道だと説きます。"
+        },
+        {
+          "heading": "行動が起こる三つの条件",
+          "body": "フォッグは、あらゆる行動は三つの要素が同時にそろったときに起こると説きます。それが、やりたい気持ち（モチベーション）、やりやすさ（能力）、行動を促す合図（きっかけ）の三つです。本書ではこれを「B=MAP」という公式で表します。どれか一つでも欠けると行動は生まれません。やる気はあるのにできないなら、足りないのは合図か、やりやすさだと考えます。叱ったり励ましたりして動機を上げるより、まず合図を用意し、行動を簡単にする順序が効くと整理します。"
+        },
+        {
+          "heading": "やる気に頼らず小さく始める",
+          "body": "本書は、やる気は波打って当てにならないと指摘します。朝と夜、季節によっても上下し、自分では制御しにくいからです。だから動機を土台にせず、行動そのものを小さくすることを勧めます。腕立て伏せなら二回、歯のフロスならまず一本という具合に、三秒で終わるほど小さくします。小さくすれば、やる気が落ちた日でも続けられます。著者はこれを始動のハードルを下げる入口と位置づけ、無理に大きくしなくてもよいと述べます。"
+        },
+        {
+          "heading": "きっかけは既存の習慣に乗せる",
+          "body": "新しい習慣の最大の敵は、やること自体を忘れてしまう点だと本書は言います。そこで、すでに毎日確実にやっている行動の直後に、新しい小さな行動をつなげます。「○○をしたら、××をする」という形で、これを本書では「レシピ」と呼びます。たとえば「歯を磨いたら、フロスを一本する」のように設計します。合図を選ぶときは、場所と頻度をそろえると安定します。記憶力に頼らず、毎日の流れに乗せる工夫だと説きます。"
+        },
+        {
+          "heading": "習慣を定着させるのは感情",
+          "body": "本書がもっとも重視するのは「祝福」と呼ばれる動作です。小さくできた直後に、ほんの一瞬、自分をほめて良い気分をつくります。「よし」と口にする、軽くガッツポーズをするだけでも構いません。本書は、習慣を定着させるのは続けた回数や日数ではなく感情だと言います。フォッグは「感情が習慣をつくる」と述べ、強い良い気持ちが伴えば、数日で、ときには一度で身につくとします。二十一日かかるという通説には、もう古いと異を唱えます。"
+        },
+        {
+          "heading": "まとめと最初の一歩",
+          "body": "『習慣超大全』は、続かない自分を責める必要はない、問題は設計の側にあると伝えます。行動を三秒でできるほど小さくし、既存の習慣に乗せ、できた直後に自分をほめる。この流れを回すだけで、習慣は自然に育っていくと説きます。最初の一歩としては、今日できた小さなことの直後に「よし」と一言つぶやくだけで十分です。その一言が、自分をほめる練習の始まりになります。気合いではなく、小さく始めて自分をほめることから試してみてください。"
         }
       ],
       "has_raw": true,
@@ -4619,6 +5347,47 @@
           "uploaded_at": "2026-06-19T10:40:08.636648+00:00"
         }
       ],
+      "excerpt": "ジーノ・ウィックマンの『トラクション』を要約します。やりたいことは分かるのに前に進めない会社を、優先順位を絞る仕組みで動かし直す、中小企業向けの実践メソッドをやさしく整理します。",
+      "article_category": "ビジネス",
+      "article_tags": [
+        "EOS",
+        "経営",
+        "優先順位",
+        "中小企業",
+        "実行力"
+      ],
+      "reading_time": 2,
+      "article": [
+        {
+          "heading": "この本の要点を一言で",
+          "body": "本書は、立派なビジョンを掲げても実行が伴わない会社の課題に焦点を当て、それを仕組みで解決する方法を示します。著者のジーノ・ウィックマンは、起業家のための経営システム「EOS」を提案します。鍵となるのは、すべてを同時に追わず最重要事項を数個に絞り、九十日という短い区切りで先に取り組むという考え方です。やることを増やすほど安心という思い込みを、絞るほど多く達成できるという発想へ反転させると説きます。"
+        },
+        {
+          "heading": "EOSと六つのモジュール",
+          "body": "本書のEOSは、会社を六つの側面から強化する全体的な仕組みです。具体的には、ビジョン、人材、データ、課題、プロセス、トラクションの六つです。ビジョンで進む方向をそろえ、人材で正しい人を正しい席に置きます。データで重要な数値を毎週追い、課題を率直に話し合って解決します。プロセスで仕事の進め方を文書化し、最後のトラクションで計画を実行に移します。本書は、この六つを順に整えることで、現場の混乱を減らせると述べます。"
+        },
+        {
+          "heading": "瓶と石にたとえる優先順位",
+          "body": "本書は優先順位を、瓶に物を入れる順番にたとえます。大きな石、小石、砂、水を瓶に入れるとき、軽い水や砂から入れると、肝心の大きな石が入りきりません。逆に大きな石を先に底へ置けば、すき間に小石や砂、水まで収まります。瓶は一日や一年、大きな石は最も大事なこと、砂や水は雑務や割り込みにあたります。多くの人は急ぎの用事から一日を埋めてしまい、大事なことを後回しにします。順番を入れ替えるだけで前に進むと示します。"
+        },
+        {
+          "heading": "九十日の優先事項という考え方",
+          "body": "本書は、今期に何があっても終わらせる最重要事項を「石」と呼びます。石は三つから七つほどに絞り、一年ではなく九十日という短い区切りで決めると述べます。一年は長く、年初の目標を年末まで覚えていられる人は多くありません。そこで一年を四つに割り、九十日ごとに石を決めて走ります。あるクライアントは目標を三つに絞った年に三つすべてを達成したと紹介されます。集中は気合ではなく、力をどこに集めるかの問題だと説きます。"
+        },
+        {
+          "heading": "こんな人におすすめの一冊",
+          "body": [
+            "やりたいことは多いのに前に進まないと感じる人",
+            "中小企業の経営やチーム運営を担う人",
+            "目標が毎年立ち消えになりがちな人",
+            "仕組みで実行力を高めたいと考える人"
+          ]
+        },
+        {
+          "heading": "まとめと今日の最初の一歩",
+          "body": "本書の核心は、やることを足すより外す勇気にあります。最初の一歩として、今年の目標を一つ思い出し、これからの九十日でできる三つに割り直してみてください。そして、その三つを一日の最初の時間にあてます。細かい用事は後からすき間に流し込めば十分です。ジーノ・ウィックマンは、夢は才能ではなく進める仕組みだと説きます。まず今期の石を三つ決めるところから始めると、手綱を握り直す感覚がつかめます。"
+        }
+      ],
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -4638,6 +5407,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『MBAで学ぶ世界標準の会計とファイナンス 1冊にまとめて図でわかりやすく解説』趙炳鉉 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B09BG3GZVG?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=MBA%E3%81%A7%E5%AD%A6%E3%81%B6%E4%B8%96%E7%95%8C%E6%A8%99%E6%BA%96%E3%81%AE%E4%BC%9A%E8%A8%88%E3%81%A8%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9+1%E5%86%8A%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E5%9B%B3%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E8%A7%A3%E8%AA%AC&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n「読めない、つながらない」が、「地図の上で、読める」に変わる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -4657,6 +5431,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『図解即戦力 インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書』インフラエンジニア研究会 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B09FX7YP29?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E5%9B%B3%E8%A7%A3%E5%8D%B3%E6%88%A6%E5%8A%9B+%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E7%9F%A5%E8%AD%98%E3%81%A8%E5%AE%9F%E5%8B%99%E3%81%8C%E3%81%93%E3%82%8C1%E5%86%8A%E3%81%A7%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A%E3%82%8F%E3%81%8B%E3%82%8B%E6%95%99%E7%A7%91%E6%9B%B8&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n見えなかった裏側が、見える。その瞬間から、あなたはもう、土台のいちばん近くに立っています。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -4743,8 +5522,84 @@
           "uploaded_at": "2026-06-19T10:45:55.499247+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
+      "updated_at": null
+    },
+    {
+      "asin": "B09PB6LNFM",
+      "slug": "b09pb6lnfm",
+      "title_book": "顧客起点マーケティング",
+      "title_video": "【サクッと要約】実践 顧客起点マーケティング｜売れる発想は、たった一人から",
+      "author": "実践 顧客起点マーケティング",
+      "publisher": null,
+      "genre": "経営",
+      "amazon_url": "https://www.amazon.co.jp/dp/B09PB6LNFM?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B09PB6LNFM.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『実践 顧客起点マーケティング』西口一希 著\n→ Amazon(紙/Kindle)で見る: https://www.amazon.co.jp/dp/B07P6XKQ14?tag=otona_radio-22&linkCode=ll1\n→ Audible（オーディオブック）で聴く: https://www.amazon.co.jp/dp/B09PB4DCBB?tag=otona_radio-22\n　初回30日間の無料体験つき。耳で“ながら”読書ができます！\n\n誰に売れているのか分からないまま広告に注ぎ込んでいたあなたが、たった一人の名前のある顧客を深く理解することから、効くアイデアを確かな手応えとともに掴める。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
+      "chapters": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "U0uJvFZ5ovI",
+          "url": "https://youtu.be/U0uJvFZ5ovI",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T10:19:22.521394+00:00"
+        }
+      ],
+      "excerpt": "西口一希『実践 顧客起点マーケティング』を要約。たった一人の顧客を深く理解し、独自性と便益のあるアイデアを生む型を、九セグマップとともに解説します。",
+      "article_category": "ビジネス",
+      "article_tags": [
+        "マーケティング",
+        "顧客分析",
+        "N1分析",
+        "ブランド戦略",
+        "事業成長"
+      ],
+      "reading_time": 2,
+      "article": [
+        {
+          "heading": "この本の要点",
+          "body": "本書は、平均化された「みんな」ではなく、実在するたった一人の顧客から発想すべきだと説きます。著者の西口一希さんは、その一人を深く理解すれば、多くの人に効くアイデアの種が見つかると述べます。さらに、顧客全体を層に塗り分ける地図を使い、見つけた仮説を数字で検証してから投資を広げる手順を示します。勘や経験ではなく、誰でも再現できる型として整理されている点が特徴です。"
+        },
+        {
+          "heading": "アイデアは独自性と便益で決まる",
+          "body": "本書は、効くアイデアを「独自性」と「便益」という二つのものさしで定義します。独自性は人が思わず注目する個性、便益は買う価値があると感じさせる得のことです。この二つがそろって初めてアイデアになると説きます。珍しいだけで得がなければ一過性の仕掛けに終わり、得はあっても独自性がなければ価格競争に陥ると指摘します。さらに、伝え方より商品そのものの良さが主役だと強調します。"
+        },
+        {
+          "heading": "たった一人を深く理解する",
+          "body": "本書が最も大切にするのが、名前と顔のある一人の顧客、いわゆる「N1」への深い理解です。平均値は誰の顔でもない架空の人物なので、心を動かす具体策は出てこないと述べます。そこで、その人がいつ商品と出会い、なぜファンになったのかを時間の流れに沿って聞き取ります。著者は、ロイヤル顧客に十人ほど聞けば、人を夢中にさせるきっかけの候補が見つかると述べます。"
+        },
+        {
+          "heading": "顧客ピラミッドと九セグマップ",
+          "body": "本書は、市場全体を映す地図として「顧客ピラミッド」を提案します。認知・購買・頻度の三つの質問で、顧客を五つの層に塗り分ける道具です。さらに「次も選びたいか」という気持ちの軸を加え、五層を九つに割ったものが「九セグマップ」です。これにより、たくさん買っていても心は冷めている層を見える化できます。著者は、これが販売促進とブランディングを一枚の地図で同時に測る試みだと述べます。"
+        },
+        {
+          "heading": "効くアイデアを生む五つのステップ",
+          "body": [
+            "顧客ピラミッドを作り市場全体を五層に分ける",
+            "各層の行動と心理を並べて仮説を立てる",
+            "層を代表する一人に深く聞くN1分析を行う",
+            "他の層にない独自のきっかけをアイデアに翻訳する",
+            "定量調査で検証してから投資を広げる"
+          ]
+        },
+        {
+          "heading": "まとめと最初の一歩",
+          "body": "本書は、売れない原因は予算やセンスではなく、誰にどう届いているかを映す地図がなかっただけだと述べます。スマートニュースを一年で業界一位へ押し上げた手順としても紹介され、実務に根ざした型である点が伝わります。最初の一歩は、大衆を眺めるのをやめ、顔の見える一人の前に座ることです。その人がなぜ動いたかを聞き取り、見つけた仮説を小さく試すところから始められます。"
+        }
+      ],
+      "has_raw": false,
+      "raw_type": null,
       "updated_at": null
     },
     {
@@ -4825,6 +5680,11 @@
           "uploaded_at": "2026-06-19T10:39:37.765454+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": false,
       "raw_type": null,
       "updated_at": null
@@ -4833,7 +5693,7 @@
       "asin": "B09TP6HRPK",
       "slug": "b09tp6hrpk",
       "title_book": "ベンチャー・キャピタリスト 世界を動かす最強の「キングメーカー」たち (NewsPicksパブリッシング)",
-      "title_video": "ベンチャー・キャピタリスト 世界を動かす最強の「キングメーカー」たち (NewsPicksパブリッシング)",
+      "title_video": "【サクッと要約】ベンチャー・キャピタリスト 世界を動かす最強の「キングメーカー」たち｜世界を動かす「キングメーカー」の正",
       "author": "ベンチャー・キャピタリスト 世界を動かす最強の「キングメーカー」たち",
       "publisher": null,
       "genre": "経営",
@@ -4850,8 +5710,78 @@
           "video_id": "dxXqjAiiUXM",
           "url": "https://youtu.be/dxXqjAiiUXM",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T07:00:00Z",
           "uploaded_at": "2026-06-22T07:38:35.739038+00:00"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": "2026-06-23T07:13:03.947795+00:00"
+    },
+    {
+      "asin": "B09VK6XKB5",
+      "slug": "b09vk6xkb5",
+      "title_book": "スモールビジネスの教科書",
+      "title_video": "スモールビジネスの教科書",
+      "author": null,
+      "publisher": null,
+      "genre": "経営",
+      "amazon_url": "https://www.amazon.co.jp/dp/B09VK6XKB5?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B09VK6XKB5.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『スモールビジネスの教科書』武田所長 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B09VK6XKB5?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\nうまくいきそうなアイデアが思い浮かばず、何から始めればいいか分からなかったあなたが、勝てる戦場の選び方を手に、当たり前のことを当たり前にやって着実に儲けられる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
+      "chapters": [],
+      "videos": [],
+      "excerpt": "武田所長さんの『スモールビジネスの教科書』を要約。一発逆転ではなく、勝てる戦場を選び、当たり前のことを当たり前にやって、低リスクで着実に儲ける手順を整理します。",
+      "article_category": "ビジネス",
+      "article_tags": [
+        "起業",
+        "経営",
+        "独立",
+        "市場選び",
+        "差別化"
+      ],
+      "reading_time": 3,
+      "article": [
+        {
+          "heading": "この本の要点をやさしく整理",
+          "body": "『スモールビジネスの教科書』は、社会を変える大発明や一発逆転を狙う商売ではなく、高い確率でそこそこのリターンを着実に積み上げる商売を扱います。著者の武田所長さんは、ビジネスに正解はないと言われがちだが、再現できる成功法はあると説きます。多くの失敗は才能や運の不足ではなく、その手順を途中で飛ばしたために起きる、という見方です。焦りや人間関係のしがらみで肝心な検証を後回しにすると、つまずく。逆に順番どおり進めれば、無理なく着実に成功できる、というのが本書の土台になる主張です。"
+        },
+        {
+          "heading": "ベンチャーとは目的が違う",
+          "body": "本書は、スモールビジネスとベンチャーは目的も手法もまったく違うと整理します。ベンチャーは外部資本を入れ、稀な出口を何年も待つ一発逆転型です。一方スモールビジネスは資本を入れず、事業が日々生むお金をそのまま儲けにします。投資家に振り回されず、方針を自分が握ったままでいられる点を重視します。大きなリスクは取りませんが、数十万円規模の小さな投資は絶え間なく回します。自転車が漕ぐから倒れないように、細かい投資の連続が安定を生む、という考え方です。派手さと引き換えに、自由と平穏を取りにいく選択だと述べます。"
+        },
+        {
+          "heading": "勝てる戦場の選び方が肝",
+          "body": "本書がとくに重視するのが、どの市場で戦うかという戦場選びです。顧客セグメントの選択は決定的に重要で、場所選びの時点で勝負の大半は決まると説きます。みんなが気づくニーズには人が殺到し、消耗戦になる。だから人が見落とす課題や、人気のない市場を狙えと言います。儲かっている会社を探すときは、上場企業が開示するIR資料を宝の山と呼び、決算説明資料から儲かる理由を読み解くよう勧めます。ゼロから発想するのではなく、すでに儲かっている現実を出発点にし、そこから逆算して考える。これが着実な入り口だと述べます。"
+        },
+        {
+          "heading": "当たり前を当たり前にやる",
+          "body": "本書は、奇抜なビジネスモデルを発明しようとすると失敗しやすいと指摘します。仕組みは人材紹介やコンサルティングなど定番の型を借り、差別化は誰に・何を・どこから、つまり顧客セグメント、コンテンツ、仕入れ先で生むと説きます。商品やサービス自体は普通でよく、普通のものを安定して安く届けることに力を注ぐよう勧めます。中身で勝てないからとコンセプトの新しさで差を装う逃げは戒めます。当たり前のことを当たり前にやれるだけで、実は世の中のごく一握りに入れる、というのが、肩の力が抜けた本書の中心メッセージです。"
+        },
+        {
+          "heading": "実行で押さえる手順とは",
+          "body": "戦略を実行へ移すとき、本書はまず仮説的な提案書を書けと言います。調査を続けるほど動けなくなるからです。値付けは大手企業の単価から間接費をそぎ落とし、直接かかる費用だけで思い切って安く設定します。小さな商売は大手に踏み潰す価値すらないため、相手にされないことがかえって盾になると述べます。さらに、最初の一件を丁寧に仕上げ、実績を雪だるま式に次の仕事へつなげる。KPIと三年後の損益計算書がつながった一枚の計画を自分で持ち、他人の物差しに頼らず判断できる土台を作ることを勧めます。"
+        },
+        {
+          "heading": "こんな人と最初の一歩",
+          "body": [
+            "自分の商売を持ちたいが何から始めるか分からない人",
+            "一発逆転より低リスクで着実に儲けたい人",
+            "好きを仕事にで失敗しないか不安な会社員",
+            "投資家に縛られず自分の方針で進めたい人",
+            "派手さより時間と場所の自由を大切にしたい人"
+          ]
+        },
+        {
+          "heading": "まとめと踏み出す一歩",
+          "body": "『スモールビジネスの教科書』が伝えるのは、特別な才能も奇抜なアイデアもいらない、ということです。勝てる戦場を選び、当たり前のことを当たり前にやれば、着実に儲けられると武田所長さんは説きます。成功はゴールではなく、時間や場所の自由へ進むためのパスポートだとも述べます。最初の一歩としては、自分の経験やつながりから戦う範囲を絞り、その中で実際に儲けている会社を一社調べてみることが現実的です。小さく、確実に。冷静に、情熱的に始める。本書はそう背中を押して締めくくります。"
         }
       ],
       "has_raw": true,
@@ -4862,7 +5792,7 @@
       "asin": "B09WMVSDT7",
       "slug": "b09wmvsdt7",
       "title_book": "会計と経営の七〇〇年史 ──五つの発明による興奮と狂乱 (ちくま新書)",
-      "title_video": "会計と経営の七〇〇年史 ──五つの発明による興奮と狂乱 (ちくま新書)",
+      "title_video": "【サクッと要約】会計と経営の七〇〇年史 ──五つの発明による興奮と狂乱｜五つの発明で辿る、お金に酔った人類のドラマ（メデ",
       "author": "会計と経営の七〇〇年史 ──五つの発明による興奮と狂乱",
       "publisher": null,
       "genre": "教養",
@@ -4879,8 +5809,108 @@
           "video_id": "UsgRjekOoWY",
           "url": "https://youtu.be/UsgRjekOoWY",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T14:00:00Z",
           "uploaded_at": "2026-06-22T07:39:30.419672+00:00"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": "2026-06-23T07:13:10.447067+00:00"
+    },
+    {
+      "asin": "B09WR4VYGP",
+      "slug": "b09wr4vygp",
+      "title_book": "ファンダメンタルズ×テクニカル マーケティング",
+      "title_video": "【サクッと要約】ファンダメンタルズ×テクニカル マーケティング｜感情を読む側と、数字を読む側",
+      "author": "ファンダメンタルズ×テクニカル マーケティング",
+      "publisher": null,
+      "genre": "経営",
+      "amazon_url": "https://www.amazon.co.jp/dp/B09WR4VYGP?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B09WR4VYGP.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『ファンダメンタルズ×テクニカル マーケティング』木下勝寿 著\n→ Amazon(紙/Kindle)で見る: https://www.amazon.co.jp/dp/B09Y8HCV4Y?tag=otona_radio-22&linkCode=ll1\n→ Audible（オーディオブック）で聴く: https://www.audible.co.jp/pd/B09WR4VYGP\n　初回30日間の無料体験つき。耳で“ながら”読書ができます！\n\n売れないのは、あなたのセンスが足りないからじゃない。リアルとは前提がまるで違うウェブの仕組みを、まだ知らなかっただけ。仕組みが見えれば、何を直せばいいかは数字の中にちゃんと書いてある。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
+      "chapters": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "TniAyqSv6ng",
+          "url": "https://youtu.be/TniAyqSv6ng",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T10:19:40.981572+00:00"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": false,
+      "raw_type": null,
+      "updated_at": null
+    },
+    {
+      "asin": "B09YV475ZS",
+      "slug": "b09yv475zs",
+      "title_book": "不条理な会社人生から自由になる方法 働き方2.0vs4.0",
+      "title_video": "不条理な会社人生から自由になる方法 働き方2.0vs4.0",
+      "author": null,
+      "publisher": null,
+      "genre": "自己啓発",
+      "amazon_url": "https://www.amazon.co.jp/dp/B09YV475ZS?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B09YV475ZS.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『不条理な会社人生から自由になる方法 働き方2.0vs4.0』橘玲 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B09YV475ZS?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E4%B8%8D%E6%9D%A1%E7%90%86%E3%81%AA%E4%BC%9A%E7%A4%BE%E4%BA%BA%E7%94%9F%E3%81%8B%E3%82%89%E8%87%AA%E7%94%B1%E3%81%AB%E3%81%AA%E3%82%8B%E6%96%B9%E6%B3%95+%E5%83%8D%E3%81%8D%E6%96%B92.0vs4.0&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n会社に縛られ、不条理に振り回されていたあなたが、いつでも会社の外に出られる自分に変われる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
+      "chapters": [],
+      "videos": [],
+      "excerpt": "橘玲『働き方2.0vs4.0』を要約します。会社で感じる息苦しさの正体を、年功序列と「身分」という仕組みから読み解き、評判を資産に自由へ近づく道を中立に紹介します。",
+      "article_category": "自己啓発",
+      "article_tags": [
+        "働き方",
+        "雇用",
+        "キャリア",
+        "橘玲",
+        "フリーエージェント"
+      ],
+      "reading_time": 2,
+      "article": [
+        {
+          "heading": "この本の要点",
+          "body": "橘玲さんの『不条理な会社人生から自由になる方法 働き方2.0vs4.0』は、会社で感じる理不尽の原因を、個人の能力や努力ではなく、雇用の仕組みそのものに見ます。年功序列と、正社員という「身分」を土台にした日本型雇用が、説明のつかない格差や報われない長時間労働を生む、と本書は指摘します。その正体に名前をつけたうえで、会社の外でも通用する評判を育て、自分を一人の専門家として捉え直す道を示します。データと事実を順に積み上げる構成が特徴です。"
+        },
+        {
+          "heading": "四つの働き方という地図",
+          "body": "本書は働き方を四つの段階に整理します。第一は年功序列を中心にした日本型雇用、第二は成果で評価する世界標準、第三はプロジェクトごとに専門家が集まるシリコンバレー型、第四は会社に属さず独立して働くフリーエージェントです。橘さんは、これを優劣のランキングではなく、世界がどちらへ動いているかを示す地図として並べます。世界が成果主義や独立した働き方へ進む一方で、日本だけが古い年功序列に留まっている。ここに不条理の根があると本書は見ています。"
+        },
+        {
+          "heading": "不条理を生む身分と家の構造",
+          "body": "本書が不条理の正体として名指しするのが「身分」です。海外のジョブ型では同じ仕事なら待遇は同じですが、日本では正社員か非正規か、親会社か子会社かで扱いが変わると指摘します。その根を、橘さんは社会を個人でなく「家」で管理する古い発想に求めます。戦後はその「家」が会社に置き換わり、正メンバーである正社員と、それ以外という線引きが生まれたと読み解きます。計算ミスではなく、土台の古さから来る構造の問題だ、というのが本書の診断です。"
+        },
+        {
+          "heading": "本書が示す変化の事実",
+          "body": [
+            "国際調査で日本の社員の仕事への熱意や満足度は最低水準",
+            "技術は指数関数的に進み会社の寿命は従業員より短くなる",
+            "ネットフリックスやグーグルは一生の雇用を前提にしない",
+            "残業時間で昇進が決まり女性の管理職比率が低くなる",
+            "正社員を守る解雇規制が非正規や氷河期世代へしわ寄せ"
+          ]
+        },
+        {
+          "heading": "自由に近づくための処方箋",
+          "body": "本書の処方箋は「評判」と「ギブ」という二つの言葉に集約されます。会社の看板ではなく、個人への信頼が次の仕事を連れてくる時代だ、と橘さんは見ます。その評判は、知識や人脈を惜しまず与えることで静かに積み上がると説きます。さらに、好きな専門を磨いて長く働けば、老後が長すぎるという問題そのものが小さくなる、とも述べます。自由とは心の持ちようではなく、自由に生きるための経済的な足場を自分で持つことだ、と本書は定義し直します。"
+        },
+        {
+          "heading": "まとめと自由への最初の一歩",
+          "body": "『働き方2.0vs4.0』が伝えるのは、会社で感じる息苦しさはあなたのせいではなく、古い仕組みから来ている、という視点です。正体に名前がつけば、悩みは向き合える構造に変わります。最初の一歩として本書がすすめるのは、会社にいる今この瞬間から、自分を一人の専門家として捉え直すことです。会社のブランドに寄りかかるのではなく、与えることで自分の評判を少しずつ貯めていく。それだけで、今いる場所が自由への準備期間に変わっていく、と橘さんは静かに後押しします。"
         }
       ],
       "has_raw": true,
@@ -4902,6 +5932,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『改訂版 金利を見れば投資はうまくいく』堀井正孝 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0B2CZSGB2?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E6%94%B9%E8%A8%82%E7%89%88+%E9%87%91%E5%88%A9%E3%82%92%E8%A6%8B%E3%82%8C%E3%81%B0%E6%8A%95%E8%B3%87%E3%81%AF%E3%81%86%E3%81%BE%E3%81%8F%E3%81%84%E3%81%8F&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n金利という炭鉱のカナリアの声を知れば、冬が来る前に、自分の判断で立ち止まれる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -4989,7 +6024,7 @@
           "video_id": "jWt265SolNI",
           "url": "https://youtu.be/jWt265SolNI",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T09:00:00Z",
           "uploaded_at": "2026-06-19T12:41:52.116558+00:00"
         },
         {
@@ -5002,9 +6037,14 @@
           "uploaded_at": "2026-06-10T10:32:12.549291+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": "2026-06-19T12:41:53.851567+00:00"
+      "updated_at": "2026-06-23T07:13:06.289026+00:00"
     },
     {
       "asin": "B0BPS84ZP3",
@@ -5021,6 +6061,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『超インフレ時代の「お金の守り方」 円安ドル高はここまで進む』藤巻健史 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0BPS84ZP3?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E8%B6%85%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E6%99%82%E4%BB%A3%E3%81%AE%E3%80%8C%E3%81%8A%E9%87%91%E3%81%AE%E5%AE%88%E3%82%8A%E6%96%B9%E3%80%8D+%E5%86%86%E5%AE%89%E3%83%89%E3%83%AB%E9%AB%98%E3%81%AF%E3%81%93%E3%81%93%E3%81%BE%E3%81%A7%E9%80%B2%E3%82%80&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n気づいたら、静かに、目減りしていた、が、気づいて、ちゃんと、守れる、に変わる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -5029,7 +6074,7 @@
       "asin": "B0BPY77S96",
       "slug": "b0bpy77s96",
       "title_book": "数理モデル思考で紐解くRULE DESIGN -組織と人の行動を科学する-",
-      "title_video": "数理モデル思考で紐解くRULE DESIGN -組織と人の行動を科学する-",
+      "title_video": "【サクッと要約】数理モデル思考で紐解く RULE DESIGN -組織と人の行動を科学する-｜人を動かす仕組みが裏目に出",
       "author": "数理モデル思考で紐解く RULE DESIGN -組織と人の行動を科学する-",
       "publisher": null,
       "genre": "経営",
@@ -5046,13 +6091,18 @@
           "video_id": "Q_k4Xnh65l4",
           "url": "https://youtu.be/Q_k4Xnh65l4",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-30T07:00:00Z",
           "uploaded_at": "2026-06-22T07:40:21.977080+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-23T07:13:17.046308+00:00"
     },
     {
       "asin": "B0BVZFKF8B",
@@ -5069,6 +6119,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『大インフレ時代！ 日本株が強い』エミン・ユルマズ 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0BVZFKF8B?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E5%A4%A7%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E6%99%82%E4%BB%A3%EF%BC%81+%E6%97%A5%E6%9C%AC%E6%A0%AA%E3%81%8C%E5%BC%B7%E3%81%84&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n前提の入れ替わりに気づいたいま、あなたはもう、目減りを見ているだけの側ではない——自分の手で、資産を守る側に回れます。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -5156,13 +6211,18 @@
           "video_id": "4oSMU2xMUZg",
           "url": "https://youtu.be/4oSMU2xMUZg",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-27T04:00:00Z",
           "uploaded_at": "2026-06-19T13:52:24.976407+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-18T13:40:20.117773+00:00"
+      "updated_at": "2026-06-23T07:12:37.182373+00:00"
     },
     {
       "asin": "B0BZTVKKMR",
@@ -5247,13 +6307,18 @@
           "video_id": "UmOBYouionA",
           "url": "https://youtu.be/UmOBYouionA",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-26T12:00:00Z",
           "uploaded_at": "2026-06-19T13:52:27.605721+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T22:37:26.765409+00:00"
+      "updated_at": "2026-06-23T07:12:30.612330+00:00"
     },
     {
       "asin": "B0C4NWWCTQ",
@@ -5338,13 +6403,89 @@
           "video_id": "xOIMjKbJbDg",
           "url": "https://youtu.be/xOIMjKbJbDg",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-27T02:00:00Z",
           "uploaded_at": "2026-06-19T14:00:56.580817+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T13:54:33.488206+00:00"
+      "updated_at": "2026-06-23T07:12:34.852346+00:00"
+    },
+    {
+      "asin": "B0C8X38MP3",
+      "slug": "b0c8x38mp3",
+      "title_book": "マーケティングを学んだけれど、どう使えばいいかわからない人へ",
+      "title_video": "【サクッと要約】マーケティングを学んだけれど、どう使えばいいかわからない人へ｜迷わないためのたった2つの問い",
+      "author": "マーケティングを学んだけれど、どう使えばいいかわからない人へ",
+      "publisher": null,
+      "genre": "経営",
+      "amazon_url": "https://www.amazon.co.jp/dp/B0C8X38MP3?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0C8X38MP3.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『マーケティングを学んだけれど、どう使えばいいかわからない人へ』西口一希 著\n→ Amazon(紙/Kindle)で見る: https://www.amazon.co.jp/dp/B0BVVSZ43M?tag=otona_radio-22&linkCode=ll1\n→ Audible（オーディオブック）で聴く: https://www.audible.co.jp/pd/B0C8X38MP3\n　初回30日間の無料体験つき。耳で“ながら”読書ができます！\n\n手法やツールの森でずっと迷っていたあなたが、たった一つのコンパス——誰に、どんな便益と独自性を、という問いを手にして、何から手をつければいいかを自分で判断できるようになる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
+      "chapters": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "h5pkc8z0Tfg",
+          "url": "https://youtu.be/h5pkc8z0Tfg",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T10:19:32.576172+00:00"
+        }
+      ],
+      "excerpt": "西口一希『マーケティングを学んだけれど、どう使えばいいかわからない人へ』を要約。手法の森で迷わないための「誰に・何を」というコンパスと、価値づくりの地図をやさしく整理します。",
+      "article_category": "ビジネス",
+      "article_tags": [
+        "マーケティング",
+        "西口一希",
+        "価値",
+        "顧客理解",
+        "ブランディング"
+      ],
+      "reading_time": 2,
+      "article": [
+        {
+          "heading": "この本の要点",
+          "body": "本書は、マーケティングを学んでも実務で使えないのは、手法が増えすぎた森のなかで、進む方向を示すコンパスと地図を渡されてこなかっただけだと指摘します。著者の西口一希さんは、必要なのは新しいツールを覚えることではなく、誰に・何を、というたった二つの問いに立ち返ることだと提案します。この問いを軸に据えれば、無数の手段は地図上に整理でき、迷いが減っていくという考え方です。"
+        },
+        {
+          "heading": "マーケティングが難しくなった理由",
+          "body": "本書は、四つのPは本来まんなかに顧客がいたのに、形が便利すぎて顧客が抜け落ち、手段ばかりが増えたと説明します。その結果、定義の曖昧なバズワードが森のように茂り、学んでも使えない状態が生まれたと整理します。だからこそ著者は、出発点をフー、誰に、とワット、何を、に引き戻します。どこで・どう・いくらで売るかはすべて、その実現のための手段にすぎないという立場です。"
+        },
+        {
+          "heading": "価値は便益と独自性で決まる",
+          "body": [
+            "価値とは、お客様が便益と独自性を見出すもの",
+            "便益は便利・得・悩み解決など、選ぶ理由になる良さ",
+            "独自性は他では手に入らない、他を選ばない理由",
+            "価値はお金だけでなく時間や体力との交換でも生まれる",
+            "同じ商品でも価値は人や状況によって動き続ける"
+          ]
+        },
+        {
+          "heading": "たった一人を深く理解する",
+          "body": "本書は、行動データだけでは買った理由はわからないため、対話やインタビューで本音を掘り下げる大切さを説きます。自社商品だけでなく、他社を使う未顧客にも話を聞き、何があれば乗り換えるかを探ります。著者が手がけた男性用ボディソープでは、体をこすって洗う一人の行動とにおいを消したい本音から、半年で市場一位の商品が生まれたといいます。現場に足を運び、一人の本音から仮説を立て続けることが、すべての始まりだと整理します。"
+        },
+        {
+          "heading": "成長させる地図とブランディング",
+          "body": "本書は、ビジネスをゼロから一、一から十、十から千へと広げる地図を示します。拡大の鍵は、最初の顧客とは違う価値を見出す人を見つけることです。マクドナルドの夜マックやワークマンの一般客への広がりが例として挙げられます。さらに著者は、ブランディングは価値を生む魔法ではなく、作った価値を記憶に残す手段だと釘を刺します。便益の弱い商品にいくら焼印を押しても効果は出ないという順番を重視しています。"
+        },
+        {
+          "heading": "まとめと最初の一歩",
+          "body": "本書は、迷いを消す問いは、誰に、どんな便益と独自性を、というシンプルなものだと締めくくります。この一問は商品づくりを超え、仕事や暮らしの判断にも使えると著者は説きます。まず最初の一歩として、自分が最近お金や時間を使ったものを振り返り、なぜそれを選んだのかを書き出すとよいでしょう。自分がどんな価値に反応するかが見えれば、お客様の価値も想像しやすくなります。手法の森は、地図を片手に旅する場所へ変わっていきます。"
+        }
+      ],
+      "has_raw": false,
+      "raw_type": null,
+      "updated_at": null
     },
     {
       "asin": "B0CFX1K2JH",
@@ -5361,6 +6502,11 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『攻めのファイナンス スタートアップCFO入門』竹居邦彦 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0CFX1K2JH?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E6%94%BB%E3%82%81%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9+%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97CFO%E5%85%A5%E9%96%80&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n数字という光を手にした瞬間から、キャリアは、誰かに動かされるものではなく、自分で動かしていけるものに変わる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -5452,13 +6598,42 @@
           "video_id": "XoKkTA4Si0U",
           "url": "https://youtu.be/XoKkTA4Si0U",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-02T09:00:00Z",
           "uploaded_at": "2026-06-19T14:01:40.959164+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": "2026-06-17T05:07:07.163301+00:00"
+      "updated_at": "2026-06-23T07:13:44.526823+00:00"
+    },
+    {
+      "asin": "B0CN8M8DNF",
+      "slug": "b0cn8m8dnf",
+      "title_book": "A.T. カーニー 業界別 経営アジェンダ 2024 (日本経済新聞出版)",
+      "title_video": "A.T. カーニー 業界別 経営アジェンダ 2024 (日本経済新聞出版)",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B0CN8M8DNF?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0CN8M8DNF.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": null
     },
     {
       "asin": "B0CPXZ1NJQ",
@@ -5490,6 +6665,11 @@
           "uploaded_at": "2026-06-19T10:41:16.157269+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": false,
       "raw_type": null,
       "updated_at": null
@@ -5581,13 +6761,18 @@
           "video_id": "0gVN4V1TZiY",
           "url": "https://youtu.be/0gVN4V1TZiY",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-30T02:00:00Z",
           "uploaded_at": "2026-06-19T13:59:48.695450+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:07:53.959215+00:00"
+      "updated_at": "2026-06-23T07:13:13.068918+00:00"
     },
     {
       "asin": "B0CW1MQGQR",
@@ -5665,6 +6850,42 @@
           "privacy": "private",
           "publish_at": "2026-06-21T14:00:00Z",
           "uploaded_at": "2026-06-19T10:43:10.623803+00:00"
+        }
+      ],
+      "excerpt": "中室牧子『「学力」の経済学』を要約します。子育ての常識をデータで検証し、ご褒美の与え方や褒め方、テストでは測れない非認知能力の育て方を、教育経済学の知見からやさしく整理します。",
+      "article_category": "教養・サイエンス",
+      "article_tags": [
+        "教育",
+        "子育て",
+        "データ",
+        "経済学",
+        "非認知能力"
+      ],
+      "reading_time": 4,
+      "article": [
+        {
+          "heading": "この本の要点",
+          "body": "本書は、子育てや教育を「個人の経験談」ではなく「データ」で語ろうと試みる一冊です。著者の中室牧子さんは慶應義塾大学の教授で、教育経済学を専門にしています。ご褒美はあげてよいのか、どう褒めればよいのか、ゲームは悪影響なのか。こうした身近な問いに、世界中の研究結果を手がかりに向き合います。なかでも本書が強調するのは、テストの点数のように目に見える力よりも、やり抜く力や自制心といった目に見えない力のほうが、人生を大きく左右するという見方です。『「学力」の経済学』は、勘や常識で揺れがちな子育ての判断に、確かな足場を与えてくれます。"
+        },
+        {
+          "heading": "データで教育を語るという発想",
+          "body": "本書がまず大切にするのは、因果関係と相関関係を区別する視点です。たとえば「本を読む子は学力が高い」というデータがあっても、読書が学力を生んだとは限りません。賢いから本を読むのかもしれず、親の関心の高さが両方を引き起こしているだけかもしれない、と中室さんは指摘します。そこで本書が信頼を置くのが、対象をくじ引きで二つの集団に分けて比べる実験です。条件をそろえて比べることで、見せかけの関係に惑わされず、本当の効果を取り出せると説きます。誰かの成功体験ではなく、こうした検証を経た知見こそ判断のよりどころになる、というのが出発点です。"
+        },
+        {
+          "heading": "ご褒美は与え方しだい",
+          "body": "ご褒美で釣るのは親として失格だ、という声は根強くあります。けれども本書は、ある大規模な実験を引きながら、ご褒美そのものは悪くないと述べます。鍵になるのは「何に」与えるかです。テストの点数という結果に対してご褒美を約束しても、子どもはどう頑張ればよいか分かりません。一方で、本を読む、宿題をするといった具体的な行動に対して与えると、やるべきことが明確になり、学力が伸びたという結果が紹介されます。人は遠い将来の得より目の前の得に動かされやすい、という性質を逆手に取る工夫として、ご褒美を位置づけている点が印象に残ります。"
+        },
+        {
+          "heading": "努力を褒めるという科学",
+          "body": "自信のある子は成績が良い、というデータから、まず自尊心を高めようとする発想があります。しかし本書は、その因果はむしろ逆で、成績が良いから自信がつくのだと整理します。根拠なく「やればできる」と励ますだけでは、学力は上がりにくいというわけです。では何を褒めればよいのか。本書が紹介する実験では、「頭がいいね」と能力を褒めると子どもは失敗を恐れて挑戦を避け、「よく頑張ったね」と努力を褒めると粘り強く取り組むようになったと言います。変えられない素質ではなく、努力という変えられる部分に光を当てる。中室さんは、褒める場所を少しずらすことの効果を説きます。"
+        },
+        {
+          "heading": "人生を左右する非認知能力",
+          "body": "本書のいちばんの核心は、非認知能力という考え方です。手厚い幼児教育を受けた子どもを追跡した研究では、上がったIQの差は八歳ごろには消えていました。それでもその子たちは、四十歳になっても学歴や収入が高かったと紹介されます。残ったのは、テストでは測れない力でした。本書はこれを非認知能力と呼び、なかでも自制心とやり抜く力を重く見ます。四歳児のマシュマロ実験で我慢できた子が後年も伸びたという話や、遠い目標へ努力を続ける気質の研究が引かれます。しかも本書は、こうした力は筋肉のように後からでも鍛えられると述べ、「私がこの章でもっとも強調したいのは、非認知能力の重要性です。」と記します。"
+        },
+        {
+          "heading": "まとめと今日の最初の一歩",
+          "body": "『「学力」の経済学』が伝えるのは、点数という見える物差しだけで子どもを測らない姿勢です。本当に人生を支えるのは、自制心ややり抜く力といった見えない力であり、それは生まれつきで決まるものではないと中室さんは説きます。最初の一歩としておすすめなのは、答案の点数に一喜一憂しそうになったとき、ひと呼吸おいて問い直してみることです。この子は今、我慢する力や続ける力を育てているだろうか、と。見える力の隣に、見えない力の物差しをもう一本そっと置く。それだけで、子どもへかける言葉や日々の関わりが、少しずつ変わっていくはずです。"
         }
       ],
       "has_raw": true,
@@ -5754,6 +6975,11 @@
           "uploaded_at": "2026-06-17T10:49:56.331151+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": "2026-06-17T05:06:31.521313+00:00"
@@ -5773,8 +6999,98 @@
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『スタートアップ協業を成功させるBMW発の新手法 ベンチャークライアント』木村将之／グレゴール・ギミー 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0D45WB2ZQ?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E5%8D%94%E6%A5%AD%E3%82%92%E6%88%90%E5%8A%9F%E3%81%95%E3%81%9B%E3%82%8BBMW%E7%99%BA%E3%81%AE%E6%96%B0%E6%89%8B%E6%B3%95+%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n投資をするな、顧客になれ。良いお客さんになるだけで、出資では決して入れなかった超一流の扉が開く。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
+      "updated_at": null
+    },
+    {
+      "asin": "B0D85HP7F1",
+      "slug": "b0d85hp7f1",
+      "title_book": "パーパス経営入門 ミドルが会社を変えるための実践ノウハウ",
+      "title_video": "パーパス経営入門 ミドルが会社を変えるための実践ノウハウ",
+      "author": null,
+      "publisher": null,
+      "genre": "経営",
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D85HP7F1?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0D85HP7F1.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『パーパス経営入門 ミドルが会社を変えるための実践ノウハウ』名和高司 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0D85HP7F1?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%83%91%E3%83%BC%E3%83%91%E3%82%B9%E7%B5%8C%E5%96%B6%E5%85%A5%E9%96%80+%E3%83%9F%E3%83%89%E3%83%AB%E3%81%8C%E4%BC%9A%E7%A4%BE%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%9F%E8%B7%B5%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n毎朝、なんのために働くのか分からないまま、閉塞感に押しつぶされていたあなたが、自分の志を会社の旗印に重ね、変わることが楽しくなる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
+      "chapters": [],
+      "videos": [],
+      "excerpt": "『パーパス経営入門』を要約します。会社の存在意義を起点に、中間管理職であるミドルが現場と経営をつなぎ、組織を内側から変えていく実践のノウハウを、やさしく整理して紹介します。",
+      "article_category": "ビジネス",
+      "article_tags": [
+        "パーパス",
+        "経営",
+        "ミドル",
+        "組織変革",
+        "リーダー"
+      ],
+      "reading_time": 3,
+      "article": [
+        {
+          "heading": "この本の要点をひと言で",
+          "body": "本書は、会社が掲げるべき存在意義を「パーパス」と呼び、それを経営の中心に据える考え方を解説します。働く意味を見失う閉塞感は、個人の熱意不足ではなく、会社が旗印を見失った構造の問題だと著者の名和高司さんは整理します。そして、その旗を現場の血肉に変える鍵を握るのは、トップではなく、中間に立つミドルだと述べます。立派な言葉を壁に飾るだけで終わらせず、日々の仕事に結び直すための、具体的な実践ノウハウを示す入門書です。"
+        },
+        {
+          "heading": "なぜ今パーパスなのか",
+          "body": "本書は、パーパスが注目される背景を、一時の流行ではなく避けられない潮流として説明します。AIの進化、人生百年時代、そして投資・労働・社会という三つの市場の変化が重なり、「なんのために働くのか」という問いが避けられなくなったといいます。一方で、社会を良くしつつ業績も上げる発想は、日本にとって新しいものではないと指摘します。近江商人の三方よし、渋沢栄一の合本主義、松下幸之助の繁栄を通じた平和と幸福。本書は、社会貢献と経済的繁栄を「か」ではなく「と」で結ぶことが、日本の原点だったと述べます。"
+        },
+        {
+          "heading": "共感を呼ぶ三つの要件",
+          "body": [
+            "ワクワク：危機感ではなく内側から込み上げる高揚感があること",
+            "ならでは：借り物ではなく自分たちにしか言えない言葉であること",
+            "できる：夢物語ではなく実際に手が届く裏づけがあること",
+            "三つがそろって初めて人を動かす旗になると述べます",
+            "ソニーの感動や花王のキレイのように一語で表すと伝わりやすいといいます"
+          ]
+        },
+        {
+          "heading": "額縁で終わらせない作り方",
+          "body": "本書によれば、せっかく作ったパーパスが機能しない会社は多く、壁に飾るだけの状態を「額縁パーパス」と呼びます。陥りやすい落とし穴として、大きすぎる理想を掲げる社会課題病、数字の計画に飲み込まれる中期計画病、外の知恵を借りない自前主義病の三つを挙げます。だからこそ、上から配るのではなく、現場を巻き込んで対話の中から紡ぐ作り方を勧めます。制約をいったん外して理想を語り合う場を設け、自分たちの言葉で旗を立てることで、社員は「自分も作った」という手応えを持てるといいます。"
+        },
+        {
+          "heading": "ミドルが変革の起点になる",
+          "body": "本書の調査では、トップがパーパスを連呼しても収益性とはほとんど関係がなく、ミドルが語る会社ほど業績が上がったといいます。トップと現場の間には距離があり、その溝を埋められるのが中間に立つミドルだからです。ミドルは上の言葉を現場に翻訳し、現場の声を上に運ぶ。本書は、この往復の働きをミドルアップダウンと呼びます。浸透の現場では、会社の旗と部下個人の志が重なる一点を、一対一の対話で探します。答えを配るのではなく問いで引き出すコーチの姿勢が、自分ごと化を進めると述べます。"
+        },
+        {
+          "heading": "まとめと踏み出す最初の一歩",
+          "body": "本書『パーパス経営入門』が描くのは、存在意義という旗を起点にすると、変わること自体が楽しくなるという希望です。名和高司さんは、志がいちばん沈むのは働き盛りのミドルだと指摘し、そこにこそ大きな伸びしろが眠っていると述べます。最初の一歩は、大きな会社の旗を語る前に、自分は何のために働くのかという問いに、自分自身で向き合ってみることです。そのうえで、部下との一対一の対話の中で、会社の旗と一人ひとりの志が重なる一点を、一緒にていねいに探していく。答えを押しつけず、良い問いで相手の思いを引き出す。本書によれば、そうした小さな積み重ねこそが、組織という大きな船の向きを、内側から変えていく確かな力になります。"
+        }
+      ],
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": null
+    },
+    {
+      "asin": "B0DDB5BMS3",
+      "slug": "b0ddb5bms3",
+      "title_book": "ビジネスを育てる新版",
+      "title_video": "ビジネスを育てる新版",
+      "author": null,
+      "publisher": null,
+      "genre": "経営",
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DDB5BMS3?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0DDB5BMS3.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『ビジネスを育てる新版（）』 著\n→ Amazon(紙/Kindle)で見る: https://www.amazon.co.jp/dp/B0DDB5BMS3?tag=otona_radio-22&linkCode=ll1\n→ Audible（オーディオブック）で聴く: https://www.audible.co.jp/search?keywords=ビジネスを育てる新版（）&tag=otona_radio-22\n　初回30日間の無料体験つき。耳で“ながら”読書ができます！\n\nお金も人脈も実績もない自分に商売なんて無理だと立ちすくんでいたあなたが、自分らしさそのものを起点に、小さく、自分の頭で考えて始められる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
+      "chapters": [],
+      "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": false,
+      "raw_type": null,
       "updated_at": null
     },
     {
@@ -5864,13 +7180,18 @@
           "video_id": "tWgFAH2lrs8",
           "url": "https://youtu.be/tWgFAH2lrs8",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-26T09:00:00Z",
           "uploaded_at": "2026-06-19T12:43:47.433928+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-19T12:43:48.977888+00:00"
+      "updated_at": "2026-06-23T07:12:28.145127+00:00"
     },
     {
       "asin": "B0DK6B68PJ",
@@ -5947,13 +7268,18 @@
           "video_id": "Qu1QobpNz0Y",
           "url": "https://youtu.be/Qu1QobpNz0Y",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T04:00:00Z",
           "uploaded_at": "2026-06-19T13:59:59.009480+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:06:32.180416+00:00"
+      "updated_at": "2026-06-23T07:13:02.187065+00:00"
     },
     {
       "asin": "B0DNSW2XSP",
@@ -6054,9 +7380,38 @@
           "uploaded_at": "2026-06-17T10:35:12.956602+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": "2026-06-17T12:44:36.103959+00:00"
+    },
+    {
+      "asin": "B0DRC6L5TR",
+      "slug": "b0drc6l5tr",
+      "title_book": "【図解】ファイナンス超入門：コーポレートファイナンスでお金、投資、資産運用、節約",
+      "title_video": "【図解】ファイナンス超入門：コーポレートファイナンスでお金、投資、資産運用、節約",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DRC6L5TR?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0DRC6L5TR.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": null
     },
     {
       "asin": "B0DSD3TZFW",
@@ -6121,13 +7476,18 @@
           "video_id": "G0Zsym_fXWQ",
           "url": "https://youtu.be/G0Zsym_fXWQ",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-02T12:00:00Z",
           "uploaded_at": "2026-06-19T14:00:39.631668+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:07:35.934733+00:00"
+      "updated_at": "2026-06-23T07:13:46.894974+00:00"
     },
     {
       "asin": "B0F2HGTDSV",
@@ -6200,13 +7560,18 @@
           "video_id": "B81i32jMb88",
           "url": "https://youtu.be/B81i32jMb88",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-30T04:00:00Z",
           "uploaded_at": "2026-06-19T14:12:49.833935+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:06:16.911085+00:00"
+      "updated_at": "2026-06-23T07:13:14.929713+00:00"
     },
     {
       "asin": "B0F59WWW63",
@@ -6299,13 +7664,18 @@
           "video_id": "JkE9K89DTtE",
           "url": "https://youtu.be/JkE9K89DTtE",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-01T04:00:00Z",
           "uploaded_at": "2026-06-19T14:13:39.044088+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-18T13:13:27.008040+00:00"
+      "updated_at": "2026-06-23T07:13:27.793673+00:00"
     },
     {
       "asin": "B0FDKS1BDJ",
@@ -6394,13 +7764,18 @@
           "video_id": "JlCzYNklEVE",
           "url": "https://youtu.be/JlCzYNklEVE",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-01T02:00:00Z",
           "uploaded_at": "2026-06-19T14:12:48.849870+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:06:38.234387+00:00"
+      "updated_at": "2026-06-23T07:13:25.651983+00:00"
     },
     {
       "asin": "B0FSCSK329",
@@ -6432,8 +7807,137 @@
           "video_id": "YbFTfzFdO28",
           "url": "https://youtu.be/YbFTfzFdO28",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-03T04:00:00Z",
           "uploaded_at": "2026-06-20T08:39:46.522650+00:00"
+        }
+      ],
+      "excerpt": "『成長以外、全て死』を要約。中卒から中古車会社バディカを起こした中野優作さんが、止まった毎日を行動で動かし直すための仕事と生き方の哲学を、やさしく解説します。",
+      "article_category": "自己啓発",
+      "article_tags": [
+        "成長",
+        "仕事術",
+        "経営者",
+        "行動",
+        "生き方"
+      ],
+      "reading_time": 2,
+      "article": [
+        {
+          "heading": "この本の要点",
+          "body": "本書『成長以外、全て死』は、止まったと感じる毎日を、今日からの行動で変え直せると説きます。著者の中野優作さんは、人は若いうちは何もせずとも伸びるが、三十代を境に下りのエスカレーターに乗ると言います。抗わなければ現状維持すらできません。差を生むのは運や才能ではなく、たった一つ、今日の行動だと述べます。過去には戻れなくても、未来の意味は今からの選択で書き直せる。そんな前向きな視点を示す一冊です。"
+        },
+        {
+          "heading": "著者と本書の背景",
+          "body": "著者の中野優作さんは、香川の港町で生まれ、高校を中退した中卒からの出発だったと明かします。土木や不動産、中古車の現場を経て、二〇一七年に中古車販売のバディカを創業した経営者です。本書は、会社が年商百億円に届く頃に燃え尽きてうつの症状に倒れ、そこから立ち直った経験をもとに書かれました。仕事と生き方の哲学を五十の項目に分けて書き下ろしています。情けない話や弱さも正直に書いた、それも含めて自分だと、著者は語ります。"
+        },
+        {
+          "heading": "成長を止めないための考え方",
+          "body": [
+            "やりたいことは探すより、まずやってみて初めて分かる",
+            "才能は外でなく、勇気を出して足元を掘ると湧き出す",
+            "迷う時間が一番疲れる。先に決めて選択肢を減らす",
+            "居心地のよい快適な場所は、成長を奪う墓場になりうる",
+            "比べる相手は他人でなく、昨日の自分にする"
+          ]
+        },
+        {
+          "heading": "仕事と組織で勝ち切る方法",
+          "body": "本書は、時間を命そのものと捉えます。自分の時給より安い作業は外注し、空いた時間を価値ある仕事に充てる、時間を仕入れるという発想です。戦いでは大手と同じ土俵を避け、自分の得意な場所を作って挑むべきだと述べます。組織づくりでは、ゴールを数字で掲げ、仕事をゲームに変える。部下には配慮はしても遠慮はせず、時に厳しく接することが本当の優しさだと語ります。失敗しても物語に変える、終わり方を先に描く姿勢を提案します。"
+        },
+        {
+          "heading": "こんな人におすすめ",
+          "body": [
+            "三十代を過ぎて成長が止まったと感じる人",
+            "やりたいことが見つからず立ち止まっている人",
+            "チームや部下の育て方に悩むリーダー層",
+            "過去の選択を悔やみ前に進めない人"
+          ]
+        },
+        {
+          "heading": "まとめと最初の一歩",
+          "body": "本書が伝えたいのは、人生の脚本を書くのは自分自身だ、ということです。著者は、苦しみや失敗も後から一本の線になる伏線だと述べます。過去は変えられなくても、過去の意味はこれからの行動で変えられる。最初の一歩は大それたことでなくて構いません。運動でも学びでも趣味でも、明日の自分に少し希望が持てる行動を一つ選ぶ。その小さな差分の積み重ねが、止まった足取りをもう一度動かしていく、と本書は語りかけます。"
+        }
+      ],
+      "has_raw": false,
+      "raw_type": null,
+      "updated_at": "2026-06-23T07:13:53.763701+00:00"
+    },
+    {
+      "asin": "B0FT3266TK",
+      "slug": "b0ft3266tk",
+      "title_book": "神様のおまじない",
+      "title_video": "【サクッと要約】神さまのおまじない｜意味の貼り方を変える、小さなおまじない",
+      "author": "神さまのおまじない",
+      "publisher": null,
+      "genre": "自己啓発",
+      "amazon_url": "https://www.amazon.co.jp/dp/B0FT3266TK?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0FT3266TK.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『神さまのおまじない』さとうみつろう 著\n→ Amazon(紙/Kindle)で見る: https://www.amazon.co.jp/dp/B0FK4SWTB5?tag=otona_radio-22&linkCode=ll1\n→ Audible（オーディオブック）で聴く: https://www.amazon.co.jp/dp/B0FT3266TK?tag=otona_radio-22\n　初回30日間の無料体験つき。耳で“ながら”読書ができます！\n\nあなたの心が晴れないのは、弱いからでも、運が悪いからでもない。世界はあなたが意味を貼った鏡。貼り方を変えれば、同じ景色が、いつでも明るく見え始める。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
+      "chapters": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "nk90DLDaSfI",
+          "url": "https://youtu.be/nk90DLDaSfI",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T10:19:50.509109+00:00"
+        }
+      ],
+      "excerpt": "佐藤光郎『神様のおまじない 佐藤光郎短編集2』を要約。世界は心を映す鏡だととらえ、出来事への意味の貼り方を小さな動作で変える、二十あまりの軽いやり方を物語仕立てで紹介します。",
+      "article_category": "自己啓発",
+      "article_tags": [
+        "自己啓発",
+        "心の整え方",
+        "とらえ方",
+        "前向き思考",
+        "ストレス対処"
+      ],
+      "reading_time": 2,
+      "article": [
+        {
+          "heading": "この本の要点",
+          "body": "本書は、ぶっきらぼうな神様と若者のやりとりを軸にした連作の物語です。著者の佐藤光郎さんは、世界は自分の心をそのまま映す一枚の鏡だととらえます。悩みや不安は出来事に最初から付いていたのではなく、自分が後から貼った意味のほうだと述べます。だから意味の貼り方を変えれば、同じ景色でも明るく見え始めると説きます。むずかしい理屈ではなく、誰にでもできる小さな動作として二十あまりの方法を手渡してくれる点が特徴です。"
+        },
+        {
+          "heading": "世界は心を映す鏡という土台",
+          "body": "物語の核にあるのは、見ている人が見た瞬間に現実は立ち上がる、という考え方です。本書は、心の中で思い描く世界と目の前の現実に本当は境目はないと述べます。同じ出来事でも、暗い意味を貼れば暗く、明るい意味を貼れば明るく見える。つまり現実は心を映す鏡で、何を思うかが先、現実が後だと説きます。先にラッキーだと感じると鏡がそれを映す、という順番を大切にします。本書ではこの土台が、すべての方法を一本の線でつなぐ前提になっています。"
+        },
+        {
+          "heading": "本書が伝える主なポイント",
+          "body": [
+            "悩みや不安は出来事ではなく貼った意味に宿る",
+            "現象そのものは中立で、意味は人が後から貼っている",
+            "現実が変わるのを待たず、先に心を整える順番が大事",
+            "自分の感情を一番のナビゲーターにして無理をしない",
+            "何かが起きていること自体が、もう幸せだととらえる"
+          ]
+        },
+        {
+          "heading": "心を軽くする小さなおまじない",
+          "body": [
+            "悩みが続いたら手をパチンと叩いてループを止める",
+            "苦手な相手をイメージの中で先に抱きしめて感謝を渡す",
+            "出来事に感謝玉を投げ、良い面を先に見にいく",
+            "自分をミーと呼び、感情を選ぶ側に立ち直る",
+            "不幸な縁ほど幸福につながると半分だけ言い切る"
+          ]
+        },
+        {
+          "heading": "こんな人におすすめ",
+          "body": [
+            "夜に同じ悩みを何度も思い返してしまう人",
+            "理屈より、すぐ試せる軽いやり方を求める人",
+            "前向きになりたいが無理な思考に疲れた人",
+            "物語を読みながら肩の力を抜きたい人"
+          ]
+        },
+        {
+          "heading": "まとめと最初の一歩",
+          "body": "本書のおまじないは、やり方こそ違っても芯はひとつです。世界は心を映す鏡で、その意味の貼り方を小さな動作で貼り替える、ということに尽きます。手を叩く、感謝を先に渡す、いいことじゃんと笑ってみる。どれも考え込まずに今すぐ試せます。最初の一歩として、嫌だと感じた出来事を一つ選び、その良い面を一つだけ探してみるのがよいでしょう。コーヒーを一杯飲めることも、すでに小さな幸せだと気づくところから始められます。"
         }
       ],
       "has_raw": false,
@@ -6514,7 +8018,7 @@
           "video_id": "uuFGqd8_4vM",
           "url": "https://youtu.be/uuFGqd8_4vM",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-03T12:00:00Z",
           "uploaded_at": "2026-06-19T14:09:21.352842+00:00"
         },
         {
@@ -6527,9 +8031,14 @@
           "uploaded_at": "2026-06-09T21:30:27.933976+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:07:01.115489+00:00"
+      "updated_at": "2026-06-23T07:14:00.256112+00:00"
     },
     {
       "asin": "B0G11QGG7T",
@@ -6609,6 +8118,11 @@
           "uploaded_at": "2026-06-19T10:47:54.453381+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -6684,13 +8198,18 @@
           "video_id": "Kf68SCT0L20",
           "url": "https://youtu.be/Kf68SCT0L20",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-28T09:00:00Z",
           "uploaded_at": "2026-06-19T14:09:38.719890+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-18T13:41:28.209998+00:00"
+      "updated_at": "2026-06-23T07:12:52.890888+00:00"
     },
     {
       "asin": "B0G76V6SK2",
@@ -6738,6 +8257,11 @@
           "uploaded_at": "2026-06-19T10:48:19.185741+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
@@ -6833,9 +8357,38 @@
           "uploaded_at": "2026-06-17T10:11:48.433893+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": "2026-06-17T12:41:41.195845+00:00"
+    },
+    {
+      "asin": "B0GQXQMX7S",
+      "slug": "b0gqxqmx7s",
+      "title_book": "年間100万円の配当金",
+      "title_video": "年間100万円の配当金",
+      "author": null,
+      "publisher": null,
+      "genre": "お金",
+      "amazon_url": "https://www.amazon.co.jp/dp/B0GQXQMX7S?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0GQXQMX7S.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『年間100万円の配当金（）』 著\n→ Amazon(紙/Kindle)で見る: https://www.amazon.co.jp/dp/B0GQXQMX7S?tag=otona_radio-22&linkCode=ll1\n→ Audible（オーディオブック）で聴く: https://www.audible.co.jp/search?keywords=年間100万円の配当金（）&tag=otona_radio-22\n　初回30日間の無料体験つき。耳で“ながら”読書ができます！\n\nお金が増えないのは、あなたの稼ぎが足りないからじゃない。仕組みを知って、淡々と積み上げれば、働かなくてもお金が入ってくる日は、ちゃんと来る。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
+      "chapters": [],
+      "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": false,
+      "raw_type": null,
+      "updated_at": null
     },
     {
       "asin": "B0GWQNGRH9",
@@ -6908,13 +8461,66 @@
           "video_id": "7j5p9XhJdDw",
           "url": "https://youtu.be/7j5p9XhJdDw",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-27T07:00:00Z",
           "uploaded_at": "2026-06-19T14:20:49.500120+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:06:17.897893+00:00"
+      "updated_at": "2026-06-23T07:12:38.816846+00:00"
+    },
+    {
+      "asin": "B0H2QBH634",
+      "slug": "b0h2qbh634",
+      "title_book": "サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）とは何か",
+      "title_video": "サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）とは何か",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B0H2QBH634?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0H2QBH634.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": null
+    },
+    {
+      "asin": "B0H3DB7FP8",
+      "slug": "b0h3db7fp8",
+      "title_book": "ファクタリングのトリセツ 借りずに資金を作る、新しい資金調達の教科書",
+      "title_video": "ファクタリングのトリセツ 借りずに資金を作る、新しい資金調達の教科書",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B0H3DB7FP8?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0H3DB7FP8.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": null
     },
     {
       "asin": "B0IMAKOKO1",
@@ -6999,13 +8605,18 @@
           "video_id": "1xgUwupdJAQ",
           "url": "https://youtu.be/1xgUwupdJAQ",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-07-02T04:00:00Z",
           "uploaded_at": "2026-06-19T14:22:09.290146+00:00"
         }
       ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T05:07:02.548084+00:00"
+      "updated_at": "2026-06-23T07:13:39.657967+00:00"
     }
   ]
 }
