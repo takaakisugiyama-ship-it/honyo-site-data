@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T15:14:50.690886+00:00",
+  "generated_at": "2026-06-23T21:00:04.055267+00:00",
   "schema_version": 1,
   "count": 126,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -1730,11 +1730,58 @@
           "uploaded_at": "2026-06-19T13:20:42.901319+00:00"
         }
       ],
-      "excerpt": null,
-      "article_category": null,
-      "article_tags": null,
-      "reading_time": null,
-      "article": null,
+      "excerpt": "グロービスMBA集中講義ファイナンス教室を要約。専門用語の壁を取り払い、現在価値・割引率・WACCなどを四則演算で理解できるよう噛み砕いた一冊の要点を解説します。",
+      "article_category": "ビジネス",
+      "article_tags": [
+        "ファイナンス",
+        "企業価値",
+        "MBA",
+        "投資判断",
+        "資本コスト"
+      ],
+      "reading_time": 4,
+      "article": [
+        {
+          "heading": "この本の要点と読む価値",
+          "body": "本書『グロービスMBA集中講義 ファイナンス教室』は、「数字が苦手」という人に向けて、ファイナンスの全体像を対話形式で丁寧に伝える一冊です。グロービス経営大学院で10年分の講義問答を積み重ねた星野優さんが著しました。本書の核心にある発想は、世の中のあらゆるものを同じ「お金のものさし」に乗せて比べる、という一点です。事業も建物も、まだ形のないアイデアまで金額に換算できれば、まったく異なるものを同じ土俵で比較できます。難しい計算式は一切なく、足し算・引き算・割り算だけで届く話として、資本コストからM&Aまでを一本のストーリーで読ませてくれます。"
+        },
+        {
+          "heading": "お金の時間的価値と現在価値",
+          "body": "ファイナンスの土台となるのは、「今もらう100万円と1年後の100万円は同じ価値ではない」という考え方です。本書はこれをお金の時間的価値と呼びます。今のお金は運用できて増やせますが、将来のお金は待たされた分だけ目減りします。この未来のお金を今の値打ちに引き直したものが現在価値（PV）です。さらに、そのPVから最初に必要な投資額を引いた数字が正味現在価値（NPV）になります。NPVがプラスなら投資に見合う、マイナスなら割に合わない。本書はこの引き算一つが、「なんとなく得そう」という感覚を数字で裏づける道具になると伝えます。"
+        },
+        {
+          "heading": "割引率と資本コストの意味",
+          "body": [
+            "割引率とは、将来のお金を今の価値に引き戻すときの目減りのレートのこと",
+            "割引率はリスクの大きさで決まる。事業のブレ幅が大きいほど高くなる",
+            "割引率＝リスクフリーレート（国債利回り相当）＋マーケットリスクプレミアム（上乗せ分）",
+            "資本コストとは、会社がお金を調達するために払うコストで、割引率と表裏一体",
+            "株主（エクイティ）は銀行借入（デット）より後回しのリスクを負うため、コストはエクイティのほうが高い",
+            "WACCはデットとエクイティのコストを加重平均した、会社全体の資本コストの指標"
+          ]
+        },
+        {
+          "heading": "レバレッジと稼ぐ力の測り方",
+          "body": "借金（デット）は、使い方しだいで「てこ」になります。自前の元手が少なくても、デットを足すことで大きな事業を動かせる。これがレバレッジです。ただし本書は、てこは両刃だと強調します。稼ぎが大きく増える半面、損もその倍率で膨らむため、事業のリスクに見合った量に保つことが不可欠です。鉄道のように収益が安定した事業は高いレバレッジに耐えやすく、製薬のように振れ幅の大きい事業は借金を抑えて自己資本を厚くする必要があります。また稼ぐ力の指標としてROE（株主資本利益率）とROA（総資産利益率）が登場しますが、ROEはレバレッジの量で変わるため、その数字の背景まで確認することが大切だと本書は警告します。"
+        },
+        {
+          "heading": "M&Aと企業価値の底上げ",
+          "body": "会社は複数の事業を持つことで倒れにくくなりますが、自前で一から育てると時間がかかります。そこで登場するのがM&A（合併・買収）です。本書は、M&Aの真の目的は「大きくなること」ではないと伝えます。別の事業を買って収益のブレ幅を小さくすれば、投資家の不安が減ります。不安が減ればリスクが下がり、割引率つまり資本コストが下がり、結果として企業価値が上がる。この連鎖がM&Aの本質です。加えて、会社が自社のリスクや業績をステークホルダーに誠実に伝えるIR（投資家向け広報）も、資本コストを下げて価値を上げる立派な投資行動だと本書は述べます。"
+        },
+        {
+          "heading": "こんな人に向いている一冊",
+          "body": [
+            "会議でNPVや資本コストという言葉に出てきたとき意味がわからない人",
+            "投資や事業判断を感覚でなく数字の根拠で説明したいビジネスパーソン",
+            "財務諸表やM&Aのニュースをもっと深く読みたい人",
+            "MBA取得を検討していてファイナンスの全体像を掴みたい人"
+          ]
+        },
+        {
+          "heading": "まとめと最初の一歩の踏み方",
+          "body": "本書が一貫して伝えるのは、ファイナンスとはリスクとリターンのアートだという一点です。現在価値・割引率・資本コスト・レバレッジ・ROE・M&A・IR、どの話も根っこは同じです。だれが、どれだけのリスクを引き受け、その見返りをどう分け合うか。その問いを軸に、すべての概念がつながっています。本書を読んだ後は、ニュースで聞く企業買収の話も、職場での投資判断も、これまでとは違う解像度で見えてくるはずです。最初の一歩として、手元にある商品や仕事の案件を一つ選んで、「これのNPVはいくらだろう」と考えてみることを本書はすすめています。難しい計算は後回しで構いません。まず、将来の稼ぎを今の値打ちで考えるくせをつけることが出発点です。"
+        }
+      ],
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:59.594243+00:00"
@@ -1819,6 +1866,15 @@
           "privacy": "private",
           "publish_at": "2026-06-21T12:00:00Z",
           "uploaded_at": "2026-06-19T10:41:54.436986+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "-L7CtrM7RgU",
+          "url": "https://youtu.be/-L7CtrM7RgU",
+          "privacy": "unlisted",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T17:47:54.771125+00:00"
         }
       ],
       "excerpt": "今枝昌宏『ビジネスモデルの教科書』を要約します。同じような商品なのに一つの会社だけが抜け出すのはなぜか。儲けの仕組みを「型」として見る視点を、ネットワーク効果を入口にやさしく整理します。",
@@ -2416,6 +2472,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:38:54.411909+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "9ozELy3kPgs",
+          "url": "https://youtu.be/9ozELy3kPgs",
+          "privacy": "unlisted",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T17:48:03.379699+00:00"
         }
       ],
       "excerpt": "フランスの哲学者アランによる古典『アランの幸福論』を要約します。気分は意志でなく動作でつくるという視点から、上機嫌を技術として育てる考え方をやさしく紹介します。",
@@ -5755,8 +5820,8 @@
       "asin": "B09BG3GZVG",
       "slug": "b09bg3gzvg",
       "title_book": "MBAで学ぶ世界標準の会計とファイナンス 1冊にまとめて図でわかりやすく解説",
-      "title_video": "MBAで学ぶ世界標準の会計とファイナンス 1冊にまとめて図でわかりやすく解説",
-      "author": null,
+      "title_video": "【サクッと要約】MBAで学ぶ世界標準の会計とファイナンス 1冊にまとめて図でわかりやすく解説｜会計とファイナンスをつなぐ",
+      "author": "MBAで学ぶ世界標準の会計とファイナンス 1冊にまとめて図でわかりやすく解説",
       "publisher": null,
       "genre": "経営",
       "amazon_url": "https://www.amazon.co.jp/dp/B09BG3GZVG?tag=otona_radio-22&linkCode=ll1",
@@ -5765,7 +5830,17 @@
       "cover_scan": null,
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『MBAで学ぶ世界標準の会計とファイナンス 1冊にまとめて図でわかりやすく解説』趙炳鉉 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B09BG3GZVG?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=MBA%E3%81%A7%E5%AD%A6%E3%81%B6%E4%B8%96%E7%95%8C%E6%A8%99%E6%BA%96%E3%81%AE%E4%BC%9A%E8%A8%88%E3%81%A8%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9+1%E5%86%8A%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E5%9B%B3%E3%81%A7%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E8%A7%A3%E8%AA%AC&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n「読めない、つながらない」が、「地図の上で、読める」に変わる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "3Q1vYQfNqmo",
+          "url": "https://youtu.be/3Q1vYQfNqmo",
+          "privacy": "unlisted",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T17:48:15.415885+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -6086,8 +6161,8 @@
       "asin": "B09VK6XKB5",
       "slug": "b09vk6xkb5",
       "title_book": "スモールビジネスの教科書",
-      "title_video": "スモールビジネスの教科書",
-      "author": null,
+      "title_video": "【サクッと要約】スモールビジネスの教科書｜一冊まるごとで",
+      "author": "スモールビジネスの教科書",
       "publisher": null,
       "genre": "経営",
       "amazon_url": "https://www.amazon.co.jp/dp/B09VK6XKB5?tag=otona_radio-22&linkCode=ll1",
@@ -6096,7 +6171,17 @@
       "cover_scan": null,
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『スモールビジネスの教科書』武田所長 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B09VK6XKB5?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%82%B9%E3%83%A2%E3%83%BC%E3%83%AB%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\nうまくいきそうなアイデアが思い浮かばず、何から始めればいいか分からなかったあなたが、勝てる戦場の選び方を手に、当たり前のことを当たり前にやって着実に儲けられる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "JrWknbuAS78",
+          "url": "https://youtu.be/JrWknbuAS78",
+          "privacy": "unlisted",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T17:48:26.010765+00:00"
+        }
+      ],
       "excerpt": "武田所長さんの『スモールビジネスの教科書』を要約。一発逆転ではなく、勝てる戦場を選び、当たり前のことを当たり前にやって、低リスクで着実に儲ける手順を整理します。",
       "article_category": "ビジネス",
       "article_tags": [
@@ -6219,8 +6304,8 @@
       "asin": "B09YV475ZS",
       "slug": "b09yv475zs",
       "title_book": "不条理な会社人生から自由になる方法 働き方2.0vs4.0",
-      "title_video": "不条理な会社人生から自由になる方法 働き方2.0vs4.0",
-      "author": null,
+      "title_video": "【サクッと要約】不条理な会社人生から自由になる方法 働き方2.0vs4.0｜一冊まるごとで",
+      "author": "不条理な会社人生から自由になる方法 働き方2.0vs4.0",
       "publisher": null,
       "genre": "自己啓発",
       "amazon_url": "https://www.amazon.co.jp/dp/B09YV475ZS?tag=otona_radio-22&linkCode=ll1",
@@ -6229,7 +6314,17 @@
       "cover_scan": null,
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『不条理な会社人生から自由になる方法 働き方2.0vs4.0』橘玲 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B09YV475ZS?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E4%B8%8D%E6%9D%A1%E7%90%86%E3%81%AA%E4%BC%9A%E7%A4%BE%E4%BA%BA%E7%94%9F%E3%81%8B%E3%82%89%E8%87%AA%E7%94%B1%E3%81%AB%E3%81%AA%E3%82%8B%E6%96%B9%E6%B3%95+%E5%83%8D%E3%81%8D%E6%96%B92.0vs4.0&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n会社に縛られ、不条理に振り回されていたあなたが、いつでも会社の外に出られる自分に変われる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "IfIusX1iYSw",
+          "url": "https://youtu.be/IfIusX1iYSw",
+          "privacy": "unlisted",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T17:48:36.228309+00:00"
+        }
+      ],
       "excerpt": "橘玲『働き方2.0vs4.0』を要約します。会社で感じる息苦しさの正体を、年功序列と「身分」という仕組みから読み解き、評判を資産に自由へ近づく道を中立に紹介します。",
       "article_category": "自己啓発",
       "article_tags": [
@@ -6280,8 +6375,8 @@
       "asin": "B0B2CZSGB2",
       "slug": "b0b2czsgb2",
       "title_book": "改訂版 金利を見れば投資はうまくいく",
-      "title_video": "改訂版 金利を見れば投資はうまくいく",
-      "author": null,
+      "title_video": "【サクッと要約】改訂版 金利を見れば投資はうまくいく｜三つの金利で景気の四季を読み、冬の前に立ち止まる一冊",
+      "author": "改訂版 金利を見れば投資はうまくいく",
       "publisher": null,
       "genre": "お金",
       "amazon_url": "https://www.amazon.co.jp/dp/B0B2CZSGB2?tag=otona_radio-22&linkCode=ll1",
@@ -6290,7 +6385,17 @@
       "cover_scan": null,
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『改訂版 金利を見れば投資はうまくいく』堀井正孝 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0B2CZSGB2?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E6%94%B9%E8%A8%82%E7%89%88+%E9%87%91%E5%88%A9%E3%82%92%E8%A6%8B%E3%82%8C%E3%81%B0%E6%8A%95%E8%B3%87%E3%81%AF%E3%81%86%E3%81%BE%E3%81%8F%E3%81%84%E3%81%8F&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n金利という炭鉱のカナリアの声を知れば、冬が来る前に、自分の判断で立ち止まれる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "xOqyJ83YU4A",
+          "url": "https://youtu.be/xOqyJ83YU4A",
+          "privacy": "unlisted",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T17:48:45.161677+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -6850,8 +6955,8 @@
       "asin": "B0CFX1K2JH",
       "slug": "b0cfx1k2jh",
       "title_book": "攻めのファイナンス スタートアップCFO入門",
-      "title_video": "攻めのファイナンス スタートアップCFO入門",
-      "author": null,
+      "title_video": "【サクッと要約】攻めのファイナンス スタートアップCFO入門｜お金で未来を測り、キャリアを自分で動かすための一冊",
+      "author": "攻めのファイナンス スタートアップCFO入門",
       "publisher": null,
       "genre": "経営",
       "amazon_url": "https://www.amazon.co.jp/dp/B0CFX1K2JH?tag=otona_radio-22&linkCode=ll1",
@@ -6860,7 +6965,17 @@
       "cover_scan": null,
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『攻めのファイナンス スタートアップCFO入門』竹居邦彦 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0CFX1K2JH?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E6%94%BB%E3%82%81%E3%81%AE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9+%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97CFO%E5%85%A5%E9%96%80&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n数字という光を手にした瞬間から、キャリアは、誰かに動かされるものではなく、自分で動かしていけるものに変わる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "cR373W4HRTc",
+          "url": "https://youtu.be/cR373W4HRTc",
+          "privacy": "unlisted",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T17:48:53.806351+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -7371,8 +7486,8 @@
       "asin": "B0D85HP7F1",
       "slug": "b0d85hp7f1",
       "title_book": "パーパス経営入門 ミドルが会社を変えるための実践ノウハウ",
-      "title_video": "パーパス経営入門 ミドルが会社を変えるための実践ノウハウ",
-      "author": null,
+      "title_video": "【サクッと要約】パーパス経営入門 ミドルが会社を変えるための実践ノウハウ｜一冊まるごとで",
+      "author": "パーパス経営入門 ミドルが会社を変えるための実践ノウハウ",
       "publisher": null,
       "genre": "経営",
       "amazon_url": "https://www.amazon.co.jp/dp/B0D85HP7F1?tag=otona_radio-22&linkCode=ll1",
@@ -7381,7 +7496,17 @@
       "cover_scan": null,
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『パーパス経営入門 ミドルが会社を変えるための実践ノウハウ』名和高司 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0D85HP7F1?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%83%91%E3%83%BC%E3%83%91%E3%82%B9%E7%B5%8C%E5%96%B6%E5%85%A5%E9%96%80+%E3%83%9F%E3%83%89%E3%83%AB%E3%81%8C%E4%BC%9A%E7%A4%BE%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E5%AE%9F%E8%B7%B5%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n毎朝、なんのために働くのか分からないまま、閉塞感に押しつぶされていたあなたが、自分の志を会社の旗印に重ね、変わることが楽しくなる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "MUX5V2CkyHA",
+          "url": "https://youtu.be/MUX5V2CkyHA",
+          "privacy": "unlisted",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T17:49:05.139683+00:00"
+        }
+      ],
       "excerpt": "『パーパス経営入門』を要約します。会社の存在意義を起点に、中間管理職であるミドルが現場と経営をつなぎ、組織を内側から変えていく実践のノウハウを、やさしく整理して紹介します。",
       "article_category": "ビジネス",
       "article_tags": [
@@ -7432,8 +7557,8 @@
       "asin": "B0DDB5BMS3",
       "slug": "b0ddb5bms3",
       "title_book": "ビジネスを育てる新版",
-      "title_video": "ビジネスを育てる新版",
-      "author": null,
+      "title_video": "【サクッと要約】ビジネスを育てる新版（）｜一冊まるごとで",
+      "author": "ビジネスを育てる新版（）",
       "publisher": null,
       "genre": "経営",
       "amazon_url": "https://www.amazon.co.jp/dp/B0DDB5BMS3?tag=otona_radio-22&linkCode=ll1",
@@ -7442,7 +7567,17 @@
       "cover_scan": null,
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『ビジネスを育てる新版（）』 著\n→ Amazon(紙/Kindle)で見る: https://www.amazon.co.jp/dp/B0DDB5BMS3?tag=otona_radio-22&linkCode=ll1\n→ Audible（オーディオブック）で聴く: https://www.audible.co.jp/search?keywords=ビジネスを育てる新版（）&tag=otona_radio-22\n　初回30日間の無料体験つき。耳で“ながら”読書ができます！\n\nお金も人脈も実績もない自分に商売なんて無理だと立ちすくんでいたあなたが、自分らしさそのものを起点に、小さく、自分の頭で考えて始められる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "7ZAIX2fzJKU",
+          "url": "https://youtu.be/7ZAIX2fzJKU",
+          "privacy": "unlisted",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T17:49:12.500084+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -8729,8 +8864,8 @@
       "asin": "B0GQXQMX7S",
       "slug": "b0gqxqmx7s",
       "title_book": "年間100万円の配当金",
-      "title_video": "年間100万円の配当金",
-      "author": null,
+      "title_video": "【サクッと要約】年間100万円の配当金（）｜一冊まるごとで",
+      "author": "年間100万円の配当金（）",
       "publisher": null,
       "genre": "お金",
       "amazon_url": "https://www.amazon.co.jp/dp/B0GQXQMX7S?tag=otona_radio-22&linkCode=ll1",
@@ -8739,7 +8874,17 @@
       "cover_scan": null,
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『年間100万円の配当金（）』 著\n→ Amazon(紙/Kindle)で見る: https://www.amazon.co.jp/dp/B0GQXQMX7S?tag=otona_radio-22&linkCode=ll1\n→ Audible（オーディオブック）で聴く: https://www.audible.co.jp/search?keywords=年間100万円の配当金（）&tag=otona_radio-22\n　初回30日間の無料体験つき。耳で“ながら”読書ができます！\n\nお金が増えないのは、あなたの稼ぎが足りないからじゃない。仕組みを知って、淡々と積み上げれば、働かなくてもお金が入ってくる日は、ちゃんと来る。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "1U8SFyjz0SE",
+          "url": "https://youtu.be/1U8SFyjz0SE",
+          "privacy": "unlisted",
+          "publish_at": null,
+          "uploaded_at": "2026-06-23T17:49:20.293086+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
