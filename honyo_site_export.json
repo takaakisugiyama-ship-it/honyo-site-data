@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T21:00:05.870340+00:00",
+  "generated_at": "2026-06-28T10:54:58.476319+00:00",
   "schema_version": 1,
-  "count": 139,
+  "count": 140,
   "affiliate_amazon_tag": "otona_radio-22",
   "notes": "summary_md=description.md散文(Web掲載可)。生OCR全文は非出力(著作権)。publisher/ISBN13/読了時間はパイプラインに無し。cover_scan=/covers/<asin>.jpg(ルート相対・源=assets/covers=サムネと同一クリーン書影・honyouyaku-webが/covers/でCDN配信)。契約=docs/web_data_handoff.md。",
   "books": [
@@ -1571,17 +1571,27 @@
       "asin": "B009UVJQMS",
       "slug": "b009uvjqms",
       "title_book": "フリー ―＜無料＞からお金を生みだす新戦略",
-      "title_video": "フリー ―＜無料＞からお金を生みだす新戦略",
-      "author": null,
+      "title_video": "【フリー】クリス・アンダーソン｜「無料」から億を生む|驚異の戦略",
+      "author": "クリス・アンダーソン",
       "publisher": null,
       "genre": "お金",
       "amazon_url": "https://www.amazon.co.jp/dp/B009UVJQMS?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B009UVJQMS.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B009UVJQMS.jpg",
-      "summary_md": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『フリー ―＜無料＞からお金を生みだす新戦略（）』 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B009UVJQMS?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%83%95%E3%83%AA%E3%83%BC+%E2%80%95%EF%BC%9C%E7%84%A1%E6%96%99%EF%BC%9E%E3%81%8B%E3%82%89%E3%81%8A%E9%87%91%E3%82%92%E7%94%9F%E3%81%BF%E3%81%A0%E3%81%99%E6%96%B0%E6%88%A6%E7%95%A5%EF%BC%88%EF%BC%89&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n「タダ」に振り回されていたあなたが、無料の正体を知れば、もう振り回されずに使いこなせる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "sz2RrOu5bus",
+          "url": "https://youtu.be/sz2RrOu5bus",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-06-28T09:37:32.429112+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -1974,7 +1984,7 @@
           "video_id": "PncbXHYaA_E",
           "url": "https://youtu.be/PncbXHYaA_E",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T06:00:00Z",
           "uploaded_at": "2026-06-26T03:45:57.746750+00:00"
         }
       ],
@@ -1985,7 +1995,7 @@
       "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T02:02:02.765639+00:00"
     },
     {
       "asin": "B00MVM2EPE",
@@ -2743,7 +2753,7 @@
           "video_id": "uSW-n17wyws",
           "url": "https://youtu.be/uSW-n17wyws",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T05:00:00Z",
           "uploaded_at": "2026-06-26T03:46:49.705646+00:00"
         }
       ],
@@ -2754,7 +2764,7 @@
       "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T02:02:00.775981+00:00"
     },
     {
       "asin": "B01CSC57XM",
@@ -2812,6 +2822,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:36:34.741332+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "7YzU_7igxUw",
+          "url": "https://youtu.be/7YzU_7igxUw",
+          "privacy": "private",
+          "publish_at": "2026-07-01T05:00:00Z",
+          "uploaded_at": "2026-06-28T08:10:30.058507+00:00"
         }
       ],
       "excerpt": null,
@@ -2821,7 +2840,7 @@
       "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:33.076790+00:00"
     },
     {
       "asin": "B01GPCKJWK",
@@ -3045,6 +3064,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:47:09.809595+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "ylQ2-afPrk0",
+          "url": "https://youtu.be/ylQ2-afPrk0",
+          "privacy": "private",
+          "publish_at": "2026-07-01T10:00:00Z",
+          "uploaded_at": "2026-06-28T08:11:30.685026+00:00"
         }
       ],
       "excerpt": null,
@@ -3054,7 +3082,7 @@
       "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:37.544789+00:00"
     },
     {
       "asin": "B01MU4BJUN",
@@ -3465,6 +3493,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:44:29.269544+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "q844opmyPak",
+          "url": "https://youtu.be/q844opmyPak",
+          "privacy": "private",
+          "publish_at": "2026-07-01T03:00:00Z",
+          "uploaded_at": "2026-06-28T08:12:26.843999+00:00"
         }
       ],
       "excerpt": "伊藤大輔さんの『「プロジェクトマネジメント」実践講座』を要約します。計画は未来を当てる予言ではなく、ズレを測って学ぶ基準線だという考え方を、担当になったばかりの人にもやさしく紹介します。",
@@ -3516,7 +3553,7 @@
       ],
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:31.485291+00:00"
     },
     {
       "asin": "B072QCFYVJ",
@@ -3573,7 +3610,7 @@
           "video_id": "A5dcIGA7mfg",
           "url": "https://youtu.be/A5dcIGA7mfg",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T08:00:00Z",
           "uploaded_at": "2026-06-26T03:47:41.977473+00:00"
         }
       ],
@@ -3584,7 +3621,7 @@
       "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T02:02:04.699582+00:00"
     },
     {
       "asin": "B074PYXCC1",
@@ -4045,6 +4082,15 @@
           "privacy": "private",
           "publish_at": "2026-06-28T02:00:00Z",
           "uploaded_at": "2026-06-22T07:26:58.597458+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "v13_targeted",
+          "video_id": "L2EoagF_-Hg",
+          "url": "https://youtu.be/L2EoagF_-Hg",
+          "privacy": "private",
+          "publish_at": "2026-06-30T10:00:00Z",
+          "uploaded_at": "2026-06-28T08:07:35.944190+00:00"
         }
       ],
       "excerpt": null,
@@ -4054,7 +4100,7 @@
       "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-23T07:12:46.857640+00:00"
+      "updated_at": "2026-06-28T08:26:27.929339+00:00"
     },
     {
       "asin": "B07M5DK459",
@@ -4136,6 +4182,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:37:53.159536+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "BAtV1pbGmq0",
+          "url": "https://youtu.be/BAtV1pbGmq0",
+          "privacy": "private",
+          "publish_at": "2026-07-01T08:00:00Z",
+          "uploaded_at": "2026-06-28T08:13:28.342971+00:00"
         }
       ],
       "excerpt": "齋藤孝『読書する人だけがたどり着ける場所』の要約です。読書を情報集めではなく、一冊と向き合う体験ととらえ直し、人生に深さをもたらす読み方をやさしく整理します。",
@@ -4197,23 +4252,33 @@
       ],
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:35.987982+00:00"
     },
     {
       "asin": "B07M5W8GCQ",
       "slug": "b07m5w8gcq",
       "title_book": "THE MODEL（MarkeZine BOOKS） マーケティング・インサイド",
-      "title_video": "THE MODEL（MarkeZine BOOKS） マーケティング・インサイド",
-      "author": null,
+      "title_video": "【THE MODEL】福田康隆｜科学的に売上を伸ばす|最強の営業プロセス",
+      "author": "福田康隆",
       "publisher": null,
       "genre": "経営",
       "amazon_url": "https://www.amazon.co.jp/dp/B07M5W8GCQ?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B07M5W8GCQ.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B07M5W8GCQ.jpg",
-      "summary_md": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『THE MODEL』MarkeZine BOOKS 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B07M5W8GCQ?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=THE+MODEL&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n売れないのは情熱が足りないからじゃない。プロセスを分けて数字で見ていなかっただけ。仕組みがわかれば、勘の世界から、誰でも再現できる世界へ抜け出せます。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "NJ9mNP4fgZQ",
+          "url": "https://youtu.be/NJ9mNP4fgZQ",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-06-28T09:39:23.564030+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -4347,6 +4412,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:46:26.413529+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "UNuojxWns6U",
+          "url": "https://youtu.be/UNuojxWns6U",
+          "privacy": "private",
+          "publish_at": "2026-07-01T11:00:00Z",
+          "uploaded_at": "2026-06-28T08:14:26.099775+00:00"
         }
       ],
       "excerpt": "『限界はあなたの頭の中にしかない』を要約。あなたを止めているのは才能でも年齢でもなく、頭の中で自分が引いた一本の線だと、ジェイ・エイブラハムが静かに語る一冊です。",
@@ -4392,7 +4466,7 @@
       ],
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:39.825602+00:00"
     },
     {
       "asin": "B07P77VSFB",
@@ -4466,17 +4540,27 @@
       "asin": "B07SSGP5K9",
       "slug": "b07ssgp5k9",
       "title_book": "会社にお金を残す経営の話 (お金の教科書)",
-      "title_video": "会社にお金を残す経営の話 (お金の教科書)",
-      "author": null,
+      "title_video": "【会社にお金を残す経営の話】岡本吏郎｜9割の社長が知らない|本物の現金の残し方",
+      "author": "岡本吏郎",
       "publisher": null,
       "genre": "経営",
       "amazon_url": "https://www.amazon.co.jp/dp/B07SSGP5K9?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B07SSGP5K9.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B07SSGP5K9.jpg",
-      "summary_md": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『会社にお金を残す経営の話』お金の教科書 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B07SSGP5K9?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E4%BC%9A%E7%A4%BE%E3%81%AB%E3%81%8A%E9%87%91%E3%82%92%E6%AE%8B%E3%81%99%E7%B5%8C%E5%96%B6%E3%81%AE%E8%A9%B1&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n売上を追っても、お金は残らない。残し方には順番があって、それを知れば、あなたの会社にもお金は残せる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "iLyztuBfmkk",
+          "url": "https://youtu.be/iLyztuBfmkk",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-06-28T09:41:16.486292+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -4485,6 +4569,45 @@
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": null
+    },
+    {
+      "asin": "B07VRZFNX9",
+      "slug": "b07vrzfnx9",
+      "title_book": "0秒で動け",
+      "title_video": "【要約】0秒で動け｜伊藤羊一｜「わかってはいるけど動けない」が終わる——動くから、動けるようになる",
+      "author": "0秒で動け",
+      "publisher": null,
+      "genre": "自己啓発",
+      "amazon_url": "https://www.amazon.co.jp/dp/B07VRZFNX9?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B07VRZFNX9.jpg",
+      "rakuten_url": null,
+      "cover_scan": "/covers/B07VRZFNX9.jpg",
+      "summary_md": "▼ 今回の書籍\n『0秒で動け 「わかってはいるけど動けない」人のための』伊藤羊一 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B07VRZFNX9?tag=otona_radio-22&linkCode=ll1\n\n会議で「どう思う？」と振られても「もう少し調べてから」と持ち帰る。決めたことは手帳に書いたまま一週間。「わかってるけど動けない」のは、意志が弱いからではなく、直感を結論に変える道具をまだ持っていないだけ。『1分で話せ』の伊藤羊一氏が、その段取りをゼロから解説します。\n\n▼ チャプター\n0:00 オープニング\n\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
+      "chapters": [
+        {
+          "t": "0:00",
+          "title": "オープニング"
+        }
+      ],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "v13_targeted",
+          "video_id": "MOC19MosL4g",
+          "url": "https://youtu.be/MOC19MosL4g",
+          "privacy": "private",
+          "publish_at": "2026-06-30T06:00:00Z",
+          "uploaded_at": "2026-06-28T08:05:36.483701+00:00"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "reading_time": null,
+      "article": null,
+      "has_raw": false,
+      "raw_type": null,
+      "updated_at": "2026-06-28T08:06:18.870916+00:00"
     },
     {
       "asin": "B07X32TV1M",
@@ -4639,6 +4762,15 @@
           "privacy": "private",
           "publish_at": "2026-07-04T08:00:00Z",
           "uploaded_at": "2026-06-22T07:33:41.358998+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "v13_targeted",
+          "video_id": "lf5LqMKJz1k",
+          "url": "https://youtu.be/lf5LqMKJz1k",
+          "privacy": "private",
+          "publish_at": "2026-06-30T11:00:00Z",
+          "uploaded_at": "2026-06-28T08:08:37.647199+00:00"
         }
       ],
       "excerpt": null,
@@ -4648,7 +4780,7 @@
       "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-23T07:14:06.381349+00:00"
+      "updated_at": "2026-06-28T08:26:29.507360+00:00"
     },
     {
       "asin": "B082WXZVPC",
@@ -4894,6 +5026,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:45:17.442380+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "lTomYCkDfN8",
+          "url": "https://youtu.be/lTomYCkDfN8",
+          "privacy": "private",
+          "publish_at": "2026-06-30T13:00:00Z",
+          "uploaded_at": "2026-06-28T08:15:24.463389+00:00"
         }
       ],
       "excerpt": "ハワード・マークス『投資で一番大切な20の教え』を要約します。暴落と高値に振り回されるのはなぜか。リスクや市場サイクルの捉え方を、初めての方にもやさしく整理します。",
@@ -4949,7 +5090,7 @@
       ],
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:30.615136+00:00"
     },
     {
       "asin": "B08BNJJXJM",
@@ -5390,6 +5531,15 @@
           "privacy": "private",
           "publish_at": "2026-07-03T02:00:00Z",
           "uploaded_at": "2026-06-22T07:34:30.726329+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "v13_targeted",
+          "video_id": "v7m9SQz9M54",
+          "url": "https://youtu.be/v7m9SQz9M54",
+          "privacy": "private",
+          "publish_at": "2026-06-30T08:00:00Z",
+          "uploaded_at": "2026-06-28T08:09:34.392343+00:00"
         }
       ],
       "excerpt": null,
@@ -5399,7 +5549,7 @@
       "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-23T07:13:51.592713+00:00"
+      "updated_at": "2026-06-28T08:26:26.348752+00:00"
     },
     {
       "asin": "B08N3Y1YFB",
@@ -5855,6 +6005,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:42:30.614951+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "I2RnnkfHqU4",
+          "url": "https://youtu.be/I2RnnkfHqU4",
+          "privacy": "private",
+          "publish_at": "2026-07-02T10:00:00Z",
+          "uploaded_at": "2026-06-28T08:16:24.575952+00:00"
         }
       ],
       "excerpt": "『習慣超大全』は、続かないのは意志の弱さでなく設計の問題だと説く一冊です。スタンフォードの行動科学者BJ・フォッグが、小さく始めて自分をほめる方法を要約します。",
@@ -5895,7 +6054,7 @@
       ],
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:46.350624+00:00"
     },
     {
       "asin": "B0969942HW",
@@ -5973,6 +6132,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:40:08.636648+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "7N18I4CZ4ws",
+          "url": "https://youtu.be/7N18I4CZ4ws",
+          "privacy": "private",
+          "publish_at": "2026-07-03T06:00:00Z",
+          "uploaded_at": "2026-06-28T08:17:24.634031+00:00"
         }
       ],
       "excerpt": "ジーノ・ウィックマンの『トラクション』を要約します。やりたいことは分かるのに前に進めない会社を、優先順位を絞る仕組みで動かし直す、中小企業向けの実践メソッドをやさしく整理します。",
@@ -6018,7 +6186,7 @@
       ],
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:50.686611+00:00"
     },
     {
       "asin": "B09BG3GZVG",
@@ -6168,6 +6336,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:45:55.499247+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "GyWX995VfW4",
+          "url": "https://youtu.be/GyWX995VfW4",
+          "privacy": "private",
+          "publish_at": "2026-07-01T06:00:00Z",
+          "uploaded_at": "2026-06-28T08:18:25.698970+00:00"
         }
       ],
       "excerpt": null,
@@ -6177,7 +6354,7 @@
       "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:34.493909+00:00"
     },
     {
       "asin": "B09PB6LNFM",
@@ -7180,8 +7357,8 @@
       "asin": "B0CD76Q5NS",
       "slug": "b0cd76q5ns",
       "title_book": "とにかく仕組み化",
-      "title_video": "とにかく仕組み化",
-      "author": null,
+      "title_video": "【サクッと要約】とにかく仕組み化｜人に頼らず、仕組みで回す。",
+      "author": "とにかく仕組み化",
       "publisher": null,
       "genre": "マネジメント",
       "amazon_url": "https://www.amazon.co.jp/dp/B0CD76Q5NS?tag=otona_radio-22&linkCode=ll1",
@@ -7190,7 +7367,17 @@
       "cover_scan": "/covers/B0CD76Q5NS.jpg",
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『とにかく仕組み化』安藤広大 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0CD76Q5NS?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%81%A8%E3%81%AB%E3%81%8B%E3%81%8F%E4%BB%95%E7%B5%84%E3%81%BF%E5%8C%96&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n人を責めて消耗していたあなたが、仕組みを変えて、人の上に立ち続けられる自分に変われる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "hokQmVJcy1Y",
+          "url": "https://youtu.be/hokQmVJcy1Y",
+          "privacy": "private",
+          "publish_at": "2026-07-02T06:00:00Z",
+          "uploaded_at": "2026-06-28T08:19:20.867291+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -7198,7 +7385,7 @@
       "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:44.777688+00:00"
     },
     {
       "asin": "B0CFX1K2JH",
@@ -7338,17 +7525,27 @@
       "asin": "B0CN8M8DNF",
       "slug": "b0cn8m8dnf",
       "title_book": "A.T. カーニー 業界別 経営アジェンダ 2024 (日本経済新聞出版)",
-      "title_video": "A.T. カーニー 業界別 経営アジェンダ 2024 (日本経済新聞出版)",
-      "author": null,
+      "title_video": "【A.T. カーニー 経営アジェンダ】A.T. カーニー｜プロが徹底予測する|日本の全業界アジェンダ",
+      "author": "A.T. カーニー",
       "publisher": null,
-      "genre": null,
+      "genre": "経営",
       "amazon_url": "https://www.amazon.co.jp/dp/B0CN8M8DNF?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0CN8M8DNF.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B0CN8M8DNF.jpg",
-      "summary_md": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『A.T. カーニー 業界別 経営アジェンダ 2024』A.T. カーニー 編 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0CN8M8DNF?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=A.T.+%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%BC+%E6%A5%AD%E7%95%8C%E5%88%A5+%E7%B5%8C%E5%96%B6%E3%82%A2%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80+2024&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n九つの地図が一枚につながれば、どんなニュースが流れてきても、その先で何が動くのかを、自分の言葉で読み解けるようになっている。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "GmYYfqUU54g",
+          "url": "https://youtu.be/GmYYfqUU54g",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-06-28T09:42:06.695602+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -7573,6 +7770,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:43:10.623803+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "MzL6Zwvzkdk",
+          "url": "https://youtu.be/MzL6Zwvzkdk",
+          "privacy": "private",
+          "publish_at": "2026-07-02T03:00:00Z",
+          "uploaded_at": "2026-06-28T08:20:11.695401+00:00"
         }
       ],
       "excerpt": "中室牧子『「学力」の経済学』を要約します。子育ての常識をデータで検証し、ご褒美の与え方や褒め方、テストでは測れない非認知能力の育て方を、教育経済学の知見からやさしく整理します。",
@@ -7613,7 +7819,7 @@
       ],
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:41.949451+00:00"
     },
     {
       "asin": "B0CZKZQ8S1",
@@ -7967,7 +8173,7 @@
           "video_id": "szZyP5NhZyI",
           "url": "https://youtu.be/szZyP5NhZyI",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T10:00:00Z",
           "uploaded_at": "2026-06-26T03:48:36.205409+00:00"
         }
       ],
@@ -7978,7 +8184,7 @@
       "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": null
+      "updated_at": "2026-06-28T02:02:06.702015+00:00"
     },
     {
       "asin": "B0DK6B68PJ",
@@ -8180,17 +8386,27 @@
       "asin": "B0DRC6L5TR",
       "slug": "b0drc6l5tr",
       "title_book": "【図解】ファイナンス超入門：コーポレートファイナンスでお金、投資、資産運用、節約",
-      "title_video": "【図解】ファイナンス超入門：コーポレートファイナンスでお金、投資、資産運用、節約",
-      "author": null,
+      "title_video": "【ファイナンス超入門】長谷川大｜一生お金に困らない|ファイナンス超入門",
+      "author": "長谷川大",
       "publisher": null,
-      "genre": null,
+      "genre": "お金",
       "amazon_url": "https://www.amazon.co.jp/dp/B0DRC6L5TR?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0DRC6L5TR.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B0DRC6L5TR.jpg",
-      "summary_md": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『【図解】ファイナンス超入門：コーポレートファイナンスでお金、投資、資産運用、節約』黒田健人 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0DRC6L5TR?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%80%90%E5%9B%B3%E8%A7%A3%E3%80%91%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9%E8%B6%85%E5%85%A5%E9%96%80%EF%BC%9A%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9%E3%81%A7%E3%81%8A%E9%87%91%E3%80%81%E6%8A%95%E8%B3%87%E3%80%81%E8%B3%87%E7%94%A3%E9%81%8B%E7%94%A8%E3%80%81%E7%AF%80%E7%B4%84&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\nあの答えの出なかった問いに、もう、ものさしがある。あなたは、迷う人から、選べる人へと立ち位置を変えられる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "Hk_EZ9FInsU",
+          "url": "https://youtu.be/Hk_EZ9FInsU",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-06-28T09:42:13.942792+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -8468,8 +8684,8 @@
       "asin": "B0FB8BKC85",
       "slug": "b0fb8bkc85",
       "title_book": "言葉があなたの人生を決める",
-      "title_video": "言葉があなたの人生を決める",
-      "author": null,
+      "title_video": "【サクッと要約】「言葉」があなたの人生を決める｜口グセが、自己イメージを作る。",
+      "author": "「言葉」があなたの人生を決める",
       "publisher": null,
       "genre": "自己啓発",
       "amazon_url": "https://www.amazon.co.jp/dp/B0FB8BKC85?tag=otona_radio-22&linkCode=ll1",
@@ -8478,7 +8694,17 @@
       "cover_scan": "/covers/B0FB8BKC85.jpg",
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『言葉があなたの人生を決める』苫米地英人 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0FB8BKC85?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E8%A8%80%E8%91%89%E3%81%8C%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E4%BA%BA%E7%94%9F%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n「自分にはこの程度」という言葉に縛られていたあなたが、「自分にはできる」という言葉を選び直して、ずっと遠くの自分へ歩いていける。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "MULWJ-fIq3A",
+          "url": "https://youtu.be/MULWJ-fIq3A",
+          "privacy": "private",
+          "publish_at": "2026-07-03T05:00:00Z",
+          "uploaded_at": "2026-06-28T08:21:09.206475+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -8486,7 +8712,7 @@
       "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:49.234923+00:00"
     },
     {
       "asin": "B0FDKS1BDJ",
@@ -8667,7 +8893,7 @@
     {
       "asin": "B0FT3266TK",
       "slug": "b0ft3266tk",
-      "title_book": "神様のおまじない",
+      "title_book": "神さまのおまじない",
       "title_video": "【サクッと要約】神さまのおまじない｜意味の貼り方を変える、小さなおまじない",
       "author": "神さまのおまじない",
       "publisher": null,
@@ -8750,8 +8976,8 @@
       "asin": "B0FT351SG9",
       "slug": "b0ft351sg9",
       "title_book": "奇跡スイッチの押し方 潜在意識で夢を叶える",
-      "title_video": "奇跡スイッチの押し方 潜在意識で夢を叶える",
-      "author": null,
+      "title_video": "【サクッと要約】奇跡スイッチの押し方｜今いる場所から、人生は動かせる。",
+      "author": "奇跡スイッチの押し方",
       "publisher": null,
       "genre": "自己啓発",
       "amazon_url": "https://www.amazon.co.jp/dp/B0FT351SG9?tag=otona_radio-22&linkCode=ll1",
@@ -8760,7 +8986,17 @@
       "cover_scan": "/covers/B0FT351SG9.jpg",
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『奇跡スイッチの押し方 潜在意識で夢を叶える』心理カウンセラーmasa 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0FT351SG9?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E5%A5%87%E8%B7%A1%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E3%81%AE%E6%8A%BC%E3%81%97%E6%96%B9+%E6%BD%9C%E5%9C%A8%E6%84%8F%E8%AD%98%E3%81%A7%E5%A4%A2%E3%82%92%E5%8F%B6%E3%81%88%E3%82%8B&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n何をやっても変わらないと諦めかけていたあなたが、今いる場所から、自分の手で人生を動かしはじめられる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "A2EcQwRbfao",
+          "url": "https://youtu.be/A2EcQwRbfao",
+          "privacy": "private",
+          "publish_at": "2026-07-03T10:00:00Z",
+          "uploaded_at": "2026-06-28T08:22:00.838794+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -8768,7 +9004,7 @@
       "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:51.685316+00:00"
     },
     {
       "asin": "B0FV8V8Z2J",
@@ -8791,7 +9027,7 @@
           "video_id": "UVvtuUo61Lg",
           "url": "https://youtu.be/UVvtuUo61Lg",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T13:00:00Z",
           "uploaded_at": "2026-06-26T03:49:30.214091+00:00"
         }
       ],
@@ -8802,7 +9038,7 @@
       "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": null
+      "updated_at": "2026-06-28T02:02:10.904502+00:00"
     },
     {
       "asin": "B0FYQ1Z54J",
@@ -8976,6 +9212,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:47:54.453381+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "sxMubyo_oUw",
+          "url": "https://youtu.be/sxMubyo_oUw",
+          "privacy": "private",
+          "publish_at": "2026-07-01T13:00:00Z",
+          "uploaded_at": "2026-06-28T08:22:56.761151+00:00"
         }
       ],
       "excerpt": null,
@@ -8985,7 +9230,7 @@
       "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:40.867226+00:00"
     },
     {
       "asin": "B0G5M3DVXH",
@@ -9115,6 +9360,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T10:48:19.185741+00:00"
+        },
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "QgfrvO285ws",
+          "url": "https://youtu.be/QgfrvO285ws",
+          "privacy": "private",
+          "publish_at": "2026-07-02T05:00:00Z",
+          "uploaded_at": "2026-06-28T08:23:57.074930+00:00"
         }
       ],
       "excerpt": null,
@@ -9124,7 +9378,7 @@
       "article": null,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:43.381542+00:00"
     },
     {
       "asin": "B0GGDZRHX3",
@@ -9247,7 +9501,7 @@
           "video_id": "PVaWfG4Cpa4",
           "url": "https://youtu.be/PVaWfG4Cpa4",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-29T11:00:00Z",
           "uploaded_at": "2026-06-26T03:50:24.476844+00:00"
         }
       ],
@@ -9258,7 +9512,7 @@
       "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": null
+      "updated_at": "2026-06-28T02:02:09.040502+00:00"
     },
     {
       "asin": "B0GQ3CTX19",
@@ -9281,7 +9535,7 @@
           "video_id": "Hp2l--oFG7o",
           "url": "https://youtu.be/Hp2l--oFG7o",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-30T05:00:00Z",
           "uploaded_at": "2026-06-26T03:51:17.468498+00:00"
         }
       ],
@@ -9292,7 +9546,7 @@
       "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": null
+      "updated_at": "2026-06-28T02:02:15.371348+00:00"
     },
     {
       "asin": "B0GQXQMX7S",
@@ -9416,8 +9670,8 @@
       "asin": "B0GYVBNLY1",
       "slug": "b0gyvbnly1",
       "title_book": "B0GYVBNLY1",
-      "title_video": "B0GYVBNLY1",
-      "author": null,
+      "title_video": "【サクッと要約】宇宙を味方につけるリッチマネーの秘密｜お金の不安は、思い込みだった。",
+      "author": "宇宙を味方につけるリッチマネーの秘密",
       "publisher": null,
       "genre": "お金",
       "amazon_url": "https://www.amazon.co.jp/dp/B0GYVBNLY1?tag=otona_radio-22&linkCode=ll1",
@@ -9426,7 +9680,17 @@
       "cover_scan": "/covers/B0GYVBNLY1.jpg",
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『宇宙を味方につけるリッチマネーの秘密』長谷倉美雪 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0GYVBNLY1?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E5%AE%87%E5%AE%99%E3%82%92%E5%91%B3%E6%96%B9%E3%81%AB%E3%81%A4%E3%81%91%E3%82%8B%E3%83%AA%E3%83%83%E3%83%81%E3%83%9E%E3%83%8D%E3%83%BC%E3%81%AE%E7%A7%98%E5%AF%86&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\nお金が怖くて、お金に振り回されていたあなたが、お金を愛おしい分身として、安心して付き合える自分に変われる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "Km1EFZPQv6w",
+          "url": "https://youtu.be/Km1EFZPQv6w",
+          "privacy": "private",
+          "publish_at": "2026-07-03T03:00:00Z",
+          "uploaded_at": "2026-06-28T08:24:53.410202+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -9434,7 +9698,7 @@
       "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:47.781404+00:00"
     },
     {
       "asin": "B0H1W4VL25",
@@ -9457,7 +9721,7 @@
           "video_id": "KLdSB3Dkecc",
           "url": "https://youtu.be/KLdSB3Dkecc",
           "privacy": "unlisted",
-          "publish_at": null,
+          "publish_at": "2026-06-30T03:00:00Z",
           "uploaded_at": "2026-06-26T03:52:13.007253+00:00"
         }
       ],
@@ -9468,7 +9732,7 @@
       "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": null
+      "updated_at": "2026-06-28T02:02:13.059806+00:00"
     },
     {
       "asin": "B0H2QBH634",
@@ -9477,12 +9741,12 @@
       "title_video": "サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）とは何か",
       "author": null,
       "publisher": null,
-      "genre": null,
+      "genre": "教養",
       "amazon_url": "https://www.amazon.co.jp/dp/B0H2QBH634?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0H2QBH634.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B0H2QBH634.jpg",
-      "summary_md": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『サプライチェーン強化に向けたセキュリティ対策評価制度』SCS評価制度 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0H2QBH634?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E5%BC%B7%E5%8C%96%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%AF%BE%E7%AD%96%E8%A9%95%E4%BE%A1%E5%88%B6%E5%BA%A6&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n「うちは関係ない」と思っていた不安は、技術力の差ではなく、共通の物差しを知らなかっただけ。その物差しは、もうあなたの手の中にある。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
       "excerpt": null,
@@ -9498,8 +9762,8 @@
       "asin": "B0H38ZQ5Y7",
       "slug": "b0h38zq5y7",
       "title_book": "世界で最もイノベーティブな組織の作り方",
-      "title_video": "世界で最もイノベーティブな組織の作り方",
-      "author": null,
+      "title_video": "【サクッと要約】世界で最もイノベーティブな組織の作り方｜埋もれる才能を、活かす組織へ。",
+      "author": "世界で最もイノベーティブな組織の作り方",
       "publisher": null,
       "genre": "経営",
       "amazon_url": "https://www.amazon.co.jp/dp/B0H38ZQ5Y7?tag=otona_radio-22&linkCode=ll1",
@@ -9508,7 +9772,17 @@
       "cover_scan": "/covers/B0H38ZQ5Y7.jpg",
       "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『世界で最もイノベーティブな組織の作り方』山口周 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0H38ZQ5Y7?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E4%B8%96%E7%95%8C%E3%81%A7%E6%9C%80%E3%82%82%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%83%86%E3%82%A3%E3%83%96%E3%81%AA%E7%B5%84%E7%B9%94%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\nひとりだと光るのに会社では埋もれてしまっていたあなたが、自分も組織も新しくしていける自分に変われる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "medium",
+          "variant": "v17_dense",
+          "video_id": "vixQZ7N3KiA",
+          "url": "https://youtu.be/vixQZ7N3KiA",
+          "privacy": "private",
+          "publish_at": "2026-07-04T03:00:00Z",
+          "uploaded_at": "2026-06-28T08:25:43.874851+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -9516,7 +9790,7 @@
       "article": null,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": null
+      "updated_at": "2026-06-28T08:26:53.109410+00:00"
     },
     {
       "asin": "B0H3DB7FP8",
@@ -9525,12 +9799,12 @@
       "title_video": "ファクタリングのトリセツ 借りずに資金を作る、新しい資金調達の教科書",
       "author": null,
       "publisher": null,
-      "genre": null,
+      "genre": "お金",
       "amazon_url": "https://www.amazon.co.jp/dp/B0H3DB7FP8?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0H3DB7FP8.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B0H3DB7FP8.jpg",
-      "summary_md": null,
+      "summary_md": "🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『ファクタリングのトリセツ 借りずに資金を作る、新しい資金調達の教科書』ろい 著\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0H3DB7FP8?tag=otona_radio-22&linkCode=ll1\n→ Kindle Unlimited会員なら無料 : https://www.amazon.co.jp/s?k=%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%88%E3%83%AA%E3%82%BB%E3%83%84+%E5%80%9F%E3%82%8A%E3%81%9A%E3%81%AB%E8%B3%87%E9%87%91%E3%82%92%E4%BD%9C%E3%82%8B%E3%80%81%E6%96%B0%E3%81%97%E3%81%84%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8&i=kindle-unlimited&linkCode=sl2&linkId=212413121abffd2aa120ef09297024a0&tag=otona_radio-22&ref=as_li_ss_tl\n　公開時点ではKindle Unlimited（読み放題）の対象です！\n\n「払えるだろうか」と立ちすくんでいた夜が、「自分の意思で橋を選べる」に変わる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [],
       "excerpt": null,
