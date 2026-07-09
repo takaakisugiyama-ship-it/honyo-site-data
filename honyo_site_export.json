@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T21:00:03.782443+00:00",
+  "generated_at": "2026-07-09T02:22:44.395244+00:00",
   "schema_version": 1,
   "count": 283,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -2739,7 +2739,7 @@
           "variant": "v17_dense",
           "video_id": "-sZjAG7OWHU",
           "url": "https://youtu.be/-sZjAG7OWHU",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-04T07:00:00Z",
           "uploaded_at": "2026-06-30T11:53:04.343809+00:00"
         }
@@ -5867,7 +5867,7 @@
           "variant": "v17_dense4",
           "video_id": "fezw_64fQuY",
           "url": "https://youtu.be/fezw_64fQuY",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-04T02:00:00Z",
           "uploaded_at": "2026-07-03T14:11:02.143423+00:00"
         }
@@ -8018,7 +8018,7 @@
           "variant": "v13_targeted",
           "video_id": "9utyvovzPEE",
           "url": "https://youtu.be/9utyvovzPEE",
-          "privacy": "unlisted",
+          "privacy": "public",
           "publish_at": "2026-07-05T14:00:00Z",
           "uploaded_at": "2026-07-04T06:31:38.047443+00:00"
         }
@@ -10130,7 +10130,7 @@
           "variant": "v17_dense",
           "video_id": "n3iOntf45ds",
           "url": "https://youtu.be/n3iOntf45ds",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-04T14:00:00Z",
           "uploaded_at": "2026-07-04T12:12:21.504968+00:00"
         }
@@ -10503,7 +10503,7 @@
           "variant": "v13_targeted",
           "video_id": "6i_dXgkRqxQ",
           "url": "https://youtu.be/6i_dXgkRqxQ",
-          "privacy": "unlisted",
+          "privacy": "public",
           "publish_at": "2026-07-05T03:00:00Z",
           "uploaded_at": "2026-07-04T07:01:41.317531+00:00"
         }
@@ -11175,7 +11175,7 @@
           "variant": "v17_dense",
           "video_id": "EPPKGRepIaE",
           "url": "https://youtu.be/EPPKGRepIaE",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-04T10:00:00Z",
           "uploaded_at": "2026-06-30T11:53:15.254059+00:00"
         },
@@ -11777,7 +11777,7 @@
           "variant": "v17_dense",
           "video_id": "NAI6oqc7pCU",
           "url": "https://youtu.be/NAI6oqc7pCU",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-05T02:00:00Z",
           "uploaded_at": "2026-07-04T12:16:27.314493+00:00"
         }
@@ -12305,7 +12305,7 @@
           "variant": "v17_dense4",
           "video_id": "Zb7nq_L-UfQ",
           "url": "https://youtu.be/Zb7nq_L-UfQ",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-04T08:00:00Z",
           "uploaded_at": "2026-07-03T14:12:57.410573+00:00"
         }
@@ -17054,7 +17054,7 @@
           "variant": "v20_lecture",
           "video_id": "I3qeDEJAcps",
           "url": "https://youtu.be/I3qeDEJAcps",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-05T08:00:00Z",
           "uploaded_at": "2026-07-04T11:54:18.300155+00:00"
         }
@@ -18232,7 +18232,7 @@
           "variant": "v17_dense",
           "video_id": "Y3auEliI774",
           "url": "https://youtu.be/Y3auEliI774",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-04T06:00:00Z",
           "uploaded_at": "2026-07-03T14:12:37.112430+00:00"
         }
@@ -24875,7 +24875,7 @@
           "variant": "v17_dense",
           "video_id": "FBbPnxz-t7I",
           "url": "https://youtu.be/FBbPnxz-t7I",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-09T02:00:00Z",
           "uploaded_at": "2026-07-08T08:33:03.295348+00:00"
         }
@@ -25886,7 +25886,7 @@
           "variant": "v17_dense",
           "video_id": "eNvW4cbOwvw",
           "url": "https://youtu.be/eNvW4cbOwvw",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-04T04:00:00Z",
           "uploaded_at": "2026-07-03T14:12:02.387000+00:00"
         }
@@ -25965,7 +25965,7 @@
           "variant": "v17_dense",
           "video_id": "lxQPYOA2eyE",
           "url": "https://youtu.be/lxQPYOA2eyE",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-04T03:00:00Z",
           "uploaded_at": "2026-07-03T14:11:45.892944+00:00"
         }
@@ -26124,7 +26124,7 @@
           "variant": "v17_dense",
           "video_id": "4u-m34ezi74",
           "url": "https://youtu.be/4u-m34ezi74",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-04T05:00:00Z",
           "uploaded_at": "2026-07-03T14:12:17.924696+00:00"
         }
