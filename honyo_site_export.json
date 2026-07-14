@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T21:01:03.822657+00:00",
+  "generated_at": "2026-07-14T21:01:08.201562+00:00",
   "schema_version": 1,
   "count": 284,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -2376,7 +2376,7 @@
       "amazon_url": "https://www.amazon.co.jp/dp/B0081M7YEE?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0081M7YEE.jpg",
       "rakuten_url": null,
-      "cover_scan": null,
+      "cover_scan": "/covers/B0081M7YEE.jpg",
       "summary_md": null,
       "chapters": [],
       "videos": [],
@@ -2695,8 +2695,8 @@
           "body": "読み終えたあと、あなたに残ってほしいのは、知識ではありません。一枚のメモと、二分の時間です。\n\n今日、目の前の自分の仕事の流れを、生産現場だと思って眺めてみてください。そのうえで、この二つだけを紙に書き出します。\n\n一つ目。この一週間で、私はどこで「つくりすぎ」ていたか。使われる予定のない資料をつくった、まだ判断できない案件のために資材を先発注した、そんな行為を、一つだけ挙げます。二つ目。その「つくりすぎ」は、なぜ生まれたのか。なぜ、を五回、静かに自分に問いかけます。表面の原因の向こうに、必ず、あなたが抱えている深い不安や、慣習や、思い込みが顔を出します。\n\nこの二分だけで、あなたの動きは少し変わります。動きと働きを区別する目が、あなたのなかに芽生えます。\n\n量で押す時代は、もう終わっています。低成長のなかで利益を残す唯一の道は、ムダを徹底的に、しかし静かに、削っていくことです。あなたの現場の、いちばん根源的なムダを、今日、たった一つだけ、選んでください。"
         }
       ],
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -25315,7 +25315,7 @@
           "variant": "v17_dense",
           "video_id": "WL49AO-p7j4",
           "url": "https://youtu.be/WL49AO-p7j4",
-          "privacy": "unlisted",
+          "privacy": "public",
           "publish_at": "2026-07-14T02:00:00Z",
           "uploaded_at": "2026-07-11T15:53:43.845042+00:00"
         }
