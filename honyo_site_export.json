@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:32:49.661256+00:00",
+  "generated_at": "2026-07-23T21:01:03.787936+00:00",
   "schema_version": 1,
   "count": 288,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -7464,6 +7464,15 @@
           "privacy": "private",
           "publish_at": null,
           "uploaded_at": "2026-07-22T14:26:52.157928+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "Ln7DbW6Aerc",
+          "url": "https://youtu.be/Ln7DbW6Aerc",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-07-23T13:18:13.387987+00:00"
         }
       ],
       "excerpt": "岸見一郎・古賀史健『嫌われる勇気』を、アドラー心理学の公共知と日米の実例から徹底解剖する書評です。「人は変われる」という核心命題と課題の分離・共同体感覚の三軸を、依拠を断ちながら読み解きます。",
