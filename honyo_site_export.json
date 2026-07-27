@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T11:00:21.878708+00:00",
+  "generated_at": "2026-07-27T21:01:04.388188+00:00",
   "schema_version": 1,
   "count": 345,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -4231,14 +4231,69 @@
       "title_video": "幸せになる勇気",
       "author": null,
       "publisher": null,
-      "genre": null,
+      "genre": "自己啓発",
       "amazon_url": "https://www.amazon.co.jp/dp/B01AHLTSAY?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B01AHLTSAY.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B01AHLTSAY.jpg",
-      "summary_md": null,
-      "chapters": [],
-      "videos": [],
+      "summary_md": "『幸せになる勇気』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n\n▼ チャプター\n0:00 オープニング\n0:06 明日の朝、最初の一言をどう出すか\n6:23 足場：部下も、家の子も、あなたも、確かめているのは同じ一点\n12:41 決意が三日でしぼむ理由\n20:30 「解いてやる」をやめると、話が出てくる\n28:32 言えなくて詰んでいる人のための、叱らない技術\n36:59 上から降りてきた数字を、そのまま下へ流さない\n44:47 黙っているのは、拒絶ではない\n51:30 先に差し出す側だけが、話を聞ける\n59:21 この処方が効かなくなる、三つの条件\n1:07:48 おさらい：明日の朝、最初の一言\n\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
+      "chapters": [
+        {
+          "t": "0:00",
+          "title": "オープニング"
+        },
+        {
+          "t": "0:06",
+          "title": "明日の朝、最初の一言をどう出すか"
+        },
+        {
+          "t": "6:23",
+          "title": "足場：部下も、家の子も、あなたも、確かめているのは同じ一点"
+        },
+        {
+          "t": "12:41",
+          "title": "決意が三日でしぼむ理由"
+        },
+        {
+          "t": "20:30",
+          "title": "「解いてやる」をやめると、話が出てくる"
+        },
+        {
+          "t": "28:32",
+          "title": "言えなくて詰んでいる人のための、叱らない技術"
+        },
+        {
+          "t": "36:59",
+          "title": "上から降りてきた数字を、そのまま下へ流さない"
+        },
+        {
+          "t": "44:47",
+          "title": "黙っているのは、拒絶ではない"
+        },
+        {
+          "t": "51:30",
+          "title": "先に差し出す側だけが、話を聞ける"
+        },
+        {
+          "t": "59:21",
+          "title": "この処方が効かなくなる、三つの条件"
+        },
+        {
+          "t": "1:07:48",
+          "title": "おさらい：明日の朝、最初の一言"
+        }
+      ],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "labwDfhUd2Q",
+          "url": "https://youtu.be/labwDfhUd2Q",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-07-27T13:37:11.892744+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": "自己啓発",
       "article_tags": [],
