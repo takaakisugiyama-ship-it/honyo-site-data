@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T12:15:37.049947+00:00",
+  "generated_at": "2026-07-30T21:01:21.574432+00:00",
   "schema_version": 1,
   "count": 344,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -973,7 +973,7 @@
           "video_id": "UEaIm-QW5Ys",
           "url": "https://youtu.be/UEaIm-QW5Ys",
           "privacy": "private",
-          "publish_at": null,
+          "publish_at": "2026-07-31T11:00:00Z",
           "uploaded_at": "2026-06-17T11:31:56.051150+00:00"
         }
       ],
@@ -987,7 +987,7 @@
       "indexable": false,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-06-17T12:41:58.323686+00:00"
+      "updated_at": "2026-07-30T13:35:20.927712+00:00"
     },
     {
       "asin": "4866510420",
@@ -14896,10 +14896,49 @@
       "amazon_url": "https://www.amazon.co.jp/dp/B0DJ8PNB3Q?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0DJ8PNB3Q.jpg",
       "rakuten_url": null,
-      "cover_scan": null,
-      "summary_md": null,
-      "chapters": [],
-      "videos": [],
+      "cover_scan": "/covers/B0DJ8PNB3Q.jpg",
+      "summary_md": "▶ honyouyaku.com で読む: https://honyouyaku.com/b0dj8pnb3q\n→ Amazonで見る: https://www.amazon.co.jp/dp/B0DJ8PNB3Q?tag=otona_radio-22&linkCode=ll1\n\n『イシューからはじめよ［改訂版］』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n0:05 なぜ私たちは、終わらない作業に追われるのか\n6:21 「なんちゃってイシュー」に騙されるな\n14:11 データを集めるな、結果から逆算せよ\n20:12 完璧なものを作ろうとしていませんか\n28:04 【徹底解剖】ネガティブケイパビリティの正体\n33:19 明日、最初に行うべき「たった一つの決断」\n\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
+      "chapters": [
+        {
+          "t": "0:00",
+          "title": "オープニング"
+        },
+        {
+          "t": "0:05",
+          "title": "なぜ私たちは、終わらない作業に追われるのか"
+        },
+        {
+          "t": "6:21",
+          "title": "「なんちゃってイシュー」に騙されるな"
+        },
+        {
+          "t": "14:11",
+          "title": "データを集めるな、結果から逆算せよ"
+        },
+        {
+          "t": "20:12",
+          "title": "完璧なものを作ろうとしていませんか"
+        },
+        {
+          "t": "28:04",
+          "title": "【徹底解剖】ネガティブケイパビリティの正体"
+        },
+        {
+          "t": "33:19",
+          "title": "明日、最初に行うべき「たった一つの決断」"
+        }
+      ],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "OXObWoxz9os",
+          "url": "https://youtu.be/OXObWoxz9os",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-07-30T16:38:31.678529+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": "自己啓発",
       "article_tags": [],
@@ -18199,7 +18238,7 @@
           "video_id": "FBbPnxz-t7I",
           "url": "https://youtu.be/FBbPnxz-t7I",
           "privacy": "private",
-          "publish_at": null,
+          "publish_at": "2026-07-31T08:00:00Z",
           "uploaded_at": "2026-07-08T08:33:03.295348+00:00"
         }
       ],
@@ -18213,7 +18252,7 @@
       "indexable": false,
       "has_raw": true,
       "raw_type": "audible",
-      "updated_at": "2026-07-08T08:34:03.412482+00:00"
+      "updated_at": "2026-07-30T13:35:20.927700+00:00"
     },
     {
       "asin": "B0GXWPXLS5",
@@ -19230,7 +19269,17 @@
           "title": "適用限界と「無敵の人生」への実践アクション"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "t7mfQz1pvpc",
+          "url": "https://youtu.be/t7mfQz1pvpc",
+          "privacy": "public",
+          "publish_at": "2026-07-30T14:00:00Z",
+          "uploaded_at": "2026-07-30T13:25:51.150029+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": "自己啓発",
       "article_tags": [],
