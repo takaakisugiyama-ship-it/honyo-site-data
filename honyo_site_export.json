@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T21:01:19.824574+00:00",
+  "generated_at": "2026-08-01T22:18:14.803940+00:00",
   "schema_version": 1,
-  "count": 344,
+  "count": 345,
   "affiliate_amazon_tag": "otona_radio-22",
   "notes": "summary_md=description.md散文(Web掲載可)。生OCR全文は非出力(著作権)。publisher/ISBN13/読了時間はパイプラインに無し。cover_scan=/covers/<asin>.jpg(ルート相対・源=assets/covers=サムネと同一クリーン書影・honyouyaku-webが/covers/でCDN配信)。契約=docs/web_data_handoff.md。",
   "books": [
@@ -978,9 +978,9 @@
         }
       ],
       "excerpt": null,
-      "article_category": null,
-      "article_tags": null,
-      "article_format": null,
+      "article_category": "自己啓発",
+      "article_tags": [],
+      "article_format": "template_withheld",
       "reading_time": null,
       "article": null,
       "sources": null,
@@ -15043,13 +15043,42 @@
         }
       ],
       "excerpt": null,
-      "article_category": "自己啓発",
-      "article_tags": [],
-      "article_format": "template_withheld",
+      "article_category": "思考法・ビジネス",
+      "article_tags": null,
+      "article_format": "review",
       "reading_time": null,
-      "article": null,
+      "article": [
+        {
+          "heading": "『イシューからはじめよ』が提示する知性の革命",
+          "body": "現代のビジネスや研究現場において、多くの人が「とにかく手を動かす」「睡眠時間を削ってがむしゃらに働く」という泥沼に陥っています。著者・安宅和人氏が本書で断罪するこの「犬の道」は、どれほど努力を重ねても成果を生み出さない悲劇の構造です。圧倒的な成果を出すプロフェッショナルは、作業スピードを上げるのではなく、「解くべき問題の質（イシュー度）」を極限まで見極めることから始めます。"
+        },
+        {
+          "heading": "イシュー度と解の質：バリューのある仕事の二次元マトリクス",
+          "body": "バリューのある仕事とは、「イシュー度（自分の置かれた局面でその問題に答えを出す必要性の高さ）」と「解の質（特定した課題に対して解がどこまで本質的かつ明快に提示されているかの深度）」の双方が高い領域を指します。イシュー度が低い問題をいくら緻密に解いても価値はゼロに等しく、むしろ組織や個人の貴重なリソースを浪費します。解を出し始める前に「今、本当にこの問題に答えを出すべきか」を徹底的に問う姿勢こそがすべての出発点です。"
+        },
+        {
+          "heading": "「悩む」な、「考える」に集中せよ",
+          "body": "仕事や研究において「悩む」ことと「考える」ことは全く異なる行為です。「悩む」とは答えが出ない前提で同じ場所をぐるぐると回り、感情を消耗させるプロセスです。一方、「考える」とは結論・仮説に向けた構成要素を整理し、客観的なファクトに基づいて論理を組み立てる行為です。プロフェッショナルとして時間を投資すべきは後者のみであり、悩みが発生した瞬間に思考のフレームワークへと切り替える必要があります。"
+        },
+        {
+          "heading": "仮説ドリブン：ストーリーラインと絵コンテの事前構築",
+          "body": "データを取り集めてから分析結果を待つ従来のアプローチは、大半が使い物にならない「なんちゃってイシュー」に終わります。成果を出す者は、分析に着手する前に「最終的に欲しい分析結果のイメージ」とストーリーラインを前倒しで設計します。どのようなデータがあれば相手を納得させられるかという「絵コンテ」を先に描くことで、無駄なデータ収集と試行錯誤を劇的に削減できます。"
+        },
+        {
+          "heading": "アウトプットドリブン：60%の完成度で素早く回す",
+          "body": "一度の作業で100%の完成度を目指す姿勢は、納期遅延と軌道修正の難化を招きます。知的生産においては、60%の完成度の段階で関係者や上司にフィードバックを求め、仮説のずれを早期に修正する方が、結果的に短い時間で最高品質のアウトプットへ到達できます。完成度よりも回転数を意識したアジリティが求められます。"
+        },
+        {
+          "heading": "答えが出ない曖昧さに耐える「ネガティブケイパビリティ」",
+          "body": "不確実で複雑な現代の課題に立ち向かうためには、すぐに安易な結論に飛びつかず、不確実さの中に留まり続ける能力「ネガティブケイパビリティ」が欠かせません。拙速な判断を控え、イシューの本質が浮き彫りになるまで観察と洞察を重ねる胆力が、本物のブレイクスルーをもたらします。"
+        },
+        {
+          "heading": "【実践アクション】今日から始めるイシュー駆動の習慣",
+          "body": "明日からの働き方を変えるために、まずは「今日一番後回しにしているタスク」を取り出し、「この問題に今答える必要はあるか」を1行でメモしてください。なんちゃってイシューであれば即座に捨てること。そして、残った真のイシューに対して、60%の仮説メモを書き出すことからスタートしましょう。"
+        }
+      ],
       "sources": null,
-      "indexable": false,
+      "indexable": true,
       "has_raw": false,
       "raw_type": null,
       "updated_at": "2026-07-31T10:34:44.932214+00:00"
@@ -19517,6 +19546,33 @@
       "genre": null,
       "amazon_url": "https://www.amazon.co.jp/dp/ZZEXPERIM2?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/ZZEXPERIM2.jpg",
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [],
+      "excerpt": null,
+      "article_category": "自己啓発",
+      "article_tags": [],
+      "article_format": "template_withheld",
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "indexable": false,
+      "has_raw": false,
+      "raw_type": null,
+      "updated_at": null
+    },
+    {
+      "asin": "ZZSELFTEST",
+      "slug": "zzselftest",
+      "title_book": "ZZSELFTEST_自己検査用",
+      "title_video": null,
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/ZZSELFTEST?tag=otona_radio-22&linkCode=ll1",
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/ZZSELFTEST.jpg",
       "rakuten_url": null,
       "cover_scan": null,
       "summary_md": null,
