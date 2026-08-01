@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T21:01:22.014356+00:00",
+  "generated_at": "2026-08-01T21:01:19.824574+00:00",
   "schema_version": 1,
   "count": 344,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -972,7 +972,7 @@
           "variant": "v15_digest",
           "video_id": "UEaIm-QW5Ys",
           "url": "https://youtu.be/UEaIm-QW5Ys",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-07-31T11:00:00Z",
           "uploaded_at": "2026-06-17T11:31:56.051150+00:00"
         }
@@ -987,7 +987,7 @@
       "indexable": false,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-07-30T13:35:20.927712+00:00"
+      "updated_at": "2026-08-01T07:15:40.603321+00:00"
     },
     {
       "asin": "4866510420",
@@ -14977,7 +14977,7 @@
       "title_video": "【徹底解剖】イシューからはじめよ｜安宅和人｜解く前に、解くべき問題を選べ",
       "author": null,
       "publisher": null,
-      "genre": null,
+      "genre": "経営",
       "amazon_url": "https://www.amazon.co.jp/dp/B0DJ8PNB3Q?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0DJ8PNB3Q.jpg",
       "rakuten_url": null,
@@ -16313,7 +16313,7 @@
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0FMQ1Q69F.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B0FV8V8Z2J.jpg",
-      "summary_md": null,
+      "summary_md": "▶ 本要約センターWEBで読む: https://honyouyaku.com/book.html?id=b0fv8v8z2j\n\n🔼【徹底解説（完全版）】制作リクエスト受付中！\nこの本の完全版（徹底解説）を見たい方は、コメントで「徹底解説希望」と教えてください（👍いいねも歓迎）。リクエストの多い本から、順番に完全版を制作していきます。あなたの一声で、この本の制作順位が上がります。\n\n▼ 書籍\n『戦わずして売る技術』 著\n→ Amazon(紙/Kindle)で見る: https://www.amazon.co.jp/dp/B0FMQ1Q69F?tag=otona_radio-22&linkCode=ll1\n→ Audible（オーディオブック）で聴く: https://www.audible.co.jp/search?keywords=戦わずして売る技術&tag=otona_radio-22\n　初回30日間の無料体験つき。耳で“ながら”読書ができます！\n\n良いものを作ったのに、なぜか売れない——それはあなたの努力が足りないからではなく、戦う場所と相手を間違えていただけ。住み分けの設計図を手にすれば、無理に戦わなくても、必要な人に静かに届けられる。\n\n▼ チャプター\n\n― この本がよかったら、チャンネル登録を。次の一冊で、また。\n※この動画はAI（音声合成・画像生成）を用いて制作しています。",
       "chapters": [],
       "videos": [
         {
@@ -19340,7 +19340,7 @@
       "title_video": "【徹底解剖】人生は波動だよ｜斎藤一人｜波動の正体は、あなたの「機嫌」だった",
       "author": null,
       "publisher": null,
-      "genre": null,
+      "genre": "自己啓発",
       "amazon_url": "https://www.amazon.co.jp/dp/4198661464?tag=otona_radio-22&linkCode=ll1",
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/4198661464.jpg",
       "rakuten_url": null,
