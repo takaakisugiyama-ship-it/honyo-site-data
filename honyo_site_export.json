@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T00:16:48.091973+00:00",
+  "generated_at": "2026-08-15T01:20:59.112580+00:00",
   "schema_version": 1,
   "count": 376,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -7,7 +7,7 @@
   "books": [
     {
       "asin": "4054069843",
-      "slug": "4054069843",
+      "slug": "yamazaki-sensei-okane",
       "title_book": "山崎先生お金",
       "title_video": "【徹底解説】山崎先生、お金の授業｜山崎元｜お金の不安は「やめる3つ」で消える",
       "author": "山崎元",
@@ -286,7 +286,7 @@
     },
     {
       "asin": "4198659710",
-      "slug": "4198659710",
+      "slug": "mazushii-kanemochi-yutakana-binboujin",
       "title_book": "貧しい金持ち、豊かな貧乏人",
       "title_video": "【徹底解説】貧しい金持ち、豊かな貧乏人｜ひろゆき｜お金を増やせない時代に、豊かに生きる方法",
       "author": null,
@@ -447,7 +447,7 @@
     },
     {
       "asin": "4537217766",
-      "slug": "4537217766",
+      "slug": "kobayashi-hiroyuki-jiritsushinkei",
       "title_book": "眠れなくなるほど面白い 図解 自律神経の話",
       "title_video": "【サクッと要約】眠れなくなるほど面白い 図解 自律神経の話｜疲れがとれない、本当の理由",
       "author": null,
@@ -993,7 +993,7 @@
     },
     {
       "asin": "4799112910",
-      "slug": "4799112910",
+      "slug": "hito-wa-hanashikata-ga-9wari-2",
       "title_book": "人は話し方が9割2",
       "title_video": "【徹底解説】人は話し方が9割2｜永松茂久｜「頑張って話す」をやめると会話はうまくいく",
       "author": null,
@@ -1517,7 +1517,7 @@
     },
     {
       "asin": "4815622973",
-      "slug": "4815622973",
+      "slug": "seisei-ai-de-sekai-wa-kou-kawaru",
       "title_book": "生成AIで世界はこう変わる",
       "title_video": "【徹底解説】生成AIで世界はこう変わる｜今井翔太｜人間に残る、たった一つの問い",
       "author": "今井翔太",
@@ -1659,7 +1659,7 @@
     },
     {
       "asin": "4837988059",
-      "slug": "4837988059",
+      "slug": "totoeru-chikara-hasebe",
       "title_book": "整える力",
       "title_video": "【徹底解説】整える力 禅が教えてくれる98の養生訓｜枡野俊明｜“整う”コツは、足すより「引く」",
       "author": "枡野俊明",
@@ -2181,7 +2181,7 @@
     },
     {
       "asin": "B0081M7YEE",
-      "slug": "b0081m7yee",
+      "slug": "the-goal-goldratt-toc",
       "title_book": "ザ・ゴール",
       "title_video": "【徹底解剖】ザ・ゴール｜ゴールドラット｜ボトルネックが、全てを決める",
       "author": null,
@@ -2315,7 +2315,7 @@
     },
     {
       "asin": "B0083ZDWPE",
-      "slug": "b0083zdwpe",
+      "slug": "drucker-management-essential",
       "title_book": "マネジメント[エッセンシャル版]",
       "title_video": "【徹底解剖】マネジメント｜ドラッカー｜成果は、組織の外にある",
       "author": null,
@@ -2428,7 +2428,7 @@
     },
     {
       "asin": "B008BCD088",
-      "slug": "b008bcd088",
+      "slug": "hoshi-no-shonin-inukai-turbo",
       "title_book": "星の商人",
       "title_video": "【徹底解剖】星の商人｜犬飼ターボ｜与える者が、最も栄える",
       "author": null,
@@ -2543,7 +2543,7 @@
     },
     {
       "asin": "B008YOHDK4",
-      "slug": "b008yohdk4",
+      "slug": "nou-ga-saeru-15-no-shukan",
       "title_book": "脳が冴える15の習慣 記憶・集中・思考力を高める",
       "title_video": "脳が冴える１５の習慣 ―記憶・集中・思考力を高める 生活人新書",
       "author": null,
@@ -3974,7 +3974,7 @@
     },
     {
       "asin": "B00CPLJK62",
-      "slug": "b00cpljk62",
+      "slug": "thinking-better",
       "title_book": "うまくいっている人の考え方 完全版",
       "title_video": "うまくいっている人の考え方 完全版 (ディスカヴァー携書)",
       "author": null,
@@ -4542,7 +4542,7 @@
     },
     {
       "asin": "B00GTK5IQG",
-      "slug": "b00gtk5iqg",
+      "slug": "jinsei-no-hosoku-4types",
       "title_book": "人生の法則 欲求の4タイプで分かるあなたと他人",
       "title_video": "人生の法則 「欲求の4タイプ」で分かるあなたと他人 電子版",
       "author": null,
@@ -4724,7 +4724,7 @@
     },
     {
       "asin": "B00H1MDLS8",
-      "slug": "b00h1mdls8",
+      "slug": "jinsei-keikaku-no-tatekata",
       "title_book": "人生計画の立て方",
       "title_video": "人生計画の立て方",
       "author": null,
@@ -4798,7 +4798,7 @@
     },
     {
       "asin": "B00H1MDLY2",
-      "slug": "b00h1mdly2",
+      "slug": "watashi-no-seikatsu-ryugi",
       "title_book": "私の生活流儀",
       "title_video": "私の生活流儀",
       "author": null,
@@ -5028,7 +5028,7 @@
     },
     {
       "asin": "B00IJ18JGE",
-      "slug": "b00ij18jge",
+      "slug": "globis-finance-live-class",
       "title_book": "グロービスMBA集中講義 ［実況］ファイナンス教室",
       "title_video": "【徹底解説】ファイナンス教室(グロービスMBA)｜星野優｜「数字に弱い」が終わる、お金の値打ちの決め方",
       "author": "ファイナンス教室(グロービスMBA)",
@@ -5121,7 +5121,7 @@
     },
     {
       "asin": "B00IJ18JHS",
-      "slug": "b00ij18jhs",
+      "slug": "mba-management-strategy-classroom",
       "title_book": "[実況]MBA集中講義 経営戦略",
       "title_video": "グロービスMBA集中講義 ［実況］経営戦略教室",
       "author": null,
@@ -5227,7 +5227,7 @@
     },
     {
       "asin": "B00IRV39FM",
-      "slug": "b00irv39fm",
+      "slug": "give-and-take-grant",
       "title_book": "ＧＩＶＥ ＆ ＴＡＫＥ「与える人」こそ成功する時代 三笠書房 電子書籍",
       "title_video": "ＧＩＶＥ ＆ ＴＡＫＥ「与える人」こそ成功する時代 三笠書房 電子書籍",
       "author": null,
@@ -5452,7 +5452,7 @@
     },
     {
       "asin": "B00JTWK2I0",
-      "slug": "b00jtwk2i0",
+      "slug": "event-jitsumu-ga-yokuwakaru",
       "title_book": "「イベント実務」がよくわかる本",
       "title_video": "【サクッと要約】「イベント実務」がよくわかる本｜「イベント実務」がよくわかる本——はじめての人のため",
       "author": null,
@@ -5574,7 +5574,7 @@
     },
     {
       "asin": "B00JUCEK8W",
-      "slug": "b00jucek8w",
+      "slug": "globis-mba-leadership-primer",
       "title_book": "新版 グロービスＭＢＡリーダーシップ",
       "title_video": "【サクッと要約】【新版】グロービスＭＢＡリーダーシップ｜あなたに合う「型」がわかれば、人は動く",
       "author": null,
@@ -5689,7 +5689,7 @@
     },
     {
       "asin": "B00M402YCQ",
-      "slug": "b00m402ycq",
+      "slug": "business-fashion-rules",
       "title_book": "ビジネスファッションルール 武器としての服装術",
       "title_video": "ビジネスファッションルール 武器としての服装術",
       "author": null,
@@ -5825,7 +5825,7 @@
     },
     {
       "asin": "B00MVM2EPE",
-      "slug": "b00mvm2epe",
+      "slug": "visionary-company-built-to-last",
       "title_book": "ビジョナリー・カンパニー 時代を超える生存の原則",
       "title_video": "【徹底解説】ビジョナリー・カンパニー｜ジム・コリンズ｜「偉大さは才能」という思い込みが崩れる、時代を超える会社と人の条件",
       "author": null,
@@ -6126,7 +6126,7 @@
     },
     {
       "asin": "B00RUPCU42",
-      "slug": "b00rupcu42",
+      "slug": "business-creation-aulet",
       "title_book": "ビジネス・クリエーション！",
       "title_video": "【徹底解説】ビジネス・クリエーション｜ビル・オーレット｜「アイデアはあるのに形にできない」が終わる——起業は才能でなく、",
       "author": null,
@@ -6272,7 +6272,7 @@
     },
     {
       "asin": "B00SKB0PU6",
-      "slug": "b00skb0pu6",
+      "slug": "sakutto-zaimusyohyo-nyumon",
       "title_book": "サクッと読める「財務諸表」入門 会社の状態、そして未来のヒントがわかる！ お茶で",
       "title_video": "【サクッと要約】サクッと読める「財務諸表」入門 会社の状態、そして未来のヒントがわかる！｜決算書を読む4つの勘所",
       "author": null,
@@ -6356,7 +6356,7 @@
     },
     {
       "asin": "B00U0ZZ6UE",
-      "slug": "b00u0zz6ue",
+      "slug": "mckinsey-elite-notebook",
       "title_book": "マッキンゼーのエリートはノートに何を書いているのか",
       "title_video": "マッキンゼーのエリートはノートに何を書いているのか トップコンサルタントの考える",
       "author": null,
@@ -6431,7 +6431,7 @@
     },
     {
       "asin": "B00WHUP7UE",
-      "slug": "b00whup7ue",
+      "slug": "hajimeyou-youken-teigi-habu",
       "title_book": "はじめよう！ 要件定義 ～ビギナーからベテランまで",
       "title_video": "【サクッと要約】はじめよう！ 要件定義 ～ビギナーからベテランまで｜「これでOK」を先に言葉にする、合意形成のすべて",
       "author": null,
@@ -6515,7 +6515,7 @@
     },
     {
       "asin": "B00XKU4COM",
-      "slug": "b00xku4com",
+      "slug": "katsu-toushi-makenai-toushi",
       "title_book": "【旧版】勝つ投資 負けない投資",
       "title_video": "【旧版】勝つ投資 負けない投資",
       "author": null,
@@ -6648,7 +6648,7 @@
     },
     {
       "asin": "B00ZBQCU0Q",
-      "slug": "b00zbqcu0q",
+      "slug": "jinsei-wa-omoidori-ni-naru",
       "title_book": "人生は、思い通りになる",
       "title_video": "人生は、思い通りになる！ 豊かさを引き寄せる簡単な法則",
       "author": null,
@@ -6723,7 +6723,7 @@
     },
     {
       "asin": "B00ZTS5MBU",
-      "slug": "b00zts5mbu",
+      "slug": "ma-pmi-success",
       "title_book": "成功に導くPMI 事例に学ぶ経営統合のマネジメント",
       "title_video": "M&Aを成功に導くPMI 事例に学ぶ経営統合のマネジメント",
       "author": null,
@@ -6797,7 +6797,7 @@
     },
     {
       "asin": "B0116H3QPG",
-      "slug": "b0116h3qpg",
+      "slug": "ichinichi-hitotsu-tsuyokunaru",
       "title_book": "1日ひとつだけ、強くなる。",
       "title_video": "１日ひとつだけ、強くなる。",
       "author": null,
@@ -6934,7 +6934,7 @@
     },
     {
       "asin": "B012EU8CD0",
-      "slug": "b012eu8cd0",
+      "slug": "hannonai-renshu",
       "title_book": "反応しない練習",
       "title_video": "反応しない練習",
       "author": null,
@@ -7039,7 +7039,7 @@
     },
     {
       "asin": "B012VJNW6Q",
-      "slug": "b012vjnw6q",
+      "slug": "naruhodo-design",
       "title_book": "なるほどデザイン",
       "title_video": "なるほどデザイン",
       "author": null,
@@ -7251,7 +7251,7 @@
     },
     {
       "asin": "B016JPN8SA",
-      "slug": "b016jpn8sa",
+      "slug": "moukaru-kaisha-no-zaimushohyou",
       "title_book": "「儲かる会社」の財務諸表",
       "title_video": "【サクッと要約】「儲かる会社」の財務諸表～48の実例で身につく経営力・会計力～｜大きさ・大きさ・利益の三つで、会社の裏側",
       "author": null,
@@ -8013,7 +8013,7 @@
     },
     {
       "asin": "B01ASS03BO",
-      "slug": "b01ass03bo",
+      "slug": "hontoni-tsukaeru-yokyuteigi",
       "title_book": "ユーザーの役に立つシステムを作る 本当に使える要求定義［改訂版］（日経BP Ne",
       "title_video": "【サクッと要約】ユーザーの役に立つシステムを作る 本当に使える要求定義［改訂版］｜あいまいさを解き、漏れを断つ最上流の知",
       "author": null,
@@ -8097,7 +8097,7 @@
     },
     {
       "asin": "B01ASS09HW",
-      "slug": "b01ass09hw",
+      "slug": "temodori-nashi-no-youkenteigi",
       "title_book": "手戻りなしの要件定義実践マニュアル[増補改訂版]",
       "title_video": "【サクッと要約】手戻りなしの要件定義実践マニュアル[増補改訂版]｜なぜ作り直しは起きるのか、目的から要件までの順番",
       "author": null,
@@ -8902,7 +8902,7 @@
     },
     {
       "asin": "B01MU4BJUN",
-      "slug": "b01mu4bjun",
+      "slug": "mirai-wo-tsukuru-finance-todo",
       "title_book": "未来をつくるファイナンス ～決断のための企業財務理論入門～",
       "title_video": "【サクッと要約】未来をつくるファイナンス｜会計の三表から価値評価まで、企業財務の幹をつかむ",
       "author": "未来をつくるファイナンス 〜決断のための企業財務理論入門〜",
@@ -8986,7 +8986,7 @@
     },
     {
       "asin": "B01MZD40LQ",
-      "slug": "b01mzd40lq",
+      "slug": "brain-optimization",
       "title_book": "脳を最適化すれば能力は2倍になる",
       "title_video": "脳を最適化すれば能力は2倍になる 仕事の精度と速度を脳科学的にあげる方法",
       "author": null,
@@ -9417,7 +9417,7 @@
     },
     {
       "asin": "B06XK9S23C",
-      "slug": "b06xk9s23c",
+      "slug": "ichiryu-no-shukan",
       "title_book": "一流の習慣 心がけを変えるだけで頭が良くなる28の習慣",
       "title_video": "一流の習慣 心がけを変えるだけで頭が良くなる28の習慣 一流の流儀シリーズ (",
       "author": null,
@@ -9607,7 +9607,7 @@
     },
     {
       "asin": "B071D4CJB9",
-      "slug": "b071d4cjb9",
+      "slug": "marketing-encyclopedia-2017",
       "title_book": "マーケティング基礎読本増補改訂版",
       "title_video": "【サクッと要約】マーケティング基礎読本 増補改訂版｜マーケティングの全体地図が手に入る",
       "author": "マーケティング基礎読本 増補改訂版",
@@ -9691,7 +9691,7 @@
     },
     {
       "asin": "B071KDLRGV",
-      "slug": "b071kdlrgv",
+      "slug": "web-design-ryoshitsu-mihoncho",
       "title_book": "Webデザイン良質見本帳 目的別に探せて、すぐに使えるアイデア集",
       "title_video": "【サクッと要約】Webデザイン良質見本帳 目的別に探せて、すぐに使えるアイデア集｜「印象」と「機能」の二本柱でほどく、セ",
       "author": null,
@@ -9962,7 +9962,7 @@
     },
     {
       "asin": "B072QCFYVJ",
-      "slug": "b072qcfyvj",
+      "slug": "easy-ai-business-primer",
       "title_book": "いちばんやさしい人工知能ビジネスの教本 人気講師が教えるAI・機械学習の事業化",
       "title_video": "【サクッと要約】いちばんやさしい人工知能ビジネスの教本 人気講師が教えるAI・機械学習の事業化｜AIの土台から事業化・法",
       "author": null,
@@ -10047,7 +10047,7 @@
     },
     {
       "asin": "B072XGRWJB",
-      "slug": "b072xgrwjb",
+      "slug": "event-unei-kanzen-manual",
       "title_book": "イベント運営完全マニュアル",
       "title_video": "【サクッと要約】イベント運営完全マニュアル｜人を集め、動かし、次へつなぐ「第三のメディア」",
       "author": null,
@@ -10132,7 +10132,7 @@
     },
     {
       "asin": "B074PYXCC1",
-      "slug": "b074pyxcc1",
+      "slug": "hadou-no-hosoku",
       "title_book": "波動の法則 — 宇宙からのメッセージ",
       "title_video": "【徹底解説】波動の法則｜足立育朗｜“波動”という言葉は、本当は何を意味していたのか",
       "author": null,
@@ -10491,7 +10491,7 @@
     },
     {
       "asin": "B079M6MQX5",
-      "slug": "b079m6mqx5",
+      "slug": "zaimu-shohyo-globis",
       "title_book": "［ポケットMBA］財務諸表分析 ゼロからわかる読み方・活かし方 (PHPビジネス",
       "title_video": "【サクッと要約】［ポケットMBA］財務諸表分析 ゼロからわかる読み方・活かし方｜P/L・B/S・キャッシュフローから財務",
       "author": null,
@@ -10575,7 +10575,7 @@
     },
     {
       "asin": "B07BBM7GQR",
-      "slug": "b07bbm7gqr",
+      "slug": "ichiban-yasashii-ai-chonyumon",
       "title_book": "いちばんやさしいAI〈人工知能〉超入門",
       "title_video": "【サクッと要約】いちばんやさしいAI〈人工知能〉超入門｜機械学習からディープラーニング、仕事の未来まで一冊",
       "author": null,
@@ -10659,7 +10659,7 @@
     },
     {
       "asin": "B07BKRRG8B",
-      "slug": "b07bkrrg8b",
+      "slug": "young-it-engineer-survival-guide",
       "title_book": "若手ITエンジニア 最強の指南書",
       "title_video": "【サクッと要約】若手ITエンジニア 最強の指南書｜若手ITエンジニア 最強の指南書——できる差は才能じ",
       "author": null,
@@ -10784,7 +10784,7 @@
     },
     {
       "asin": "B07CBZQNH7",
-      "slug": "b07cbzqnh7",
+      "slug": "zukai-freud-no-hanashi",
       "title_book": "図解 ヒトのココロがわかるフロイトの話",
       "title_video": "【徹底解説】図解 ヒトのココロがわかるフロイトの話｜山竹伸二監修｜無意識・夢・心のクセを\"自分を知る力\"に変える",
       "author": null,
@@ -10878,7 +10878,7 @@
     },
     {
       "asin": "B07FSBHS2V",
-      "slug": "b07fsbhs2v",
+      "slug": "clean-architecture-book",
       "title_book": "Clean Architecture 達人に学ぶソフトウェアの構造と設計",
       "title_video": "Clean Architecture 達人に学ぶソフトウェアの構造と設計 (アス",
       "author": null,
@@ -11078,7 +11078,7 @@
     },
     {
       "asin": "B07JCZVFZ9",
-      "slug": "b07jczvfz9",
+      "slug": "measure-what-matters-okr",
       "title_book": "メジャーホワットマターズ",
       "title_video": "Measure What Matters（メジャー・ホワット・マターズ） 伝説の",
       "author": null,
@@ -11152,7 +11152,7 @@
     },
     {
       "asin": "B07L2RRXR1",
-      "slug": "b07l2rrxr1",
+      "slug": "ichiban-yasashii-kaikei",
       "title_book": "いちばんやさしい会計の教本 人気講師が教える財務3表の読み解き方が全部わかる本",
       "title_video": "【サクッと要約】いちばんやさしい会計の教本 人気講師が教える財務3表の読み解き方が全部わかる本｜三つの箱と階段とお金の流",
       "author": null,
@@ -11269,7 +11269,7 @@
     },
     {
       "asin": "B07LF91P8R",
-      "slug": "b07lf91p8r",
+      "slug": "b07lf91p8r-imakoso-ai-business",
       "title_book": "いまこそ知りたいＡＩビジネス",
       "title_video": "【サクッと要約】いまこそ知りたいAIビジネス｜AIの正体から\"奪われない生き方\"まで",
       "author": "いまこそ知りたいAIビジネス",
@@ -11995,7 +11995,7 @@
     },
     {
       "asin": "B07P77VSFB",
-      "slug": "b07p77vsfb",
+      "slug": "johoshisan-risk-assessment-jitsumu",
       "title_book": "情報資産リスクアセスメントの実務 共通の基準でリスクを評価するための解説書",
       "title_video": "【サクッと要約】情報資産リスクアセスメントの実務 共通の基準でリスクを評価するための解説書｜勘で守るのをやめる、共通の「",
       "author": null,
@@ -12079,7 +12079,7 @@
     },
     {
       "asin": "B07PP516H1",
-      "slug": "b07pp516h1",
+      "slug": "saiyou-ni-tsuyoi-kaisha",
       "title_book": "採用に強い会社は何をしているか ～52の事例から読み解く採用の原理原則",
       "title_video": "【サクッと要約】採用に強い会社は何をしているか ～52の事例から読み解く採用の原理原則｜出会う・見立てる・結ばれる、勝つ",
       "author": null,
@@ -12194,7 +12194,7 @@
     },
     {
       "asin": "B07SSGP5K9",
-      "slug": "b07ssgp5k9",
+      "slug": "kaisha-ni-okane-wo-nokosu-keiei",
       "title_book": "会社にお金を残す経営の話",
       "title_video": "【サクッと要約】会社にお金を残す経営の話｜9割の社長が知らない、本物の現金の残し方",
       "author": null,
@@ -12693,7 +12693,7 @@
     },
     {
       "asin": "B07XBDKG5B",
-      "slug": "b07xbdkg5b",
+      "slug": "time-does-not-exist",
       "title_book": "時間は存在しない",
       "title_video": "B07XBDKG5B",
       "author": null,
@@ -13031,7 +13031,7 @@
     },
     {
       "asin": "B08147GCLS",
-      "slug": "b08147gcls",
+      "slug": "aws-shikumi-ogasawara",
       "title_book": "図解即戦力 Amazon Web Servicesのしくみと技術がこれ1冊でしっ",
       "title_video": "【サクッと要約】図解即戦力 Amazon Web Servicesのしくみと技術がこれ1冊でしっかりわかる教科書｜クラウ",
       "author": null,
@@ -13168,7 +13168,7 @@
     },
     {
       "asin": "B0814Q7LV7",
-      "slug": "b0814q7lv7",
+      "slug": "no-flop-shippai-shinai-gijutsu",
       "title_book": "Ｇｏｏｇｌｅ×スタンフォード ＮＯ ＦＬＯＰ！ 失敗できない人の失敗しない技術",
       "title_video": "【徹底解説】ＮＯ ＦＬＯＰ！ 失敗しない技術｜作らずに、売れるかを確かめる",
       "author": "本要約",
@@ -13451,7 +13451,7 @@
     },
     {
       "asin": "B082XVC4BN",
-      "slug": "b082xvc4bn",
+      "slug": "gengoka-ryoku-miura",
       "title_book": "言語化力",
       "title_video": "【徹底解説】言語化力｜三浦崇宏｜会議の「どう思う？」に固まらない——「言葉にできない」が武器に変わる",
       "author": null,
@@ -13668,7 +13668,7 @@
     },
     {
       "asin": "B086DJWDT3",
-      "slug": "b086djwdt3",
+      "slug": "eigoryoku-eiken-nobi-nobi",
       "title_book": "８割が高校卒業の英語力！卒業までに英検２級に合格できるのびのび小学校",
       "title_video": "【サクッと要約】8割が高校卒業の英語力！卒業までに英検2級に合格できるのびのび小学校｜普通の家庭の子が英検2級に受かるL",
       "author": "8割が高校卒業の英語力！卒業までに英検2級に合格できるのびのび小学校",
@@ -14845,7 +14845,7 @@
     },
     {
       "asin": "B08JY292MC",
-      "slug": "b08jy292mc",
+      "slug": "top-five-percent-habits-primer",
       "title_book": "トップ5%社員の習慣",
       "title_video": "【徹底解説】AI分析でわかった トップ5%社員の習慣｜越川慎司｜「上位5%」と「95%」を分けるもの",
       "author": "越川慎司",
@@ -15081,7 +15081,7 @@
     },
     {
       "asin": "B08LQ1TZNL",
-      "slug": "b08lq1tznl",
+      "slug": "ginko-yushi-kanzen-manual",
       "title_book": "銀行からの融資 完全マニュアル",
       "title_video": "【サクッと要約】銀行からの融資 完全マニュアル｜銀行が貸したくなる会社のつくり方",
       "author": null,
@@ -15281,7 +15281,7 @@
     },
     {
       "asin": "B08PYWX2R5",
-      "slug": "b08pywx2r5",
+      "slug": "zukai-suimin-no-hanashi",
       "title_book": "眠れなくなるほど面白い 図解 睡眠の話",
       "title_video": "【サクッと要約】図解 睡眠の話｜眠りで差がつくのは、時間より最初の90分",
       "author": null,
@@ -15427,7 +15427,7 @@
     },
     {
       "asin": "B08QHHZVLB",
-      "slug": "b08qhhzvlb",
+      "slug": "sugakuteki-shiko-training",
       "title_book": "数学的思考トレーニング",
       "title_video": "B08QHHZVLB",
       "author": null,
@@ -15533,7 +15533,7 @@
     },
     {
       "asin": "B08R8K2VFX",
-      "slug": "b08r8k2vfx",
+      "slug": "atomawashi-ni-shinai-gijutsu",
       "title_book": "後回しにしない技術",
       "title_video": "【徹底解説】後回しにしない技術｜イ・ミンギュ｜「明日からやろう」が「もう始めてた」に変わる——実行力は才能ではなく技術",
       "author": null,
@@ -15805,7 +15805,7 @@
     },
     {
       "asin": "B08Z3TPVZG",
-      "slug": "b08z3tpvzg",
+      "slug": "trustworthy-online-controlled-experiments",
       "title_book": "A Bテスト実践ガイド 真のデータドリブンへ至る信用できる実験とは (アスキード",
       "title_video": "【サクッと要約】A/Bテスト実践ガイド 真のデータドリブンへ至る信用できる実験とは｜勘ではなくデータで決める「信用できる",
       "author": "A/Bテスト実践ガイド 真のデータドリブンへ至る信用できる実験とは",
@@ -16570,7 +16570,7 @@
     },
     {
       "asin": "B09BG3GZVG",
-      "slug": "b09bg3gzvg",
+      "slug": "accounting-and-finance-world-standard",
       "title_book": "MBAで学ぶ世界標準の会計とファイナンス 1冊にまとめて図でわかりやすく解説",
       "title_video": "【サクッと要約】MBAで学ぶ世界標準の会計とファイナンス 1冊にまとめて図でわかりやすく解説｜会計とファイナンスをつなぐ",
       "author": null,
@@ -16654,7 +16654,7 @@
     },
     {
       "asin": "B09BVBWMVL",
-      "slug": "b09bvbwmvl",
+      "slug": "hidari-nou-san-migi-nou-san",
       "title_book": "左脳さん、右脳さん。あなたにも体感できる意識変容の５ステップ",
       "title_video": "【徹底解剖】左脳さん、右脳さん。｜ネドじゅん｜左脳を黙らせ、右脳に主導権を渡せ",
       "author": null,
@@ -16886,7 +16886,7 @@
     },
     {
       "asin": "B09FX7YP29",
-      "slug": "b09fx7yp29",
+      "slug": "zukai-sokusenryoku-infra-engineer",
       "title_book": "図解即戦力 インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書",
       "title_video": "【サクッと要約】図解即戦力 インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書｜見えない土台を、ゼロから絵に",
       "author": null,
@@ -16970,7 +16970,7 @@
     },
     {
       "asin": "B09NKKXF27",
-      "slug": "b09nkkxf27",
+      "slug": "financial-statements-mystery-training",
       "title_book": "決算書ナゾトキトレーニング 7つのストーリーで学ぶファイナンス入門 (PHPビジ",
       "title_video": "【徹底解説】決算書ナゾトキトレーニング｜村上茂久｜「数字が苦手」で止まっていた人へ——決算書は暗記でなく、たった一本の補",
       "author": null,
@@ -17468,7 +17468,7 @@
     },
     {
       "asin": "B09TP6HRPK",
-      "slug": "b09tp6hrpk",
+      "slug": "venture-capitalist-kingmaker",
       "title_book": "ベンチャー・キャピタリスト 世界を動かす最強の「キングメーカー」たち",
       "title_video": "【サクッと要約】ベンチャー・キャピタリスト 世界を動かす最強の「キングメーカー」たち｜世界を動かす「キングメーカー」の正",
       "author": null,
@@ -17646,7 +17646,7 @@
     },
     {
       "asin": "B09WMVSDT7",
-      "slug": "b09wmvsdt7",
+      "slug": "kaikei-to-keiei-no-700-nenshi",
       "title_book": "会計と経営の七〇〇年史 ──五つの発明による興奮と狂乱 (ちくま新書)",
       "title_video": "【サクッと要約】会計と経営の七〇〇年史｜五つの発明で辿る、お金に酔った人類のドラマ",
       "author": null,
@@ -17895,7 +17895,7 @@
     },
     {
       "asin": "B0B2CZSGB2",
-      "slug": "b0b2czsgb2",
+      "slug": "kinri-wo-mireba-toushi-wa-umakuiku",
       "title_book": "改訂版 金利を見れば投資はうまくいく",
       "title_video": "【サクッと要約】改訂版 金利を見れば投資はうまくいく｜三つの金利で景気の四季を読み、冬の前に立ち止まる一冊",
       "author": null,
@@ -18217,7 +18217,7 @@
     },
     {
       "asin": "B0BPS84ZP3",
-      "slug": "b0bps84zp3",
+      "slug": "cho-inflation-jidai-okane",
       "title_book": "超インフレ時代の「お金の守り方」 円安ドル高はここまで進む",
       "title_video": "【サクッと要約】超インフレ時代の「お金の守り方」 円安ドル高はここまで進む｜円安は三段階で進む。あなたの資産を守る全戦略",
       "author": null,
@@ -18551,7 +18551,7 @@
     },
     {
       "asin": "B0BVZFKF8B",
-      "slug": "b0bvzfkf8b",
+      "slug": "dai-infure-jidai-nihonkabu-ga-tsuyoi",
       "title_book": "大インフレ時代！ 日本株が強い",
       "title_video": "【サクッと要約】大インフレ時代！ 日本株が強い｜時代が変わった、デフレ脳からインフレ脳へ／世界の消去",
       "author": null,
@@ -19044,7 +19044,7 @@
     },
     {
       "asin": "B0BZTVKKMR",
-      "slug": "b0bztvkkmr",
+      "slug": "small-talk-world-class",
       "title_book": "世界の一流は雑談で何を話しているのか",
       "title_video": "【徹底解説】世界の一流は「雑談」で何を話しているのか｜ピョートル｜“ただの世間話”が、武器に変わる",
       "author": "ピョートル",
@@ -19168,7 +19168,7 @@
     },
     {
       "asin": "B0C4NWWCTQ",
-      "slug": "b0c4nwwctq",
+      "slug": "shokubutsu-ni-shi-wa-aru-no-ka",
       "title_book": "植物に死はあるのか",
       "title_video": "【徹底解説】植物に死はあるのか｜稲垣栄洋｜「死」の見方が静かに変わる、生命の不思議をめぐる一週間",
       "author": null,
@@ -19315,7 +19315,7 @@
     },
     {
       "asin": "B0C8X38MP3",
-      "slug": "b0c8x38mp3",
+      "slug": "marketing-wakarana-hitoh-n1",
       "title_book": "マーケティングを学んだけれど、どう使えばいいかわからない人へ",
       "title_video": "【サクッと要約】マーケティングを学んだけれど、どう使えばいいかわからない人へ｜迷わないためのたった2つの問い",
       "author": null,
@@ -19433,7 +19433,7 @@
     },
     {
       "asin": "B0C9JKBW29",
-      "slug": "b0c9jkbw29",
+      "slug": "mental-monster-nagatomo",
       "title_book": "［メンタルモンスター］になる。",
       "title_video": "【サクッと要約】［メンタルモンスター］になる。｜批判と重圧を燃料に変える、心の強さの育て方",
       "author": null,
@@ -19518,7 +19518,7 @@
     },
     {
       "asin": "B0CD76Q5NS",
-      "slug": "b0cd76q5ns",
+      "slug": "tonikaku-shikumika-ando",
       "title_book": "とにかく仕組み化",
       "title_video": "【サクッと要約】とにかく仕組み化｜人に頼らず、仕組みで回す。",
       "author": null,
@@ -19640,7 +19640,7 @@
     },
     {
       "asin": "B0CFX1K2JH",
-      "slug": "b0cfx1k2jh",
+      "slug": "seme-no-finance-startup-cfo",
       "title_book": "攻めのファイナンス スタートアップCFO入門",
       "title_video": "【サクッと要約】攻めのファイナンス スタートアップCFO入門｜お金で未来を測り、キャリアを自分で動かすための一冊",
       "author": null,
@@ -19967,7 +19967,7 @@
     },
     {
       "asin": "B0CN8M8DNF",
-      "slug": "b0cn8m8dnf",
+      "slug": "keiei-agenda-niimaruniiyon",
       "title_book": "A.T. カーニー 業界別 経営アジェンダ 2024 (日本経済新聞出版)",
       "title_video": "【サクッと要約】A.T.カーニー 業界別経営アジェンダ｜プロが徹底予測する、日本の全業界アジェンダ",
       "author": null,
@@ -20051,7 +20051,7 @@
     },
     {
       "asin": "B0CPXZ1NJQ",
-      "slug": "b0cpxz1njq",
+      "slug": "nou-wakagaeru-kawashima",
       "title_book": "本を読むだけで脳は若返る",
       "title_video": "【徹底解説】本を読むだけで脳は若返る｜川島隆太｜「最近、本が読めない」あなたへ——読むだけで、脳は目を覚ます",
       "author": null,
@@ -20144,7 +20144,7 @@
     },
     {
       "asin": "B0CQ2GNZJX",
-      "slug": "b0cq2gnzjx",
+      "slug": "saito-hitori-kiseki-no-hito",
       "title_book": "斎藤一人 奇跡の人",
       "title_video": "【徹底解剖】奇跡の人｜斎藤一人｜天国言葉が、奇跡を起こす",
       "author": null,
@@ -21001,7 +21001,7 @@
     },
     {
       "asin": "B0D45WB2ZQ",
-      "slug": "b0d45wb2zq",
+      "slug": "venture-client-bmw-innovation",
       "title_book": "スタートアップ協業を成功させるBMW発の新手法 ベンチャークライアント",
       "title_video": "【サクッと要約】スタートアップ協業を成功させるBMW発の新手法 ベンチャークライアント｜投資をするな、顧客になれ。一冊",
       "author": null,
@@ -21219,7 +21219,7 @@
     },
     {
       "asin": "B0D85HP7F1",
-      "slug": "b0d85hp7f1",
+      "slug": "purpose-management-middle",
       "title_book": "パーパス経営入門 ミドルが会社を変えるための実践ノウハウ",
       "title_video": "【サクッと要約】パーパス経営入門 ミドルが会社を変えるための実践ノウハウ｜現場から、会社は変えられる。",
       "author": null,
@@ -21303,7 +21303,7 @@
     },
     {
       "asin": "B0D9H7H4H4",
-      "slug": "b0d9h7h4h4",
+      "slug": "aruku-jinsei-ga-kawaru-shukan",
       "title_book": "歩く　マジで人生が変わる習慣",
       "title_video": "【本要約】歩く　マジで人生が変わる習慣(著)池田光史｜ウォーキングが最強のソリューションである",
       "author": null,
@@ -21964,7 +21964,7 @@
     },
     {
       "asin": "B0DF2CJTQZ",
-      "slug": "b0df2cjtqz",
+      "slug": "start-small-saito",
       "title_book": "小さくはじめよう",
       "title_video": "【サクッと要約】小さくはじめよう｜好きと強みを起点に、隙間時間で動き出す",
       "author": null,
@@ -22048,7 +22048,7 @@
     },
     {
       "asin": "B0DGHMW13L",
-      "slug": "b0dghmw13l",
+      "slug": "200mannin-no-zasetsu-to-seikou-keizoku-suru-gijutsu",
       "title_book": "200万人の「挫折」と「成功」のデータからわかった 継続する技術",
       "title_video": "200万人の「挫折」と「成功」のデータからわかった 継続する技術",
       "author": null,
@@ -22254,7 +22254,7 @@
     },
     {
       "asin": "B0DJSKCYPY",
-      "slug": "b0djskcypy",
+      "slug": "buka-wo-mottara-ichiban-saishoni-yomu-hon",
       "title_book": "部下をもったらいちばん最初に読む本",
       "title_video": "【徹底解剖】部下をもったらいちばん最初に読む本｜橋本拓也｜人の上に立つ資格は、器ではなく技術",
       "author": null,
@@ -22476,7 +22476,7 @@
     },
     {
       "asin": "B0DKXKXH6B",
-      "slug": "b0dkxkxh6b",
+      "slug": "okane-no-daigaku",
       "title_book": "お金の大学",
       "title_video": "お金の大学",
       "author": null,
@@ -22783,7 +22783,7 @@
     },
     {
       "asin": "B0DRC6L5TR",
-      "slug": "b0drc6l5tr",
+      "slug": "finance-cho-nyumon-kuroda",
       "title_book": "【図解】ファイナンス超入門：コーポレートファイナンスでお金、投資、資産運用、節約",
       "title_video": "【サクッと要約】【図解】ファイナンス超入門：コーポレートファイナンスでお金、投資、資産運用、節約｜一生お金に困らない、フ",
       "author": "長谷川大",
@@ -23980,7 +23980,7 @@
     },
     {
       "asin": "B0FSD4PGBW",
-      "slug": "b0fsd4pgbw",
+      "slug": "yarikiru-ishikettei-nakade",
       "title_book": "やりきる意思決定",
       "title_video": "【サクッと要約】やりきる意思決定｜正しい課題を選べば実行は驚くほどうまくいく",
       "author": null,
@@ -24064,7 +24064,7 @@
     },
     {
       "asin": "B0FT3266TK",
-      "slug": "b0ft3266tk",
+      "slug": "kamisama-no-omajinai-2",
       "title_book": "神さまのおまじない",
       "title_video": "【サクッと要約】神さまのおまじない｜意味の貼り方を変える、小さなおまじない",
       "author": null,
@@ -24157,7 +24157,7 @@
     },
     {
       "asin": "B0FT351SG9",
-      "slug": "b0ft351sg9",
+      "slug": "kiseki-switch-no-oshikata",
       "title_book": "奇跡スイッチの押し方 潜在意識で夢を叶える",
       "title_video": "【サクッと要約】奇跡スイッチの押し方｜今いる場所から、人生は動かせる。",
       "author": null,
@@ -24269,7 +24269,7 @@
     },
     {
       "asin": "B0FV8V8Z2J",
-      "slug": "b0fv8v8z2j",
+      "slug": "tatakawazushite-uru-gijutsu",
       "title_book": "戦わずして売る技術",
       "title_video": "【サクッと要約】戦わずして売る技術｜住み分けの設計図で、無理に戦わず売れる",
       "author": null,
@@ -24354,7 +24354,7 @@
     },
     {
       "asin": "B0FX35T5XW",
-      "slug": "b0fx35t5xw",
+      "slug": "sekai-ichi-wakariyasui-ganbo-jitsugen",
       "title_book": "世界一わかりやすい願望実現",
       "title_video": "【サクッと要約】世界一わかりやすい願望実現｜願いは向こうからやってくる",
       "author": null,
@@ -25226,7 +25226,7 @@
     },
     {
       "asin": "B0G76V6SK2",
-      "slug": "b0g76v6sk2",
+      "slug": "kuroji-nanoni-tosan-suru-riyu",
       "title_book": "黒字なのに倒産する理由 〜社長・起業家・起業志望者のための「プチ顧問シリーズ」",
       "title_video": "【徹底解説】黒字なのに倒産する理由｜石井貴士｜利益は出てるのにお金がない——黒字倒産・資金ショートの防ぎ方",
       "author": null,
@@ -25340,7 +25340,7 @@
     },
     {
       "asin": "B0GCHZT7RB",
-      "slug": "b0gchzt7rb",
+      "slug": "kichinto-tsutawaru-setsumei",
       "title_book": "きちんと伝わる説明の「型」と「コツ」",
       "title_video": "【サクッと要約】きちんと伝わる説明の「型」と「コツ」｜阿部恵｜「で、何が言いたいの？」と言われなくなる説明の型",
       "author": null,
@@ -25424,7 +25424,7 @@
     },
     {
       "asin": "B0GGDZRHX3",
-      "slug": "b0ggdzrhx3",
+      "slug": "kinniku-ga-subete",
       "title_book": "筋肉が全て",
       "title_video": "【徹底解説】筋肉が全て｜ガブリエル・ライオン｜「もう年だから」が口ぐせのあなたへ、何歳からでも体が変わる理由",
       "author": "筋肉が全て",
@@ -25819,7 +25819,7 @@
     },
     {
       "asin": "B0GQ3CTX19",
-      "slug": "b0gq3ctx19",
+      "slug": "lanchester-strategy-fukunaga",
       "title_book": "新版ランチェスター戦略弱者逆転の法則",
       "title_video": "【サクッと要約】新版ランチェスター戦略弱者逆転の法則｜戦う場所を狭く選べば、弱者でも一番になれる",
       "author": null,
@@ -26231,7 +26231,7 @@
     },
     {
       "asin": "B0GS8X59BQ",
-      "slug": "b0gs8x59bq",
+      "slug": "nokosareta-jikan-no-tsukaikata",
       "title_book": "残された時間の使い方",
       "title_video": "【サクッと要約】残された時間の使い方｜時間泥棒の正体を知り、自分の時間を取り戻す方法",
       "author": null,
@@ -26430,7 +26430,7 @@
     },
     {
       "asin": "B0GTTXWW1G",
-      "slug": "b0gttxww1g",
+      "slug": "watashi-wa-kore-de-yasemashita",
       "title_book": "わたしはこれでやせました",
       "title_video": "わたしはこれでやせました",
       "author": null,
@@ -26771,7 +26771,7 @@
     },
     {
       "asin": "B0GWQNGRH9",
-      "slug": "b0gwqngrh9",
+      "slug": "jinbunchi-wa-buki-ni-naru",
       "title_book": "人文知は武器になる",
       "title_video": "【徹底解説】人文知は武器になる｜山口周×深井龍之介｜AI時代の教養",
       "author": "山口周×深井龍之介",
@@ -27113,7 +27113,7 @@
     },
     {
       "asin": "B0GXYQDC9H",
-      "slug": "b0gxyqdc9h",
+      "slug": "ikiru-kotoba-tawara",
       "title_book": "生きる言葉",
       "title_video": "【サクッと要約】生きる言葉｜「正しいのに伝わらない」が消える言葉の選び方",
       "author": null,
@@ -27283,7 +27283,7 @@
     },
     {
       "asin": "B0GYVBNLY1",
-      "slug": "b0gyvbnly1",
+      "slug": "uchu-mikata-hasekura",
       "title_book": "宇宙を味方につける リッチマネーの秘密",
       "title_video": "【サクッと要約】宇宙を味方につけるリッチマネーの秘密｜お金の不安は、思い込みだった。",
       "author": "宇宙を味方につけるリッチマネーの秘密",
@@ -27641,7 +27641,7 @@
     },
     {
       "asin": "B0H1V3FLFB",
-      "slug": "b0h1v3flfb",
+      "slug": "sekaiichi-wakariyasui-hikiyose-no-hosoku",
       "title_book": "世界一わかりやすい引き寄せの法則",
       "title_video": "【徹底解剖】世界一わかりやすい引き寄せの法則｜言葉が先、思考は後",
       "author": null,
@@ -27735,7 +27735,7 @@
     },
     {
       "asin": "B0H1W4VL25",
-      "slug": "b0h1w4vl25",
+      "slug": "darenani-nihonshi-vol18-gracia-hosokawa-tadaoki",
       "title_book": "だれなに日本史 Vol.18 ガラシャと細川忠興",
       "title_video": "【サクッと要約】だれなに日本史 Vol.18 ガラシャと細川忠興｜明智光秀の娘、戦国を生きた愛と信仰",
       "author": null,
@@ -27819,7 +27819,7 @@
     },
     {
       "asin": "B0H2QBH634",
-      "slug": "b0h2qbh634",
+      "slug": "scs-hyouka-seido",
       "title_book": "サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）とは何か",
       "title_video": "【サクッと要約】サプライチェーンのセキュリティ対策（SCS評価制度）｜経済産業省｜国が定める防衛ラインと重要セキュリティ",
       "author": "経済産業省",
@@ -27903,7 +27903,7 @@
     },
     {
       "asin": "B0H38ZQ5Y7",
-      "slug": "b0h38zq5y7",
+      "slug": "innovative-org-yamaguchi",
       "title_book": "世界で最もイノベーティブな組織の作り方",
       "title_video": "【サクッと要約】世界で最もイノベーティブな組織の作り方｜埋もれる才能を、活かす組織へ。",
       "author": null,
@@ -28070,7 +28070,7 @@
     },
     {
       "asin": "B0H3DB7FP8",
-      "slug": "b0h3db7fp8",
+      "slug": "factoring-torisetsu-koukyouchi",
       "title_book": "ファクタリングのトリセツ 借りずに資金を作る、新しい資金調達の教科書",
       "title_video": "【サクッと要約】ファクタリングのトリセツ｜大野順生｜借りずに即座に資金を作る、新しい資金調達術",
       "author": "大野順生",
@@ -28154,7 +28154,7 @@
     },
     {
       "asin": "B0H3R6S9KJ",
-      "slug": "b0h3r6s9kj",
+      "slug": "saishono-juppun-ga-subete",
       "title_book": "最初の「10分」がすべて　人生を制する冒頭戦略",
       "title_video": "最初の「10分」がすべて_人生を制する冒頭戦略",
       "author": null,
@@ -28300,7 +28300,7 @@
     },
     {
       "asin": "B0H6J9Q9J3",
-      "slug": "b0h6j9q9j3",
+      "slug": "jinsei-wa-hado-dayo",
       "title_book": "人生は波動だよ",
       "title_video": "【徹底解剖】人生は波動だよ｜斎藤一人｜波動の正体は、あなたの「機嫌」だった",
       "author": null,
@@ -28410,7 +28410,7 @@
     },
     {
       "asin": "B0IMAKOKO1",
-      "slug": "b0imakoko1",
+      "slug": "b0imakoko1-ima-koko",
       "title_book": "今ここの生き方",
       "title_video": "【徹底解説】今ここの生き方｜谷崎玄明｜「明日死ぬとしたら」で、今日が濃くなる生き方",
       "author": null,
