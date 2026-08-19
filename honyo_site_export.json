@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:01:13.093421+00:00",
+  "generated_at": "2026-08-19T21:01:07.672008+00:00",
   "schema_version": 1,
   "count": 377,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -19082,7 +19082,7 @@
       ],
       "sources": null,
       "article_ruleset": "legacy",
-      "article_has_source": false,
+      "article_has_source": true,
       "article_review_status": "pending",
       "goods": [],
       "indexable": false,
@@ -22764,14 +22764,14 @@
       ],
       "sources": null,
       "article_ruleset": null,
-      "article_has_source": false,
+      "article_has_source": true,
       "article_review_status": "pending",
       "goods": [],
       "indexable": false,
       "has_raw": true,
       "raw_type": "audible",
       "updated_at": "2026-06-24T07:13:33.405439+00:00",
-      "indexable_withheld": "unverified_against_source: 原著(02_ocr/full_text.md)が無い＝照合不能（原著と照合し直すまで審査面へ出さない）"
+      "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
     {
       "asin": "B0D9H7H4H4",
@@ -23187,7 +23187,7 @@
       ],
       "sources": null,
       "article_ruleset": "legacy",
-      "article_has_source": false,
+      "article_has_source": true,
       "article_review_status": "pending",
       "goods": [],
       "indexable": false,
@@ -25553,7 +25553,7 @@
       ],
       "sources": null,
       "article_ruleset": "legacy",
-      "article_has_source": false,
+      "article_has_source": true,
       "article_review_status": "pending",
       "goods": [],
       "indexable": false,
@@ -27200,7 +27200,7 @@
       "asin": "B0G6X3BSCW",
       "slug": "sudeni-aru-wo-ronri-suru",
       "title_book": "「既にある」を論理する。",
-      "title_video": null,
+      "title_video": "【徹底解剖】「既にある」を論理する。｜阿頼耶一生｜「強く願う」をやめた瞬間、現実は動き出す",
       "author": null,
       "publisher": null,
       "genre": null,
@@ -27247,7 +27247,17 @@
           "title": "映写機のレンズを拭く"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "_uYZO_fpCNc",
+          "url": "https://youtu.be/_uYZO_fpCNc",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-08-19T00:14:47.766208+00:00"
+        }
+      ],
       "excerpt": "阿頼耶一生『「既にある」を論理する。』を書評します。二重スリット実験から生成AIの潜在空間まで、出典のある論文までさかのぼって射程を確かめ、願うほど遠ざかる仕組みと「先になる」という一手を読み直します。",
       "article_category": "自己啓発",
       "article_tags": [
@@ -28126,14 +28136,14 @@
       ],
       "sources": null,
       "article_ruleset": "2026-07-28",
-      "article_has_source": false,
+      "article_has_source": true,
       "article_review_status": "pending",
       "goods": [],
       "indexable": false,
       "has_raw": true,
       "raw_type": "audible",
       "updated_at": "2026-07-13T08:16:04.878362+00:00",
-      "indexable_withheld": "unverified_against_source: 原著(02_ocr/full_text.md)が無い＝照合不能（原著と照合し直すまで審査面へ出さない）"
+      "indexable_withheld": "not_reviewed: review=pending（査読に通るまで審査面へ出さない）"
     },
     {
       "asin": "B0GQ3P7Q44",
