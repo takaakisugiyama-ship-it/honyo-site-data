@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:03:37.036903+00:00",
+  "generated_at": "2026-08-22T21:01:10.200208+00:00",
   "schema_version": 1,
   "count": 378,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -9292,10 +9292,10 @@
       "asin": "B01M9K3TW3",
       "slug": "subconscious-self-hypnosis",
       "title_book": "潜在意識をコントロールする自己催眠術",
-      "title_video": null,
+      "title_video": "【徹底解剖】潜在意識をコントロールする自己催眠術｜林貞年｜やる気で動くな。潜在意識を、味方につけろ。",
       "author": null,
       "publisher": null,
-      "genre": null,
+      "genre": "自己啓発・人間関係・子育て",
       "amazon_url": "https://www.amazon.co.jp/dp/B078P89SLG?tag=otona_radio-22&linkCode=ll1",
       "shelf_name": "習慣と人づきあいが変わる本",
       "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22",
@@ -9331,7 +9331,26 @@
           "title": "二つの道が、同じ場所へ"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "4ee3LwoRbY4",
+          "url": "https://youtu.be/4ee3LwoRbY4",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-08-22T11:10:35.100120+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "p78ZBG4Cpng",
+          "url": "https://youtu.be/p78ZBG4Cpng",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-08-22T11:50:38.485414+00:00"
+        }
+      ],
       "excerpt": "やる気があるのに動けないのは、意志の強さの問題ではありません。『潜在意識をコントロールする自己催眠術』が示す二本の道を、公共の研究と並べて読み解きます。",
       "article_category": "自己啓発",
       "article_tags": [
@@ -9389,7 +9408,7 @@
       "indexable": true,
       "has_raw": true,
       "raw_type": "audible",
-      "updated_at": null
+      "updated_at": "2026-08-22T11:50:55.081569+00:00"
     },
     {
       "asin": "B01MCRQNBW",
@@ -27303,7 +27322,7 @@
       "asin": "B0G6X3BSCW",
       "slug": "sudeni-aru-wo-ronri-suru",
       "title_book": "「既にある」を論理する。",
-      "title_video": "【徹底解剖】「既にある」を論理する。｜阿頼耶一生｜「強く願う」をやめた瞬間、現実は動き出す",
+      "title_video": "【徹底解剖】「既にある」を論理する。｜阿頼耶一生｜振り返るまで、背後の景色は存在していない",
       "author": null,
       "publisher": null,
       "genre": "宗教・スピリチュアル",
