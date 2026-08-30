@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T21:01:06.354860+00:00",
+  "generated_at": "2026-08-30T21:01:06.298674+00:00",
   "schema_version": 1,
-  "count": 378,
+  "count": 389,
   "affiliate_amazon_tag": "otona_radio-22",
   "notes": "summary_md=description.md散文(Web掲載可)。生OCR全文は非出力(著作権)。publisher/ISBN13/読了時間はパイプラインに無し。cover_scan=/covers/<asin>.jpg(ルート相対・源=assets/covers=サムネと同一クリーン書影・honyouyaku-webが/covers/でCDN配信)。契約=docs/web_data_handoff.md。",
   "books": [
@@ -2153,6 +2153,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T13:17:22.815882+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "aBVB1voS7Zg",
+          "url": "https://youtu.be/aBVB1voS7Zg",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2025-11-22T09:00:01Z"
         }
       ],
       "excerpt": "『道をひらく』は、あなたに何かを足す本ではなく、持ち込んだ思い込みを引く本です。全部が自分次第・曲げないのが筋・苦労と回数の数え方・当たり続けた安心。4つを引いたあと、決めきれない一件を六割の見通しで今日決めるところまで案内します。",
@@ -2246,6 +2255,15 @@
           "privacy": "deleted",
           "publish_at": "2026-07-08T04:00:00Z",
           "uploaded_at": "2026-07-06T07:16:20.945332+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "8ataCx801KM",
+          "url": "https://youtu.be/8ataCx801KM",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-07-09T02:27:05Z"
         }
       ],
       "excerpt": "1分の道間違いに常軌を逸して怒るのはなぜか。『自分に気づく心理学』は、隠した甘えの欲求が相手との距離で形を変えると説きます。遠い人、近い人、逃げられない人、そして自分。怒りの宛先を距離の順にたどります。",
@@ -5890,6 +5908,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-22T07:41:14.753275+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "E-i9Bq8YVYo",
+          "url": "https://youtu.be/E-i9Bq8YVYo",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-07-08T10:44:43Z"
         }
       ],
       "excerpt": "平野暁臣の『「イベント実務」がよくわかる本』を書評。基本構想から警備・運営まで、仮設の現場を動かす「プロデュース機能」の本質を読み解きます。",
@@ -6260,6 +6287,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T13:30:57.575500+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "9VdFd2f1WE4",
+          "url": "https://youtu.be/9VdFd2f1WE4",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-02-04T09:00:13Z"
         }
       ],
       "excerpt": "『ビジョナリー・カンパニー 時代を超える生存の原則』を書評。取り上げられた企業の多くがその後つまずいた事実を踏まえてなお、この本の何が三十年生き残ったのかを見極めます。",
@@ -7080,6 +7116,15 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-07-07T08:13:16.641319+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "LtKJ7FeUWTw",
+          "url": "https://youtu.be/LtKJ7FeUWTw",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-07-07T12:42:23Z"
         }
       ],
       "excerpt": null,
@@ -8892,6 +8937,15 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-07-07T08:14:13.359818+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "-5goj2Ae2SQ",
+          "url": "https://youtu.be/-5goj2Ae2SQ",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-07-08T08:19:13Z"
         }
       ],
       "excerpt": null,
@@ -9134,6 +9188,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-19T13:28:42.074870+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "ywgzdRifWb0",
+          "url": "https://youtu.be/ywgzdRifWb0",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-02-02T09:01:18Z"
         }
       ],
       "excerpt": "中島聡が執筆した『なぜ、あなたの仕事は終わらないのか』を徹底解剖。締め切り直前に焦るラストスパートから脱却し、最初の2割の時間で80%の成果を出すロケットスタート時間術の構造と実践法を科学的視点で詳しく解説します。",
@@ -13122,6 +13185,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-07-04T12:16:27.314493+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "XfjCNtGNrnw",
+          "url": "https://youtu.be/XfjCNtGNrnw",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-07-05T02:00:16Z"
         }
       ],
       "excerpt": "椢原浩一『会社にお金を残す経営の話』を、経営者が手に取る紙という一点から読み直します。決算書を降ろし、限界利益の表を採り、比率を黒字の日付へ翻訳する。三つの札で一枚ずつ裁いた書評です。",
@@ -14056,6 +14128,51 @@
       "raw_type": "ocr",
       "updated_at": "2026-07-24T07:22:06.797193+00:00",
       "indexable_withheld": "substance_floor: 具体数値1<6, 検証できる主張0<3"
+    },
+    {
+      "asin": "B07YTR5JVH",
+      "slug": "b07ytr5jvh",
+      "title_book": "幸せになる勇気――自己啓発の源流「アドラー」の教えII",
+      "title_video": "幸せになる勇気 自己啓発の源流「アドラー」の教えIIーー岸見 一郎",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B07YTR5JVH?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "習慣と人づきあいが変わる本",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": null,
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "PzWH-p-3vmU",
+          "url": "https://youtu.be/PzWH-p-3vmU",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-02-03T21:00:29Z"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": false,
+      "article_review_status": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "audible",
+      "updated_at": null
     },
     {
       "asin": "B08147GCLS",
@@ -15570,6 +15687,15 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-07-07T08:15:09.169440+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "LtI7eRwXOmc",
+          "url": "https://youtu.be/LtI7eRwXOmc",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-07-07T13:49:58Z"
         }
       ],
       "excerpt": null,
@@ -15615,6 +15741,15 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-07-07T08:16:04.382981+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "QvxVzsJbcu4",
+          "url": "https://youtu.be/QvxVzsJbcu4",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-07-09T01:39:49Z"
         }
       ],
       "excerpt": null,
@@ -15631,6 +15766,51 @@
       "indexable": false,
       "has_raw": true,
       "raw_type": "audible",
+      "updated_at": null
+    },
+    {
+      "asin": "B08GX7XMLZ",
+      "slug": "b08gx7xmlz",
+      "title_book": "BRAIN DRIVEN （ブレインドリブン） パフォーマンスが高まる脳の状態と",
+      "title_video": "BRAIN DRIVEN （ブレインドリブン） パフォーマンスが高まる脳の状態とは ――青砥瑞人",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B08GX7XMLZ?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "本のまとめ棚",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": null,
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "Qk7uWl7OawI",
+          "url": "https://youtu.be/Qk7uWl7OawI",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2025-12-30T03:00:35Z"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -17032,6 +17212,51 @@
       "updated_at": null
     },
     {
+      "asin": "B08XLKSMZJ",
+      "slug": "b08xlksmzj",
+      "title_book": "ロジカル・プレゼンテーション――自分の考えを効果的に伝える戦略コンサルタントの「提案の技術」",
+      "title_video": "ロジカル・プレゼンテーション ― 自分の考えを効果的に伝える戦略コンサルタントの「提案の技術」 ――高田貴久",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B08XLKSMZJ?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "会社を回す人の本",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/37JC09694DI5Y?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": null,
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "W67XVv7u0I0",
+          "url": "https://youtu.be/W67XVv7u0I0",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-01-25T21:00:34Z"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "audible",
+      "updated_at": null
+    },
+    {
       "asin": "B08Z3TPVZG",
       "slug": "trustworthy-online-controlled-experiments",
       "title_book": "A Bテスト実践ガイド 真のデータドリブンへ至る信用できる実験とは (アスキード",
@@ -17188,6 +17413,15 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-07-07T08:17:01.613575+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "dSo64nUoPYY",
+          "url": "https://youtu.be/dSo64nUoPYY",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-07-09T01:43:14Z"
         }
       ],
       "excerpt": null,
@@ -18167,6 +18401,15 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-07-21T06:48:37.354065+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "A0-wy15NmzM",
+          "url": "https://youtu.be/A0-wy15NmzM",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-01-11T09:00:26Z"
         }
       ],
       "excerpt": "大木ゆきの著『大成功してる私が教えてくれた 人生が大逆転する宇宙の法則』が説く波動×自己受容で人生を変える7つの道具を深掘り解説します。",
@@ -18316,6 +18559,51 @@
       "has_raw": false,
       "raw_type": null,
       "updated_at": "2026-06-25T07:19:09.498495+00:00"
+    },
+    {
+      "asin": "B09G2B1BXM",
+      "slug": "b09g2b1bxm",
+      "title_book": "秒で伝わるパワポ術　仕事でもＳＮＳでも〈いいね〉がもらえるスライド作成のコツ (",
+      "title_video": "秒で伝わるパワポ術 仕事でもSNSでも〈いいね〉がもらえるスライド作成のコツ ――豊間根 青地",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B09G2B1BXM?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "本のまとめ棚",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": null,
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "nbL7DM0lp0U",
+          "url": "https://youtu.be/nbL7DM0lp0U",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-02-10T09:01:12Z"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": false,
+      "raw_type": null,
+      "updated_at": null
     },
     {
       "asin": "B09NKKXF27",
@@ -18810,6 +19098,60 @@
       "indexable_withheld": "substance_floor: 具体数値0<6, 検証できる主張0<3"
     },
     {
+      "asin": "B09S332GY4",
+      "slug": "b09s332gy4",
+      "title_book": "バナナの魅力を100文字で伝えてください 誰でも身につく36の伝わる法則",
+      "title_video": "バナナの魅力を100文字で伝えてください 誰でも身につく36の伝わる法則 ――柿内 尚文",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B09S332GY4?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "仕事の頭の使い方が変わる本",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/2IVBJYILRV51O?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": null,
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "ULly2ITSKeg",
+          "url": "https://youtu.be/ULly2ITSKeg",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-03-05T14:15:04Z"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "GLT_UBEwN7E",
+          "url": "https://youtu.be/GLT_UBEwN7E",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-01-19T21:00:30Z"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "audible",
+      "updated_at": null
+    },
+    {
       "asin": "B09ST7977S",
       "slug": "b09st7977s",
       "title_book": "目的ドリブンの思考法",
@@ -19199,6 +19541,15 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-07-10T08:08:55.101961+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "QJ0M7ViIQvc",
+          "url": "https://youtu.be/QJ0M7ViIQvc",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-07-08T11:11:36Z"
         }
       ],
       "excerpt": "橘玲著『働き方2.0vs4.0』を徹底書評。終身雇用と年功序列の限界を解剖し、ジョブ型やギグエコノミー時代の個人の生存戦略を明かす。",
@@ -19910,6 +20261,15 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-07-07T08:17:59.560992+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "smYxyraTydE",
+          "url": "https://youtu.be/smYxyraTydE",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-07-08T08:34:13Z"
         }
       ],
       "excerpt": null,
@@ -20915,6 +21275,24 @@
           "privacy": "public",
           "publish_at": null,
           "uploaded_at": "2026-06-23T10:19:32.576172+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "YQZBxl2qZkM",
+          "url": "https://youtu.be/YQZBxl2qZkM",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-07-08T11:15:31Z"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "oq9vOCVOoIs",
+          "url": "https://youtu.be/oq9vOCVOoIs",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-01-03T04:00:57Z"
         }
       ],
       "excerpt": "HOW（手法）から入るから樹海で迷う。コトラーの価値定義からJTBD、Amazonの逆算思考まで、マーケティングの知識を現場の行動に変えるための強固な「順序」を徹底解説します。",
@@ -22546,6 +22924,51 @@
       "updated_at": "2026-06-17T05:06:31.521313+00:00"
     },
     {
+      "asin": "B0D1X4GG46",
+      "slug": "b0d1x4gg46",
+      "title_book": "リーダー１年目のマネジメント大全 (三笠書房 電子書籍)",
+      "title_video": "リーダー1年目のマネジメント大全――木部 智之",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B0D1X4GG46?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "本のまとめ棚",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": null,
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "w1y-lgGEOAg",
+          "url": "https://youtu.be/w1y-lgGEOAg",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2025-12-29T09:01:34Z"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": null
+    },
+    {
       "asin": "B0D3TZXG2N",
       "slug": "b0d3tzxg2n",
       "title_book": "好きな場所、時間、スタイルで月8万円稼げる！ちいさな起業のすすめ",
@@ -22836,6 +23259,15 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-07-07T08:19:36.948571+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "m-FM7mcsDSI",
+          "url": "https://youtu.be/m-FM7mcsDSI",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-07-09T02:40:15Z"
         }
       ],
       "excerpt": null,
@@ -24961,6 +25393,51 @@
       "updated_at": null
     },
     {
+      "asin": "B0DVZ4JXZ9",
+      "slug": "b0dvz4jxz9",
+      "title_book": "ビジネスデザインのための行動経済学ノート バイアスとナッジでユーザーの心理と行動をデザインする",
+      "title_video": "ビジネスデザインのための行動経済学ノート バイアスとナッジでユーザーの心理と行動をデザインする ――中島 亮太郎",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B0DVZ4JXZ9?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "会社を回す人の本",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/37JC09694DI5Y?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": null,
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "Db_JeJWZax0",
+          "url": "https://youtu.be/Db_JeJWZax0",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-01-02T07:00:23Z"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "audible",
+      "updated_at": null
+    },
+    {
       "asin": "B0DXDLVDGH",
       "slug": "b0dxdlvdgh",
       "title_book": "B0DXDLVDGH",
@@ -25918,6 +26395,51 @@
       "updated_at": "2026-06-23T07:13:25.651983+00:00"
     },
     {
+      "asin": "B0FG5KGQ9N",
+      "slug": "b0fg5kgq9n",
+      "title_book": "脳を鍛えるには運動しかない！　最新科学でわかった脳細胞の増やし方",
+      "title_video": "脳を鍛えるには運動しかない! 最新科学でわかった脳細胞の増やし方 ――ジョン J レイティ",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B0FG5KGQ9N?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "体と眠りを整える本",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/RO9UXPEOCPL4?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": null,
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "vg_rWjCfjpA",
+          "url": "https://youtu.be/vg_rWjCfjpA",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2025-12-29T07:00:50Z"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "audible",
+      "updated_at": null
+    },
+    {
       "asin": "B0FNC66Y21",
       "slug": "b0fnc66y21",
       "title_book": "改訂版勝つ投資負けない投資",
@@ -25944,6 +26466,51 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-07-07T08:21:24.882385+00:00"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "audible",
+      "updated_at": null
+    },
+    {
+      "asin": "B0FNWKC1MW",
+      "slug": "b0fnwkc1mw",
+      "title_book": "改訂新版 リピート率90％超！ あの小さなお店が儲かり続ける理由",
+      "title_video": "改訂新版 リピート率90％超！ あの小さなお店が儲かり続ける理由 ――中谷嘉孝",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B0FNWKC1MW?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "会社を回す人の本",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/37JC09694DI5Y?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": null,
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "mip5jtkk-1M",
+          "url": "https://youtu.be/mip5jtkk-1M",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-04-28T09:01:05Z"
         }
       ],
       "excerpt": null,
@@ -26176,6 +26743,15 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-07-07T08:10:29.978004+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "aE6jtSd8qtg",
+          "url": "https://youtu.be/aE6jtSd8qtg",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-07-08T11:19:32Z"
         }
       ],
       "excerpt": "おまじないは非科学的な気休めなのか？心理学や神経科学の知見をもとに、さとうみつろう著『神さまのおまじない 短編集2』を徹底解剖。不安を鎮め、行動の初速を生む「儀式」の本当の力を解説します。",
@@ -28402,6 +28978,51 @@
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
     {
+      "asin": "B0GQ8G8ZC3",
+      "slug": "b0gq8g8zc3",
+      "title_book": "新版ランチェスター戦略 弱者逆転の法則",
+      "title_video": "【徹底解説】新版ランチェスター戦略 弱者逆転の法則｜福永雅文｜一点に絞れば、弱者も勝てる",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B0GQ8G8ZC3?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "世の中の読み方が変わる本",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/12ACG8I7D5ZFH?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": null,
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "bkdbAcIOOBg",
+          "url": "https://youtu.be/bkdbAcIOOBg",
+          "privacy": "unlisted",
+          "publish_at": null,
+          "uploaded_at": "2026-07-10T01:03:10Z"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": false,
+      "article_review_status": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "audible",
+      "updated_at": null
+    },
+    {
       "asin": "B0GQJGQW8B",
       "slug": "b0gqjgqw8b",
       "title_book": "疲労専門医が伝えたい_お疲れ日本人の本当の休み方",
@@ -29044,7 +29665,17 @@
       "cover_scan": null,
       "summary_md": null,
       "chapters": [],
-      "videos": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "c2-x69APmxI",
+          "url": "https://youtu.be/c2-x69APmxI",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-05-30T04:58:51Z"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
@@ -29997,6 +30628,51 @@
       "updated_at": null
     },
     {
+      "asin": "B0GZ3CSGL3",
+      "slug": "b0gz3csgl3",
+      "title_book": "眠れなくなるほど面白い 図解 死の話",
+      "title_video": "【要約】『眠れなくなるほど面白い 図解 肝臓の話』｜お酒を愛するビジネスパーソンのための、常識を覆す新時代の健康戦略",
+      "author": null,
+      "publisher": null,
+      "genre": null,
+      "amazon_url": "https://www.amazon.co.jp/dp/B0GZ3CSGL3?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "世の中の読み方が変わる本",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/12ACG8I7D5ZFH?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": null,
+      "rakuten_url": null,
+      "cover_scan": null,
+      "summary_md": null,
+      "chapters": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "w7JA77zkQ8c",
+          "url": "https://youtu.be/w7JA77zkQ8c",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2025-07-01T13:17:54Z"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "audible",
+      "updated_at": null
+    },
+    {
       "asin": "B0GZWQBVM5",
       "slug": "b0gzwqbvm5",
       "title_book": "ちゃんと生きてきたのに_なぜかしんどい",
@@ -30074,7 +30750,17 @@
           "title": "今夜、布団の中でやる、ひとつ"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "",
+          "video_id": "b03WTrw9NrQ",
+          "url": "https://youtu.be/b03WTrw9NrQ",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-07-09T10:00:28Z"
+        }
+      ],
       "excerpt": "『中村天風 折れないこころをつくる言葉』（池田光解説）から、プレッシャーや反芻思考に負けない身体と意識の整え方を解説。姿勢と呼吸、言葉の力で折れない心を構築する書評記事。",
       "article_category": "教養・サイエンス",
       "article_tags": [
