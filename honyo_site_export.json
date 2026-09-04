@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:09:31.659256+00:00",
+  "generated_at": "2026-09-04T21:01:06.380693+00:00",
   "schema_version": 1,
   "count": 389,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -23154,7 +23154,7 @@
       "article": null,
       "sources": null,
       "article_ruleset": null,
-      "article_has_source": false,
+      "article_has_source": true,
       "article_review_status": null,
       "goods": [],
       "indexable": false,
@@ -28759,14 +28759,14 @@
       ],
       "sources": null,
       "article_ruleset": null,
-      "article_has_source": true,
+      "article_has_source": false,
       "article_review_status": "pending",
       "goods": [],
       "indexable": false,
       "has_raw": true,
       "raw_type": "audible",
       "updated_at": "2026-06-28T02:02:09.040502+00:00",
-      "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
+      "indexable_withheld": "unverified_against_source: 原著(02_ocr/full_text.md)が無い＝照合不能（原著と照合し直すまで審査面へ出さない）"
     },
     {
       "asin": "B0GPCTKVDN",
