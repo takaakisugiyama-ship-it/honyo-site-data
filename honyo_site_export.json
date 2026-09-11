@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:00:32.591683+00:00",
+  "generated_at": "2026-09-11T21:02:07.698873+00:00",
   "schema_version": 1,
   "count": 389,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -139,8 +139,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:32.944307+00:00",
       "indexable_withheld": "substance_floor: 具体数値4<6"
     },
@@ -289,8 +289,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:11:51.283708+00:00",
       "indexable_withheld": "substance_floor: 具体数値1<6, 検証できる主張1<3"
     },
@@ -394,8 +394,8 @@
       "article_reviewed_at": "2026-08-14",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-17T10:44:34.570203+00:00"
     },
     {
@@ -616,8 +616,8 @@
       "article_reviewed_at": null,
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:55.047432+00:00",
       "indexable_withheld": "substance_floor: 具体数値4<6, 検証できる主張2<3"
     },
@@ -929,8 +929,8 @@
         }
       ],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:44.974990+00:00",
       "indexable_withheld": "substance_floor: 具体数値0<6, 検証できる主張0<3"
     },
@@ -1064,8 +1064,8 @@
       "article_reviewed_at": "2026-08-10",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:11:57.763337+00:00"
     },
     {
@@ -1219,8 +1219,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:11:49.010388+00:00",
       "indexable_withheld": "substance_floor: 具体数値3<6"
     },
@@ -1326,8 +1326,8 @@
       "article_reviewed_at": "2026-08-15",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:11:53.279577+00:00"
     },
     {
@@ -1476,8 +1476,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-17T23:19:11.541644+00:00",
       "indexable_withheld": "substance_floor: 具体数値4<6"
     },
@@ -1624,8 +1624,8 @@
       "article_reviewed_at": "2026-08-18",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:11:55.536930+00:00"
     },
     {
@@ -1771,8 +1771,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:11:59.763428+00:00",
       "indexable_withheld": "not_reviewed: review=pending（査読に通るまで審査面へ出さない）"
     },
@@ -1924,8 +1924,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:08.180410+00:00",
       "indexable_withheld": "substance_floor: 具体数値5<6"
     },
@@ -2073,8 +2073,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:49.025449+00:00",
       "indexable_withheld": "not_reviewed: review=pending（査読に通るまで審査面へ出さない）"
     },
@@ -2242,8 +2242,8 @@
       "article_reviewed_at": "2026-08-18",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:02.317165+00:00",
       "indexable_withheld": "substance_floor: 検証できる主張0<3"
     },
@@ -3936,8 +3936,8 @@
       "article_reviewed_at": null,
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": null,
       "indexable_withheld": "substance_floor: 具体数値4<6, 批評0<1"
     },
@@ -4124,8 +4124,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:19.021892+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -5563,8 +5563,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:59.594243+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -5916,8 +5916,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-24T07:13:21.232066+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -6142,8 +6142,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T02:02:02.765639+00:00"
     },
     {
@@ -6437,8 +6437,8 @@
       "article_reviewed_at": "2026-08-10",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:15.802289+00:00"
     },
     {
@@ -6526,8 +6526,8 @@
       "article_reviewed_at": null,
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-07-07T08:04:15.422376+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='2026-08-11'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -6821,8 +6821,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:40.585951+00:00",
       "indexable_withheld": "substance_floor: 具体数値4<6, 検証できる主張2<3"
     },
@@ -6911,8 +6911,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-07-28",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -7081,8 +7081,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:23.180687+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -7235,7 +7235,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -7984,8 +7984,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:29.900116+00:00",
       "indexable_withheld": "not_reviewed: review=pending（査読に通るまで審査面へ出さない）"
     },
@@ -8173,8 +8173,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-07-07T08:04:10.121323+00:00",
       "indexable_withheld": "substance_floor: 具体数値4<6"
     },
@@ -8305,8 +8305,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-24T07:13:23.491875+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -8457,8 +8457,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:04.779573+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -8794,8 +8794,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:35.813851+00:00",
       "indexable_withheld": "not_reviewed: review=pending（査読に通るまで審査面へ出さない）"
     },
@@ -8883,8 +8883,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T02:02:00.775981+00:00",
       "indexable_withheld": "not_reviewed: review=pending（査読に通るまで審査面へ出さない）"
     },
@@ -9081,7 +9081,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -9211,8 +9211,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:33.076790+00:00",
       "indexable_withheld": "substance_floor: 具体数値3<6, 検証できる主張1<3"
     },
@@ -9376,8 +9376,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:06.676584+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -9645,7 +9645,7 @@
       "goods": [],
       "indexable": true,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-08-22T11:50:55.081569+00:00"
     },
     {
@@ -9799,8 +9799,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:37.544789+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -9889,8 +9889,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:42.105463+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -10121,8 +10121,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:08.943869+00:00",
       "indexable_withheld": "substance_floor: 具体数値5<6"
     },
@@ -10309,8 +10309,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:10.789564+00:00",
       "indexable_withheld": "substance_floor: 検証できる主張2<3"
     },
@@ -10641,8 +10641,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:55.690877+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -10730,8 +10730,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:49.257808+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -10934,8 +10934,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:31.485291+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -11024,8 +11024,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:14:01.891887+00:00",
       "indexable_withheld": "substance_floor: 具体数値0<6, 検証できる主張0<3"
     },
@@ -11114,8 +11114,8 @@
       "article_reviewed_at": "2026-08-10",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T02:02:04.699582+00:00",
       "indexable_withheld": "substance_floor: 批評0<1"
     },
@@ -11217,8 +11217,8 @@
       "article_reviewed_at": "2026-08-09",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:18.107718+00:00"
     },
     {
@@ -11414,8 +11414,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-07-28",
       "indexable_withheld": "substance_floor: 具体数値0<6, 検証できる主張0<3"
     },
@@ -11594,8 +11594,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:18:49.151901+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -11684,8 +11684,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:18:47.315183+00:00",
       "indexable_withheld": "not_reviewed: review=pending（査読に通るまで審査面へ出さない）"
     },
@@ -11783,8 +11783,8 @@
       "article_reviewed_at": "2026-08-10",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-07-04T07:03:06.183087+00:00",
       "indexable_withheld": "substance_floor: 具体数値4<6, 検証できる主張2<3"
     },
@@ -11918,8 +11918,8 @@
       "article_reviewed_at": "2026-08-10",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:13.301525+00:00",
       "indexable_withheld": "substance_floor: 具体数値4<6, 検証できる主張2<3"
     },
@@ -12336,8 +12336,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:37.392459+00:00",
       "indexable_withheld": "not_reviewed: review=pending（査読に通るまで審査面へ出さない）"
     },
@@ -12590,8 +12590,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:35.987982+00:00",
       "indexable_withheld": "substance_floor: 具体数値2<6, 検証できる主張1<3"
     },
@@ -12689,8 +12689,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-07-28",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -12779,8 +12779,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:18:53.812499+00:00",
       "indexable_withheld": "substance_floor: 具体数値5<6"
     },
@@ -12869,8 +12869,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:18:57.511549+00:00",
       "indexable_withheld": "substance_floor: 具体数値3<6, 検証できる主張2<3, 批評0<1"
     },
@@ -13073,8 +13073,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:39.825602+00:00",
       "indexable_withheld": "substance_floor: 具体数値1<6, 検証できる主張0<3"
     },
@@ -13199,8 +13199,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:18:51.331271+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -13289,8 +13289,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:18:45.450976+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -13420,8 +13420,8 @@
       "article_reviewed_at": "2026-08-15",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-08-15"
     },
     {
@@ -13514,8 +13514,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:06:18.870916+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -13944,8 +13944,8 @@
         }
       ],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:21.027235+00:00"
     },
     {
@@ -14495,8 +14495,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:57.340988+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -14799,8 +14799,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:18:55.622238+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -15131,8 +15131,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:18:59.381633+00:00",
       "indexable_withheld": "substance_floor: 具体数値4<6, 検証できる主張2<3"
     },
@@ -15323,8 +15323,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:30.615136+00:00"
     },
     {
@@ -15592,8 +15592,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:19:03.719542+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -15860,8 +15860,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-20T11:45:33.166963+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -15917,7 +15917,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -15972,7 +15972,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -16303,8 +16303,8 @@
         }
       ],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-17T12:44:37.434019+00:00"
     },
     {
@@ -16657,8 +16657,8 @@
         }
       ],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:51.052440+00:00",
       "indexable_withheld": "not_reviewed: review=pending（査読に通るまで審査面へ出さない）"
     },
@@ -16869,8 +16869,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:19:01.576882+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -17021,8 +17021,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:33.948715+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -17139,7 +17139,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -17289,8 +17289,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-07-07T08:04:17.772785+00:00",
       "indexable_withheld": "substance_floor: 批評0<1"
     },
@@ -17389,8 +17389,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-17T23:19:10.372785+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -17473,7 +17473,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -17567,8 +17567,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:19:07.745543+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -17660,7 +17660,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -17952,8 +17952,8 @@
         }
       ],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:46.350624+00:00"
     },
     {
@@ -18211,8 +18211,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:50.686611+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -18448,8 +18448,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-24T07:13:25.946315+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -18791,8 +18791,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:19:09.498495+00:00"
     },
     {
@@ -18837,8 +18837,8 @@
       "article_reviewed_at": null,
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -18992,8 +18992,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:34.493909+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -19260,7 +19260,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -19391,7 +19391,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -19614,8 +19614,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-24T07:13:30.048705+00:00",
       "indexable_withheld": "substance_floor: 具体数値2<6, 検証できる主張1<3"
     },
@@ -19703,8 +19703,8 @@
       "article_reviewed_at": "2026-08-10",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:10.447067+00:00"
     },
     {
@@ -19857,7 +19857,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-11T14:23:16.587898+00:00",
       "indexable_withheld": "substance_floor: 具体数値4<6"
     },
@@ -19978,8 +19978,8 @@
       "article_reviewed_at": "2026-08-17",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-24T07:13:15.031533+00:00"
     },
     {
@@ -20326,8 +20326,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:18:38.719298+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -20452,8 +20452,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:17.046308+00:00",
       "indexable_withheld": "substance_floor: 具体数値0<6, 検証できる主張0<3"
     },
@@ -20545,7 +20545,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -20786,8 +20786,8 @@
       "article_reviewed_at": "2026-08-15",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:18:43.235885+00:00"
     },
     {
@@ -20876,7 +20876,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-11T14:23:06.031435+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='2026-08-11'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -21193,8 +21193,8 @@
         }
       ],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:37.182373+00:00"
     },
     {
@@ -21291,8 +21291,8 @@
       "article_reviewed_at": "2026-08-10",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:30.612330+00:00"
     },
     {
@@ -21478,8 +21478,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:34.852346+00:00",
       "indexable_withheld": "substance_floor: 具体数値2<6, 検証できる主張1<3"
     },
@@ -21619,8 +21619,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-24T07:13:12.838029+00:00",
       "indexable_withheld": "substance_floor: 具体数値5<6"
     },
@@ -21710,7 +21710,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-28",
       "indexable_withheld": "substance_floor: 具体数値1<6, 検証できる主張1<3"
     },
@@ -21927,8 +21927,8 @@
       "article_reviewed_at": "2026-08-10",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-24T07:13:31.723941+00:00"
     },
     {
@@ -22114,8 +22114,8 @@
       "article_reviewed_at": "2026-08-17",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:44.526823+00:00"
     },
     {
@@ -22275,8 +22275,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-07-28",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -22374,8 +22374,8 @@
       "article_reviewed_at": "2026-08-10",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-07-07T08:04:13.899297+00:00"
     },
     {
@@ -22829,8 +22829,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:13.068918+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -23053,8 +23053,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:41.949451+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -23204,8 +23204,8 @@
       "article_reviewed_at": "2026-08-18",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-17T05:06:31.521313+00:00"
     },
     {
@@ -23411,8 +23411,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-25T07:19:05.646091+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -23469,7 +23469,7 @@
           "variant": "v24_radio",
           "video_id": "wtTKJ24Ay0E",
           "url": "https://youtu.be/wtTKJ24Ay0E",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-09-11T08:00:00Z",
           "uploaded_at": "2026-09-10T12:01:25.371016+00:00"
         }
@@ -23539,7 +23539,7 @@
       "goods": [],
       "indexable": true,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-09-10T12:03:03.849414+00:00"
     },
     {
@@ -23666,7 +23666,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -23755,7 +23755,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-06-24T07:13:33.405439+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -24128,8 +24128,8 @@
         }
       ],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-09-08T22:29:05.655222+00:00"
     },
     {
@@ -24218,7 +24218,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-06-24T07:13:35.290815+00:00",
       "indexable_withheld": "substance_floor: 具体数値0<6, 検証できる主張0<3"
     },
@@ -24637,8 +24637,8 @@
         }
       ],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:28.145127+00:00"
     },
     {
@@ -24798,8 +24798,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T02:02:06.702015+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -25105,7 +25105,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-17T00:32:11.965902+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -25244,8 +25244,8 @@
       "article_reviewed_at": "2026-08-18",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:02.187065+00:00"
     },
     {
@@ -25567,8 +25567,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-17T12:44:36.103959+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -25657,8 +25657,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-30T11:54:25.008832+00:00",
       "indexable_withheld": "substance_floor: 具体数値2<6, 検証できる主張1<3"
     },
@@ -25789,8 +25789,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:46.894974+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -25873,7 +25873,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -26319,8 +26319,8 @@
         }
       ],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:14.929713+00:00",
       "indexable_withheld": "substance_floor: 具体数値3<6, 検証できる主張1<3"
     },
@@ -26479,8 +26479,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:27.793673+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -26563,7 +26563,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -26652,7 +26652,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:49.234923+00:00",
       "indexable_withheld": "substance_floor: 具体数値4<6, 検証できる主張2<3"
     },
@@ -26689,7 +26689,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -26839,8 +26839,8 @@
       "article_reviewed_at": "2026-08-18",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:25.651983+00:00"
     },
     {
@@ -26886,7 +26886,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -26932,7 +26932,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -26978,7 +26978,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -27157,7 +27157,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-11T14:23:02.743134+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -27265,7 +27265,7 @@
       "goods": [],
       "indexable": true,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-06-24T07:13:11.266333+00:00"
     },
     {
@@ -27561,7 +27561,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-11T14:23:11.479822+00:00",
       "indexable_withheld": "substance_floor: 具体数値4<6, 検証できる主張2<3"
     },
@@ -27712,8 +27712,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:14:00.256112+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -27803,7 +27803,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-11T14:23:07.341291+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -27954,8 +27954,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:40.867226+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -28002,7 +28002,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -28048,7 +28048,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -28094,7 +28094,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -28140,7 +28140,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -28186,7 +28186,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -28232,7 +28232,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -28370,8 +28370,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:52.890888+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -28645,8 +28645,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:43.381542+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -28736,7 +28736,7 @@
       "goods": [],
       "indexable": true,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-08T08:34:04.535723+00:00"
     },
     {
@@ -29119,8 +29119,8 @@
         }
       ],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-17T12:41:41.195845+00:00"
     },
     {
@@ -29246,7 +29246,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -29362,7 +29362,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-13T08:16:04.878362+00:00",
       "indexable_withheld": "not_reviewed: review=pending（査読に通るまで審査面へ出さない）"
     },
@@ -29450,7 +29450,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-11T14:23:08.855696+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -29543,7 +29543,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -29641,7 +29641,7 @@
       "goods": [],
       "indexable": true,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-11T14:23:01.305762+00:00"
     },
     {
@@ -29730,7 +29730,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-11T14:23:12.770524+00:00",
       "indexable_withheld": "substance_floor: 具体数値2<6, 検証できる主張1<3"
     },
@@ -29819,7 +29819,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-28",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -29909,7 +29909,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-11T14:23:10.279105+00:00",
       "indexable_withheld": "substance_floor: 具体数値2<6, 検証できる主張2<3"
     },
@@ -29946,7 +29946,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -30211,7 +30211,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -30324,7 +30324,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -30360,7 +30360,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -30396,7 +30396,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -30555,8 +30555,8 @@
       "article_reviewed_at": "2026-08-15",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:12:38.816846+00:00"
     },
     {
@@ -30602,7 +30602,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -30638,7 +30638,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -30727,7 +30727,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-31T08:11:32.189501+00:00",
       "indexable_withheld": "not_reviewed: review=changes_requested（査読に通るまで審査面へ出さない）"
     },
@@ -30764,7 +30764,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -30853,7 +30853,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-28",
       "indexable_withheld": "substance_floor: 具体数値2<6, 検証できる主張1<3"
     },
@@ -31033,7 +31033,7 @@
       "goods": [],
       "indexable": true,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T08:26:47.781404+00:00"
     },
     {
@@ -31079,7 +31079,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -31125,7 +31125,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -31171,7 +31171,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -31321,7 +31321,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-28",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -31358,7 +31358,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -31394,7 +31394,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -31582,7 +31582,7 @@
       "goods": [],
       "indexable": true,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-06-28T02:02:13.059806+00:00"
     },
     {
@@ -31670,8 +31670,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-07-28",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -31760,7 +31760,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-08-10",
       "indexable_withheld": "substance_floor: 具体数値3<6, 検証できる主張2<3"
     },
@@ -31849,7 +31849,7 @@
       "goods": [],
       "indexable": true,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-08T08:34:06.789546+00:00"
     },
     {
@@ -31937,8 +31937,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-07-28",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
     },
@@ -32018,7 +32018,7 @@
       "goods": [],
       "indexable": true,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-07-28"
     },
     {
@@ -32054,7 +32054,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -32100,7 +32100,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null
     },
     {
@@ -32361,8 +32361,8 @@
       "article_reviewed_at": "2026-07-28",
       "goods": [],
       "indexable": true,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:39.657967+00:00"
     }
   ],
