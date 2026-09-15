@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:56:17.412868+00:00",
+  "generated_at": "2026-09-15T21:01:15.629920+00:00",
   "schema_version": 1,
   "count": 390,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -30996,8 +30996,8 @@
           "variant": "v24_radio",
           "video_id": "B7l45NNh1pY",
           "url": "https://youtu.be/B7l45NNh1pY",
-          "privacy": "private",
-          "publish_at": "2026-09-15T19:00:00+09:00",
+          "privacy": "public",
+          "publish_at": null,
           "uploaded_at": "2026-09-15T04:59:58.864907+00:00"
         }
       ],
