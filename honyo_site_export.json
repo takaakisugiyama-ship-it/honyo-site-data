@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T21:01:15.629920+00:00",
+  "generated_at": "2026-09-16T21:01:22.262367+00:00",
   "schema_version": 1,
-  "count": 390,
+  "count": 391,
   "affiliate_amazon_tag": "otona_radio-22",
   "notes": "summary_md=description.md散文(Web掲載可)。生OCR全文は非出力(著作権)。publisher/ISBN13/読了時間はパイプラインに無し。cover_scan=/covers/<asin>.jpg(ルート相対・源=assets/covers=サムネと同一クリーン書影・honyouyaku-webが/covers/でCDN配信)。契約=docs/web_data_handoff.md。",
   "books": [
@@ -20204,6 +20204,98 @@
       "has_raw": true,
       "raw_type": "ocr",
       "updated_at": "2026-06-23T07:13:06.289026+00:00"
+    },
+    {
+      "asin": "B0BNZZ5J8M",
+      "slug": "b0bnzz5j8m",
+      "title_book": "手放す練習　ムダに消耗しない取捨選択",
+      "title_video": "【徹底解剖】手放す練習｜ミニマリストしぶ｜物を減らして、時間とお金を残せ",
+      "author": null,
+      "publisher": null,
+      "genre": "自己啓発・人間関係・子育て",
+      "amazon_url": "https://www.amazon.co.jp/dp/B09SYKKFFF?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "習慣と人づきあいが変わる本",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B09SYKKFFF.jpg",
+      "rakuten_url": null,
+      "cover_scan": "/covers/B0BNZZ5J8M.jpg",
+      "summary_md": "▼『手放す練習』ミニマリストしぶ 著\n▶ Amazonで見る: https://www.amazon.co.jp/dp/B09SYKKFFF?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b0bnzz5j8m\n\n『手放す練習』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n1:57 手放すと、余白が戻る理由\n9:16 何を残すかで、基準を決め直す\n15:31 捨てる前に、試すことがある\n21:52 例外を、先に決めておく\n27:51 選ぶことすら、人に任せる\n34:24 減らし方は、気質で選ぶ\n41:16 孤独は、あえて選び取る\n47:41 情報との距離、自分で引く\n\n▶ 次の一冊は「習慣と人づきあいが変わる本」から: https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
+      "chapters": [
+        {
+          "t": "0:00",
+          "title": "オープニング"
+        },
+        {
+          "t": "1:57",
+          "title": "手放すと、余白が戻る理由"
+        },
+        {
+          "t": "9:16",
+          "title": "何を残すかで、基準を決め直す"
+        },
+        {
+          "t": "15:31",
+          "title": "捨てる前に、試すことがある"
+        },
+        {
+          "t": "21:52",
+          "title": "例外を、先に決めておく"
+        },
+        {
+          "t": "27:51",
+          "title": "選ぶことすら、人に任せる"
+        },
+        {
+          "t": "34:24",
+          "title": "減らし方は、気質で選ぶ"
+        },
+        {
+          "t": "41:16",
+          "title": "孤独は、あえて選び取る"
+        },
+        {
+          "t": "47:41",
+          "title": "情報との距離、自分で引く"
+        }
+      ],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "X8P2THwHH8A",
+          "url": "https://youtu.be/X8P2THwHH8A",
+          "privacy": "private",
+          "publish_at": "2026-09-17T14:00:00Z",
+          "uploaded_at": "2026-09-16T00:26:50.354847+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "OZwFiwMDb6g",
+          "url": "https://youtu.be/OZwFiwMDb6g",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-09-16T01:56:26.555616+00:00"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "article_reviewed_at": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "audible",
+      "updated_at": "2026-09-16T07:16:11.690868+00:00"
     },
     {
       "asin": "B0BP6C31K8",
