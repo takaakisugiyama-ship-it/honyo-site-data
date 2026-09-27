@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:41:24.850734+00:00",
+  "generated_at": "2026-09-27T11:01:52.067690+00:00",
   "schema_version": 1,
   "count": 396,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -13480,10 +13480,10 @@
       "asin": "B07SJBTPP9",
       "slug": "okane-no-shinri",
       "title_book": "お金の真理",
-      "title_video": null,
+      "title_video": "【徹底解剖】お金の真理｜斎藤一人｜稼ぐことを誇る人に、お金は集まる",
       "author": null,
       "publisher": null,
-      "genre": null,
+      "genre": "ビジネス・キャリア",
       "amazon_url": "https://www.amazon.co.jp/dp/B01G1AQQFA?tag=otona_radio-22&linkCode=ll1",
       "shelf_name": "会社を回す人の本",
       "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/37JC09694DI5Y?tag=otona_radio-22",
@@ -13492,7 +13492,7 @@
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B01G1AQQFA.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B07SJBTPP9.jpg",
-      "summary_md": "▼『お金の真理』斎藤一人 著\n▶ Amazonで見る: https://www.amazon.co.jp/dp/B01G1AQQFA?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b07sjbtpp9\n\n『お金の真理』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n1:38 罪悪感を手放し器を育てる\n10:00 お金の性質と関係の結び方\n17:23 苦しい時期の意味と運の育て方\n23:17 信じる基準とお金の起源\n\n▶ 次の一冊は「会社を回す人の本」から: https://www.amazon.co.jp/shop/sugiyam/list/37JC09694DI5Y?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
+      "summary_md": "▼『お金の真理』斎藤一人 著\n▶ Amazonで見る: https://www.amazon.co.jp/dp/B01G1AQQFA?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b07sjbtpp9\n\n『お金の真理』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n1:38 罪悪感を手放し器を育てる\n11:46 お金の性質と関係の結び方\n20:06 苦しい時期の意味と運の育て方\n28:37 信じる基準とお金の起源\n\n▶ 次の一冊は「会社を回す人の本」から: https://www.amazon.co.jp/shop/sugiyam/list/37JC09694DI5Y?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
       "chapters": [
         {
           "t": "0:00",
@@ -13503,19 +13503,29 @@
           "title": "罪悪感を手放し器を育てる"
         },
         {
-          "t": "10:00",
+          "t": "11:46",
           "title": "お金の性質と関係の結び方"
         },
         {
-          "t": "17:23",
+          "t": "20:06",
           "title": "苦しい時期の意味と運の育て方"
         },
         {
-          "t": "23:17",
+          "t": "28:37",
           "title": "信じる基準とお金の起源"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "noQIEeJCNcw",
+          "url": "https://youtu.be/noQIEeJCNcw",
+          "privacy": "public",
+          "publish_at": null,
+          "uploaded_at": "2026-09-27T11:00:26.830577+00:00"
+        }
+      ],
       "excerpt": "『お金の真理』（斎藤一人）を書評。お金への罪悪感を手放し、知恵と忍耐という器を育て、財布の1割と感謝の習慣で豊かさを呼び込む考え方を、偉人の逸話と研究を交えて読み解きます。",
       "article_category": "自己啓発",
       "article_tags": [
@@ -13570,7 +13580,7 @@
       "indexable": false,
       "has_raw": false,
       "raw_type": null,
-      "updated_at": null,
+      "updated_at": "2026-09-27T11:00:35.338644+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
     {
@@ -25800,7 +25810,7 @@
       "asin": "B0DMDYMTW2",
       "slug": "kaiun-ouchi-8wari",
       "title_book": "開運はおうちが8割！　引き寄せるすごい「家」",
-      "title_video": "【徹底解剖】開運はおうちが8割！｜ケルマデック｜お金は通すもの、使い道を先に決めろ",
+      "title_video": "【徹底解剖】開運はおうちが8割！｜ケルマデック／ひすいこたろう｜家は、あなた自身。玄関から整えろ",
       "author": null,
       "publisher": null,
       "genre": "自己啓発・人間関係・子育て",
@@ -25812,7 +25822,7 @@
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/4048977083.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B0DMDYMTW2.jpg",
-      "summary_md": "▼『開運はおうちが8割！』ケルマデック 著\n▶ Amazonで見る: https://www.amazon.co.jp/dp/4048977083?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b0dmdymtw2\n\n『開運はおうちが8割！』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n2:01 家はあなた自身、入り口は玄関\n13:36 表札と台所、手が動く二箇所\n21:58 聖域とお金、静かな場所と巡る流れ\n29:54 空間定位、玄関から地球までの一本の線\n\n▶ 次の一冊は「習慣と人づきあいが変わる本」から: https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
+      "summary_md": "▼『開運はおうちが8割！』ケルマデック／ひすいこたろう 著\n▶ Amazonで見る: https://www.amazon.co.jp/dp/4048977083?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b0dmdymtw2\n\n『開運はおうちが8割！』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n2:01 家はあなた自身、入り口は玄関\n13:36 表札と台所、手が動く二箇所\n21:58 聖域とお金、静かな場所と巡る流れ\n29:54 空間定位、玄関から地球までの一本の線\n\n▶ 次の一冊は「習慣と人づきあいが変わる本」から: https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
       "chapters": [
         {
           "t": "0:00",
@@ -25904,7 +25914,7 @@
       "indexable": false,
       "has_raw": true,
       "raw_type": "audible",
-      "updated_at": null,
+      "updated_at": "2026-09-27T09:08:19.809459+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
     {
@@ -32903,10 +32913,10 @@
       "asin": "B0HFZPK3XQ",
       "slug": "let-them-theory",
       "title_book": "The Let Them Theory（レット・ゼム・セオリー　放っておこう）",
-      "title_video": null,
+      "title_video": "The Let Them Theory (Japanese Edition)",
       "author": null,
       "publisher": null,
-      "genre": null,
+      "genre": "自己啓発・人間関係・子育て",
       "amazon_url": "https://www.amazon.co.jp/dp/B0HFHW9TYQ?tag=otona_radio-22&linkCode=ll1",
       "shelf_name": "習慣と人づきあいが変わる本",
       "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22",
