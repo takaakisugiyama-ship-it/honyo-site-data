@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:01:11.390526+00:00",
+  "generated_at": "2026-09-28T21:01:11.068732+00:00",
   "schema_version": 1,
   "count": 396,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -12099,7 +12099,7 @@
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/4763135821.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B07GH7MJPT.jpg",
-      "summary_md": "▼『借金2000万円を抱えた僕にドSの宇宙さんが教えてくれた超うまくいく口ぐせ』小池浩 著\n▶ Amazonで見る: https://www.amazon.co.jp/dp/4763135821?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b07gh7mjpt\n\n『借金2000万円を抱えた僕にドSの宇宙さんが教えてくれた超うまくいく口ぐせ』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n2:03 導入と口癖の3パターン診断\n12:10 宇宙パイプとタイムラグの仕組み\n23:01 批判とドリームキラーの正体\n29:03 なりきる実践(具体的な行動・事例)\n36:45 お金のエネルギー論と機序の説明\n46:08 家族の連鎖と結末・締め\n\n▶ 次の一冊は「習慣と人づきあいが変わる本」から: https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
+      "summary_md": "▼『借金2000万円を抱えた僕にドSの宇宙さんが教えてくれた超うまくいく口ぐせ』小池浩 著\n▶ Amazonで見る: https://www.amazon.co.jp/dp/4763135821?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b07gh7mjpt\n\n『借金2000万円を抱えた僕にドSの宇宙さんが教えてくれた超うまくいく口ぐせ』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n2:03 導入と口癖の3パターン診断\n12:10 宇宙パイプとタイムラグの仕組み\n23:01 批判とドリームキラーの正体\n29:04 なりきる実践(具体的な行動・事例)\n36:45 お金のエネルギー論と機序の説明\n46:08 家族の連鎖と結末・締め\n\n▶ 次の一冊は「習慣と人づきあいが変わる本」から: https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
       "chapters": [
         {
           "t": "0:00",
@@ -12118,7 +12118,7 @@
           "title": "批判とドリームキラーの正体"
         },
         {
-          "t": "29:03",
+          "t": "29:04",
           "title": "なりきる実践(具体的な行動・事例)"
         },
         {
@@ -12225,7 +12225,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-09-22T07:13:06.569555+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -13578,8 +13578,8 @@
       "article_reviewed_at": null,
       "goods": [],
       "indexable": false,
-      "has_raw": false,
-      "raw_type": null,
+      "has_raw": true,
+      "raw_type": "ocr",
       "updated_at": "2026-09-27T11:00:35.338644+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -18594,7 +18594,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-09-20T07:08:44.237653+00:00"
     },
     {
@@ -20639,7 +20639,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-09-20T07:08:42.789586+00:00"
     },
     {
@@ -25851,7 +25851,7 @@
           "variant": "v24_radio",
           "video_id": "SttX4Ft-t1o",
           "url": "https://youtu.be/SttX4Ft-t1o",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-09-28T08:00:00Z",
           "uploaded_at": "2026-09-27T05:17:17.265657+00:00"
         }
@@ -25913,7 +25913,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-09-27T11:04:18.135924+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
@@ -32913,8 +32913,8 @@
       "asin": "B0HFZPK3XQ",
       "slug": "let-them-theory",
       "title_book": "The Let Them Theory（レット・ゼム・セオリー　放っておこう）",
-      "title_video": "The Let Them Theory (Japanese Edition)",
-      "author": null,
+      "title_video": "【徹底解剖】THE LET THEM THEORY「放っておこう」｜メル・ロビンズ／ソーヤー・ロビンズ｜他人を放っておけ",
+      "author": "THE LET THEM THEORY「放っておこう」",
       "publisher": null,
       "genre": "自己啓発・人間関係・子育て",
       "amazon_url": "https://www.amazon.co.jp/dp/B0HFHW9TYQ?tag=otona_radio-22&linkCode=ll1",
@@ -32925,26 +32925,26 @@
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B0HFHW9TYQ.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B0HFZPK3XQ.jpg",
-      "summary_md": "▼『THE LET THEM THEORY』メル・ロビンズ 著\n▶ Amazonで見る: https://www.amazon.co.jp/dp/B0HFHW9TYQ?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b0hfzpk3xq\n\n『THE LET THEM THEORY』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n1:48 二語の定義と問題提起\n14:06 一体運用の原則\n25:20 子供への適用限界\n36:23 経済的依存という例外\n47:17 影響力行使の作法\n1:00:48 見切りの基準\n1:11:07 停滞と孤独の分岐\n1:20:47 孤独感の再定義\n1:31:53 支援の関わり方\n1:42:42 関係の継続可否の最終判断\n1:54:04 まとめと今日の一手\n\n▶ 次の一冊は「習慣と人づきあいが変わる本」から: https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
+      "summary_md": "▼『THE LET THEM THEORY「放っておこう」』メル・ロビンズ／ソーヤー・ロビンズ 著\n▶ Amazonで見る: https://www.amazon.co.jp/dp/B0HFHW9TYQ?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b0hfzpk3xq\n\n『THE LET THEM THEORY「放っておこう」』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n1:46 二語の定義と問題提起\n14:04 一体運用の原則\n25:17 子供への適用限界\n36:21 経済的依存という例外\n47:17 影響力行使の作法\n1:00:48 見切りの基準\n1:11:07 停滞と孤独の分岐\n1:20:47 孤独感の再定義\n1:31:53 支援の関わり方\n1:42:44 関係の継続可否の最終判断\n1:54:05 まとめと今日の一手\n\n▶ 次の一冊は「習慣と人づきあいが変わる本」から: https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
       "chapters": [
         {
           "t": "0:00",
           "title": "オープニング"
         },
         {
-          "t": "1:48",
+          "t": "1:46",
           "title": "二語の定義と問題提起"
         },
         {
-          "t": "14:06",
+          "t": "14:04",
           "title": "一体運用の原則"
         },
         {
-          "t": "25:20",
+          "t": "25:17",
           "title": "子供への適用限界"
         },
         {
-          "t": "36:23",
+          "t": "36:21",
           "title": "経済的依存という例外"
         },
         {
@@ -32968,15 +32968,25 @@
           "title": "支援の関わり方"
         },
         {
-          "t": "1:42:42",
+          "t": "1:42:44",
           "title": "関係の継続可否の最終判断"
         },
         {
-          "t": "1:54:04",
+          "t": "1:54:05",
           "title": "まとめと今日の一手"
         }
       ],
-      "videos": [],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "zu-gdpz55HU",
+          "url": "https://youtu.be/zu-gdpz55HU",
+          "privacy": "private",
+          "publish_at": "2026-09-29T08:00:00Z",
+          "uploaded_at": "2026-09-28T16:22:55.389521+00:00"
+        }
+      ],
       "excerpt": "『The Let Them Theory（レット・ゼム・セオリー　放っておこう）』を書評。他人の機嫌を相手に任せ、自分の次の一手だけを選ぶ二語の型を、偉人の実話と研究で読み解きます。",
       "article_category": "自己啓発",
       "article_tags": [
@@ -33034,7 +33044,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": null,
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
