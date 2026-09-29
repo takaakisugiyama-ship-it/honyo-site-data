@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:01:11.068732+00:00",
+  "generated_at": "2026-09-29T21:01:08.045752+00:00",
   "schema_version": 1,
   "count": 396,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -12166,6 +12166,15 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-09-24T02:19:33.238684+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "J_VB0YRula8",
+          "url": "https://youtu.be/J_VB0YRula8",
+          "privacy": "private",
+          "publish_at": "2026-09-30T08:00:00Z",
+          "uploaded_at": "2026-09-29T00:56:48.773579+00:00"
         }
       ],
       "excerpt": "『借金２０００万円を抱えた僕にドＳの宇宙さんが教えてくれた超うまくいく口ぐせ』を書評。自虐・懇願・夢心地の3つの口ぐせを見分け、言葉を選び直して行動を変える方法を、確かめられる部分と著者の実感を分けて読み解きます。",
@@ -12226,7 +12235,7 @@
       "indexable": false,
       "has_raw": true,
       "raw_type": "ocr",
-      "updated_at": "2026-09-22T07:13:06.569555+00:00",
+      "updated_at": "2026-09-29T00:57:01.310500+00:00",
       "indexable_withheld": "unverified_against_source: ruleset=None（原著と照合し直すまで審査面へ出さない）"
     },
     {
@@ -18521,7 +18530,7 @@
       "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/4799109561.jpg",
       "rakuten_url": null,
       "cover_scan": "/covers/B0978PBHTR.jpg",
-      "summary_md": "▼『職業、お金持ち。』冨塚あすか 著\n▶ Amazonで見る: https://www.amazon.co.jp/dp/4799109561?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b0978pbhtr\n\n『職業、お金持ち。』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n1:34 お金持ちの入り口\n7:00 節約より収入拡大\n13:59 貯金と使い切る線引き\n20:28 心を先に整える理由\n26:49 扱う金額の基準を引き上げ続ける訓練\n33:21 給与収入だけに頼らず複数の収入源を軸にする\n40:38 才能や運ではなく、今日の選択と行動で決まる\n47:55 クロージングとCTA\n\n▶ 次の一冊は「習慣と人づきあいが変わる本」から: https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
+      "summary_md": "▼『職業、お金持ち。』冨塚あすか 著\n▶ Amazonで見る: https://www.amazon.co.jp/dp/4799109561?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b0978pbhtr\n\n『職業、お金持ち。』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n1:34 お金持ちの入り口\n7:01 節約より収入拡大\n14:00 貯金と使い切る線引き\n20:30 心を先に整える理由\n26:52 扱う金額の基準を引き上げ続ける訓練\n33:24 給与収入だけに頼らず複数の収入源を軸にする\n40:44 才能や運ではなく、今日の選択と行動で決まる\n48:01 クロージングとCTA\n\n▶ 次の一冊は「習慣と人づきあいが変わる本」から: https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
       "chapters": [
         {
           "t": "0:00",
@@ -18532,31 +18541,31 @@
           "title": "お金持ちの入り口"
         },
         {
-          "t": "7:00",
+          "t": "7:01",
           "title": "節約より収入拡大"
         },
         {
-          "t": "13:59",
+          "t": "14:00",
           "title": "貯金と使い切る線引き"
         },
         {
-          "t": "20:28",
+          "t": "20:30",
           "title": "心を先に整える理由"
         },
         {
-          "t": "26:49",
+          "t": "26:52",
           "title": "扱う金額の基準を引き上げ続ける訓練"
         },
         {
-          "t": "33:21",
+          "t": "33:24",
           "title": "給与収入だけに頼らず複数の収入源を軸にする"
         },
         {
-          "t": "40:38",
+          "t": "40:44",
           "title": "才能や運ではなく、今日の選択と行動で決まる"
         },
         {
-          "t": "47:55",
+          "t": "48:01",
           "title": "クロージングとCTA"
         }
       ],
@@ -18578,6 +18587,15 @@
           "privacy": "deleted",
           "publish_at": null,
           "uploaded_at": "2026-09-23T08:18:36.512249+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "v24_radio",
+          "video_id": "75VPg4nf0Nw",
+          "url": "https://youtu.be/75VPg4nf0Nw",
+          "privacy": "private",
+          "publish_at": null,
+          "uploaded_at": "2026-09-29T10:35:43.725263+00:00"
         }
       ],
       "excerpt": null,
@@ -32982,7 +33000,7 @@
           "variant": "v24_radio",
           "video_id": "zu-gdpz55HU",
           "url": "https://youtu.be/zu-gdpz55HU",
-          "privacy": "private",
+          "privacy": "public",
           "publish_at": "2026-09-29T08:00:00Z",
           "uploaded_at": "2026-09-28T16:22:55.389521+00:00"
         }
