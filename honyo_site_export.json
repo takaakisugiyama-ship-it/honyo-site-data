@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T21:01:08.235073+00:00",
+  "generated_at": "2026-10-12T21:01:13.149734+00:00",
   "schema_version": 1,
-  "count": 398,
+  "count": 399,
   "affiliate_amazon_tag": "otona_radio-22",
   "notes": "summary_md=description.md散文(Web掲載可)。生OCR全文は非出力(著作権)。publisher/ISBN13/読了時間はパイプラインに無し。cover_scan=/covers/<asin>.jpg(ルート相対・源=assets/covers=サムネと同一クリーン書影・honyouyaku-webが/covers/でCDN配信)。契約=docs/web_data_handoff.md。",
   "books": [
@@ -15255,6 +15255,109 @@
       "summary_md": null,
       "chapters": [],
       "videos": [],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "article_reviewed_at": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": null
+    },
+    {
+      "asin": "B085C17DVR",
+      "slug": "b085c17dvr",
+      "title_book": "【草薙龍瞬朗読】反応しない練習 特別版～自分の心を失わないために～",
+      "title_video": "反応しない練習｜草薙龍瞬｜悩みは、反応を手放せば軽くなる",
+      "author": "本要約",
+      "publisher": null,
+      "genre": "自己啓発・人間関係・子育て",
+      "amazon_url": "https://www.amazon.co.jp/dp/B012EU8CD0?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "習慣と人づきあいが変わる本",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B012EU8CD0.jpg",
+      "rakuten_url": null,
+      "cover_scan": "/covers/B085C17DVR.jpg",
+      "summary_md": "▶ Amazonで見る: https://www.amazon.co.jp/dp/B012EU8CD0?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b085c17dvr\n\n『反応しない練習』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 オープニング\n1:36 悩みは心の反応から始まる\n9:47 反応の正体は3つに分けられる\n18:19 言葉にすると心は静まる\n27:53 体の感覚に戻ると頭が静まる\n36:17 判断は頭の中の妄想にすぎない\n45:04 判断を手放すと心は軽くなる\n53:47 自己否定も判断の一つにすぎない\n1:02:04 自信より、いまできることを試す\n1:10:12 相手の反応は相手に任せる\n1:19:30 関わりの目的は理解し合うこと\n1:27:51 他人の目は、承認欲が作る妄想だ\n1:36:01 勝ち負けより、納得と貢献で生きる\n1:44:57 拠り所を内の心がけに置く\n\n▶ 次の一冊は「習慣と人づきあいが変わる本」から: https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
+      "chapters": [
+        {
+          "t": "0:00",
+          "title": "オープニング"
+        },
+        {
+          "t": "1:36",
+          "title": "悩みは心の反応から始まる"
+        },
+        {
+          "t": "9:47",
+          "title": "反応の正体は3つに分けられる"
+        },
+        {
+          "t": "18:19",
+          "title": "言葉にすると心は静まる"
+        },
+        {
+          "t": "27:53",
+          "title": "体の感覚に戻ると頭が静まる"
+        },
+        {
+          "t": "36:17",
+          "title": "判断は頭の中の妄想にすぎない"
+        },
+        {
+          "t": "45:04",
+          "title": "判断を手放すと心は軽くなる"
+        },
+        {
+          "t": "53:47",
+          "title": "自己否定も判断の一つにすぎない"
+        },
+        {
+          "t": "1:02:04",
+          "title": "自信より、いまできることを試す"
+        },
+        {
+          "t": "1:10:12",
+          "title": "相手の反応は相手に任せる"
+        },
+        {
+          "t": "1:19:30",
+          "title": "関わりの目的は理解し合うこと"
+        },
+        {
+          "t": "1:27:51",
+          "title": "他人の目は、承認欲が作る妄想だ"
+        },
+        {
+          "t": "1:36:01",
+          "title": "勝ち負けより、納得と貢献で生きる"
+        },
+        {
+          "t": "1:44:57",
+          "title": "拠り所を内の心がけに置く"
+        }
+      ],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "v25_asm",
+          "video_id": "dxA4UBKD7g4",
+          "url": "https://youtu.be/dxA4UBKD7g4",
+          "privacy": "private",
+          "publish_at": "2026-10-13T17:00:00+09:00",
+          "uploaded_at": "2026-10-12T14:59:00.232585+00:00"
+        }
+      ],
       "excerpt": null,
       "article_category": null,
       "article_tags": null,
