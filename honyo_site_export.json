@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:01:13.149734+00:00",
+  "generated_at": "2026-10-13T21:01:08.735473+00:00",
   "schema_version": 1,
   "count": 399,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -15354,8 +15354,17 @@
           "video_id": "dxA4UBKD7g4",
           "url": "https://youtu.be/dxA4UBKD7g4",
           "privacy": "private",
-          "publish_at": "2026-10-13T17:00:00+09:00",
+          "publish_at": null,
           "uploaded_at": "2026-10-12T14:59:00.232585+00:00"
+        },
+        {
+          "format": "long",
+          "variant": "v25_asm",
+          "video_id": "KZNnbyzYRA4",
+          "url": "https://youtu.be/KZNnbyzYRA4",
+          "privacy": "private",
+          "publish_at": "2026-10-13T17:00:00+09:00",
+          "uploaded_at": "2026-10-13T00:08:48.845365+00:00"
         }
       ],
       "excerpt": null,
