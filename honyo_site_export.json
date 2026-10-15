@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:01:07.483916+00:00",
+  "generated_at": "2026-10-15T21:01:10.125957+00:00",
   "schema_version": 1,
   "count": 399,
   "affiliate_amazon_tag": "otona_radio-22",
@@ -16300,7 +16300,7 @@
           "variant": "v24_radio",
           "video_id": "2ofXUt6ZFwI",
           "url": "https://youtu.be/2ofXUt6ZFwI",
-          "privacy": "private",
+          "privacy": "deleted",
           "publish_at": "2026-10-04T17:00:00+09:00",
           "uploaded_at": "2026-10-03T00:27:04.300050+00:00"
         },
@@ -20833,7 +20833,7 @@
           "variant": "v24_radio",
           "video_id": "X8P2THwHH8A",
           "url": "https://youtu.be/X8P2THwHH8A",
-          "privacy": "private",
+          "privacy": "deleted",
           "publish_at": "2026-09-17T14:00:00Z",
           "uploaded_at": "2026-09-16T00:26:50.354847+00:00"
         },
@@ -20842,7 +20842,7 @@
           "variant": "v24_radio",
           "video_id": "OZwFiwMDb6g",
           "url": "https://youtu.be/OZwFiwMDb6g",
-          "privacy": "public",
+          "privacy": "deleted",
           "publish_at": "2026-09-21T10:00:00Z",
           "uploaded_at": "2026-09-16T01:56:26.555616+00:00"
         }
@@ -32239,7 +32239,7 @@
       "goods": [],
       "indexable": false,
       "has_raw": true,
-      "raw_type": "audible",
+      "raw_type": "ocr",
       "updated_at": "2026-10-03",
       "indexable_withheld": "unverified_against_source: ruleset='2026-08-18'（原著と照合し直すまで審査面へ出さない）"
     },
