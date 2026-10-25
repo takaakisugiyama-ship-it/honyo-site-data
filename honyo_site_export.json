@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T21:01:27.009669+00:00",
+  "generated_at": "2026-10-25T21:01:26.449932+00:00",
   "schema_version": 1,
-  "count": 399,
+  "count": 400,
   "affiliate_amazon_tag": "otona_radio-22",
   "notes": "summary_md=description.md散文(Web掲載可)。生OCR全文は非出力(著作権)。publisher/ISBN13/読了時間はパイプラインに無し。cover_scan=/covers/<asin>.jpg(ルート相対・源=assets/covers=サムネと同一クリーン書影・honyouyaku-webが/covers/でCDN配信)。契約=docs/web_data_handoff.md。",
   "books": [
@@ -30223,6 +30223,73 @@
       "raw_type": "ocr",
       "updated_at": "2026-07-11T14:23:08.855696+00:00",
       "indexable_withheld": "unverified_against_source: ruleset='legacy'（原著と照合し直すまで審査面へ出さない）"
+    },
+    {
+      "asin": "B0GQ6P5YF9",
+      "slug": "b0gq6p5yf9",
+      "title_book": "金閣寺・銀閣寺の住職が教える　人生は引き算で豊かになる",
+      "title_video": "人生は引き算で豊かになる｜有馬頼底｜これで十分と知る人だけが満たされる",
+      "author": "本要約",
+      "publisher": null,
+      "genre": "自己啓発・人間関係・子育て",
+      "amazon_url": "https://www.amazon.co.jp/dp/B06XXW6Z5F?tag=otona_radio-22&linkCode=ll1",
+      "shelf_name": "習慣と人づきあいが変わる本",
+      "shelf_url": "https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22",
+      "shelf_items": [],
+      "action_plans": [],
+      "amazon_cover_url": "https://images-na.ssl-images-amazon.com/images/P/B06XXW6Z5F.jpg",
+      "rakuten_url": null,
+      "cover_scan": "/covers/B0GQ6P5YF9.jpg",
+      "summary_md": "▶ Amazonで見る: https://www.amazon.co.jp/dp/B06XXW6Z5F?tag=otona_radio-22&linkCode=ll1\n▶ honyouyaku.com で読む: https://honyouyaku.com/b0gq6p5yf9\n\n『人生は引き算で豊かになる』を1冊まるごと徹底解剖。要点だけでなく、実践の手順まで踏み込んで解説します。\n知識を増やすためではなく、明日ひとつ動くための一本です。\n\n▼ チャプター\n0:00 比べる心を手放すと、「これで十分」が豊かさになる\n6:58 手に入れた物ほど、握りしめない\n12:46 特別な場所はいらない、今日の仕事が道になる\n18:47 人の目ではなく、自分が主人公でいる\n23:56 何が起きても、その日のうちにさっと転じる\n\n▶ 次の一冊は「習慣と人づきあいが変わる本」から: https://www.amazon.co.jp/shop/sugiyam/list/20SHU65Q221H4?tag=otona_radio-22\n🎧 本を耳で聴くなら、Audible の無料体験 ▶ https://www.amazon.co.jp/b/ref=adbl_JP_as_0068?ie=UTF8&node=7471076051&tag=otona_radio-22\n※この動画はAI（音声合成・画像生成）を用いて制作しています。\n絵文字の素材：Animated Noto Emoji © Google, CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）\n【PR】Amazonアソシエイトとして適格販売により収入を得ています。本動画は書籍の批評・要約・再構成で、受け取り方には個人差があります。",
+      "chapters": [
+        {
+          "t": "0:00",
+          "title": "比べる心を手放すと、「これで十分」が豊かさになる"
+        },
+        {
+          "t": "6:58",
+          "title": "手に入れた物ほど、握りしめない"
+        },
+        {
+          "t": "12:46",
+          "title": "特別な場所はいらない、今日の仕事が道になる"
+        },
+        {
+          "t": "18:47",
+          "title": "人の目ではなく、自分が主人公でいる"
+        },
+        {
+          "t": "23:56",
+          "title": "何が起きても、その日のうちにさっと転じる"
+        }
+      ],
+      "videos": [
+        {
+          "format": "long",
+          "variant": "v25_asm",
+          "video_id": "04KXDihtFes",
+          "url": "https://youtu.be/04KXDihtFes",
+          "privacy": "private",
+          "publish_at": "2026-10-25T17:00:00+09:00",
+          "uploaded_at": "2026-10-25T04:30:39.796569+00:00"
+        }
+      ],
+      "excerpt": null,
+      "article_category": null,
+      "article_tags": null,
+      "article_format": null,
+      "reading_time": null,
+      "article": null,
+      "sources": null,
+      "article_ruleset": null,
+      "article_has_source": true,
+      "article_review_status": null,
+      "article_reviewed_at": null,
+      "goods": [],
+      "indexable": false,
+      "has_raw": true,
+      "raw_type": "ocr",
+      "updated_at": null
     },
     {
       "asin": "B0GQ8G8ZC3",
